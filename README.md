@@ -35,7 +35,7 @@ Mount your shared volume so the jobs can see it (and the code) - change g.porter
 
     export LSF_DOCKER_VOLUMES='/storage1/fs1/artsci/Active/g.porter:/storage1/fs1/artsci/Active/g.porter'
 
-At this point, you have some flexibility. In this case we are going to be using an ```interactive``` job with a image focused on ```R```. It doesn't really matter because we just want an Ubuntu based image. Ubuntu will come with GCC and GCC has Gfortran (which is what we'll use to compile the code). Again, substitude your username for g.porter for your home directory. This also assumes that you are part of A&S which gives the ability for us to use the group ```compute-artsci``` and the queue ```artsci-interactive```
+At this point, you have some flexibility. In this case, we are going to be using an ```interactive``` job with a image focused on ```R```. It doesn't matter because we just want an Ubuntu-based image. Ubuntu will come with GCC and GCC has Gfortran (which is what we'll use to compile the code). Again, substitude your username for g.porter for your home directory. This also assumes that you are part of A&S which gives the ability us to use the group ```compute-artsci``` and the queue ```artsci-interactive```
 
     PATH=/home/g.porter:$PATH LSF_DOCKER_PORTS='8081:8787' bsub -Is -G compute-artsci -q artsci-interactive -M 25G -R 'select[port8081=1]' -a 'docker(rocker/verse:4.0.2)' /bin/bash
 
@@ -45,7 +45,7 @@ Navigate to the previously mounted directory
 
 If you want to compile with gfortran, the code will be in ```mloc_par_test/mloc_gfortran```
 
-Make a backup folder, move all the ```*.o``` files and ````mloc_g``` into it. This is safer than just removing stuff
+Make a backup folder, and move all the ```*.o``` files and ```mloc_g``` into it. This is safer than just removing stuff
 
     mkdir backup
     mv *.o backup/

@@ -1,0 +1,19 @@
+
+Residuals against each theoretical phase for the depth with minimum misfit
+                        MNF      pP-P      sP-P     pwP-P     Err**2
+Median of constrained depths:    0.3
+Median of input file depths:    0.5
+ STA   NETWORK    PHASE    READ  DELTA AZIM  RAY     WGT   STA  P RESIDUALS FOR ITERATION #                                                                          
+ CODE                       ERR             PARAM         CORR  *INP*   *0*    *1*    *2*    *3*    *4*          DTMPH  DTMPC    ECI AUTHOR   CHA PHASE0     MNF IDIF
+
+ CLUSTER EVENT   1           19691206.0702.59                   GOOD DATA      Depth =   0.2, fixed, from engineering information                                    
+
+ CLUSTER EVENT   2           19701212.0700.59                   GOOD DATA      Depth =   0.3, fixed, from engineering information                                    
+
+ CLUSTER EVENT   3           19701223.0700.59                   GOOD DATA      Depth =   0.3, fixed, from engineering information                                    
+
+ CLUSTER EVENT   1           19691206.0702.59                   BAD DATA       Depth =   0.2, from engineering information                                           
+
+ CLUSTER EVENT   2           19701212.0700.59                   BAD DATA       Depth =   0.3, from engineering information                                           
+
+ CLUSTER EVENT   3           19701223.0700.59                   BAD DATA       Depth =   0.3, from engineering information                                           

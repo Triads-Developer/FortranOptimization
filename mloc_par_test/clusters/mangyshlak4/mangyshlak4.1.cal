@@ -1,0 +1,130 @@
+ On    3 calibration events: 
+
+Event   1
+Cluster vector CV for event   1
+   kcrit2:    2.078
+   90% confidence ellipse:   86.932   0.291   0.371
+   Area:    0.339 km**2
+Calibration location CV for event   1
+   90% confidence ellipse:   -0.000   0.010   0.010
+   Area:    0.000 km**2
+Weights for event   1
+   w12 =   29.503
+   w3 =     1.000
+   w4 =     1.000
+Covariance matrices for calibration event   1
+    ccv:      0.066    -0.001    -0.001     0.041     0.000     0.000
+   sccv:      0.137    -0.003    -0.003     0.085     0.000     0.000
+    rcv:      0.000     0.000     0.000     0.000     0.002     1.000
+    scv:      0.138    -0.003    -0.003     0.085     0.002     1.000
+
+Event   2
+Cluster vector CV for event   2
+   kcrit2:    1.657
+   90% confidence ellipse:  -75.142   0.252   0.350
+   Area:    0.278 km**2
+Calibration location CV for event   2
+   90% confidence ellipse:   -0.000   0.010   0.010
+   Area:    0.000 km**2
+Weights for event   2
+   w12 =   35.980
+   w3 =     1.000
+   w4 =     1.000
+Covariance matrices for calibration event   2
+    ccv:      0.072     0.009     0.009     0.041     0.000     0.000
+   sccv:      0.119     0.015     0.015     0.068     0.000     0.000
+    rcv:      0.000     0.000     0.000     0.000     0.002     1.000
+    scv:      0.119     0.015     0.015     0.068     0.002     1.000
+
+Event   3
+Cluster vector CV for event   3
+   kcrit2:    2.078
+   90% confidence ellipse:   77.975   0.274   0.440
+   Area:    0.379 km**2
+Calibration location CV for event   3
+   90% confidence ellipse:   -0.000   0.010   0.010
+   Area:    0.000 km**2
+Weights for event   3
+   w12 =   26.379
+   w3 =     1.000
+   w4 =     1.000
+Covariance matrices for calibration event   3
+    ccv:      0.091    -0.012    -0.012     0.039     0.000     0.000
+   sccv:      0.188    -0.024    -0.024     0.080     0.000     0.000
+    rcv:      0.000     0.000     0.000     0.000     0.002     1.000
+    scv:      0.188    -0.024    -0.024     0.080     0.002     1.000
+
+Weighted mean (REF-SOL) calibration shift: 
+   Latitude :    0.026 deg
+   Longitude:    0.078 deg
+   Depth    :    0.000 km
+   OT       :    0.408 sec
+
+Weighted average CV for all calibration events
+gcv:      0.145    -0.002    -0.002     0.077     0.002     1.000
+
+Residual calibration shift vectors and COVP, based on SGCV
+iev     dtiev     ddiev       rvl        dx        dy      covp
+  1     0.063     0.000     0.606     0.585     0.156     2.228
+  2    -0.020     0.000     0.242    -0.153    -0.187     0.278
+  3    -0.043     0.000     0.452    -0.445     0.080     1.259
+Coverage:   1 /   3 =  0.333
+
+Radius of doubt test based on null hypothesis that all residual cluster vectors have zero length
+Critical value =      5.2 at 90%
+
+Individual event contributions to kocs2:
+  1     4.28889
+  2     0.44913
+  3     0.12304
+rdbt_test =   0.00; observed value =   4.86; null hypothesis cannot be rejected    
+rdbt1 =   0.00
+
+Radius of doubt based on coverage statistics
+
+Threshold precentage of probability for radius of doubt test: 0.10
+                  rdbt    nr    nrc    k    coverage   P(X  k)
+rdbt_test =      0.000     3     1     2     0.333     0.028; null hypothesis is rejected
+rdbt_test =      0.200     3     1     2     0.333     0.028; null hypothesis is rejected
+rdbt_test =      0.400     3     2     1     0.667     0.271; null hypothesis cannot be rejected
+rdbt2 =   0.40
+
+Inconsistency (between multiple calibration data) terms for augmented GT covariance: 
+   Epicenter:    0.000 km (rms =    0.458 km)
+   Depth    :    0.000 km (rms =    0.000 km)
+   OT       :    0.060 sec (rms =    0.045 sec)
+
+Augmented GT covariance matrix
+agcv:      0.145    -0.002    -0.002     0.077     0.002     1.004
+
+Uncertainties from the augmented GT covariance matrix:
+   Confidence ellipse:     88.221     0.277     0.381
+   Area of ellipse:    0.331 km**2
+   Equivalent circular radius (CE level) =    0.325 km
+   Depth shift uncertainty:      0.040
+   OT shift uncertainty:      1.002
+
+Cumulative uncertainty of calibration-shifted cluster events
+iev     alpha        xl        yl      area       eqr      ddep       dot      covp     caltype
+  1    87.656     0.401     0.532     0.670     0.462     0.040     1.002     2.229  systematic
+  2   -84.086     0.378     0.515     0.611     0.441     0.040     1.002     0.278  systematic
+  3    81.708     0.392     0.580     0.714     0.477     0.040     1.002     1.260  systematic
+
+CE    N   Cumulative
+ 0    0          0
+ 1    3          3
+ 2    0          3
+ 3    0          3
+ 4    0          3
+ 5    0          3
+ 6    0          3
+ 7    0          3
+ 8    0          3
+ 9    0          3
+10    0          3
+11    0          3
+
+Indirect calibration:   3 events out of   3 are CE05 or better
+
+Coverage for calibration events:   1 /   3 =  0.333
+

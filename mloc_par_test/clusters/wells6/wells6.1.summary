@@ -1,0 +1,1276 @@
+ Program: mloc v10.5.1, release date 7/22/2020
+ Run: wells6.1
+ Author: EBergman
+ Date: 20200722 221749.499
+ Travel times: ak135 (wells6/wells.cr)
+ Lg travel times:   0.00 +  31.50 * delta
+ T-phase travel times:  15.00 +  75.00 * delta
+ Station elevation correction: on (focal depth referenced to geoid in direct calibration)
+ Supplemental station file: wells6/wells_stn.dat
+ Data flags used: on 
+ Residuals weighted by reading errors: on 
+ Assume perfect theoretical TTs for hypocentroid (ttsprd = 0): off
+ Reading errors: wells6/wells5.12.rderr
+ Minimum allowed reading errors:  0.10 (local) / 0.15 (general) / 1.00 (depth phases)
+ Reading errors for local phases: Not set
+ Cluster vector fudge factor (non-gaussian):   0.00
+ Travel time spread: wells6/wells5.12.ttsprd
+ Windowing:   3.0  4.0
+ Hypocentroid bias correction: on
+ Starting locations: wells6/wells5.12.hdf_dcal
+ Direct calibration: on
+ Distance ranges:
+    Hypocentroid   :    0.0   1.0
+    Cluster vectors:    0.0 180.0
+ Hypocentroid location parameters: (lat, lon, depth, origin time)
+                                                                                                          NDATA LOST
+                         TIME        LATITUDE     LONGITUDE       DEPTH           E**2/NSTA   SHAT  PRMAX  DELT PRES FLAG
+ START                12:26:17.14      41.166      -114.889        10.1
+
+ ITER 0                      0.01 S     0.02 KM      -0.00 KM       0.30 KM      42.8/  761   1.18    4.0  8927  474 1588
+ ITER 1                      0.00 S     0.01 KM       0.01 KM       0.08 KM      42.2/  761   1.17    4.0  8927  464 1588
+ ITER 2                      0.01 S     0.00 KM       0.00 KM      -0.02 KM      42.0/  760   1.16    4.0  8927  465 1588
+
+ CUMULATIVE                  0.01 S     0.04 KM       0.01 KM       0.36 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION             12:26:17.16      41.166      -114.889        10.4
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.003 DEG     0.98 KM    ELLIPSE:  53.3 DEG   0.4 AND    0.5 KM
+
+ *************************************************************************************************************
+ cluster vector statistics   ITER      E**2/NSTA      SHATC
+                               0       6525.9/ 7194    1.02
+                               1       6465.5/ 7192    1.02
+                               2       6464.5/ 7191    1.02
+ Spread of event normalized sample variances:  0.237
+
+                                       INITIAL                      CHANGE                       FINAL
+ EVENT   1  20070228.1147.41     4.1 KM  AT  128 DEG          0.0 KM  AT    0 DEG          4.1 KM  AT  129 DEG
+ EVENT   2  20070228.1446.10     4.2 KM  AT  136 DEG          0.0 KM  AT    0 DEG          4.2 KM  AT  137 DEG
+ EVENT   3  20080221.1416.04     3.2 KM  AT  149 DEG          0.0 KM  AT    0 DEG          3.3 KM  AT  149 DEG
+ EVENT   4  20080221.1420.52     4.8 KM  AT  216 DEG          0.0 KM  AT    0 DEG          4.7 KM  AT  215 DEG
+ EVENT   5  20080221.1434.41     4.3 KM  AT  141 DEG          0.0 KM  AT    0 DEG          4.3 KM  AT  141 DEG
+ EVENT   6  20080221.1534.25     5.0 KM  AT  207 DEG          0.0 KM  AT    0 DEG          5.0 KM  AT  207 DEG
+ EVENT   7  20080221.1855.51     2.1 KM  AT  257 DEG          0.0 KM  AT    0 DEG          2.1 KM  AT  263 DEG
+ EVENT   8  20080221.1906.43     4.4 KM  AT  187 DEG          0.0 KM  AT    0 DEG          4.4 KM  AT  187 DEG
+ EVENT   9  20080221.1910.21     6.4 KM  AT  189 DEG          0.0 KM  AT    0 DEG          6.5 KM  AT  189 DEG
+ EVENT  10  20080221.2026.08     4.1 KM  AT  241 DEG          0.4 KM  AT  341 DEG          4.1 KM  AT  246 DEG
+ EVENT  11  20080221.2033.19     2.7 KM  AT  214 DEG          0.0 KM  AT    0 DEG          2.7 KM  AT  213 DEG
+ EVENT  12  20080221.2056.52     4.3 KM  AT  264 DEG          0.0 KM  AT    0 DEG          4.3 KM  AT  263 DEG
+ EVENT  13  20080221.2135.50     3.6 KM  AT  248 DEG          0.0 KM  AT    0 DEG          3.7 KM  AT  248 DEG
+ EVENT  14  20080221.2357.52     3.7 KM  AT  224 DEG          0.0 KM  AT    0 DEG          3.8 KM  AT  223 DEG
+ EVENT  15  20080222.0002.51     2.9 KM  AT  295 DEG          0.0 KM  AT    0 DEG          2.8 KM  AT  294 DEG
+ EVENT  16  20080222.0013.58    11.9 KM  AT   37 DEG          0.0 KM  AT    0 DEG         12.2 KM  AT   37 DEG
+ EVENT  17  20080222.0014.59     4.5 KM  AT  220 DEG          0.0 KM  AT    0 DEG          4.5 KM  AT  219 DEG
+ EVENT  18  20080222.0150.05     4.8 KM  AT  204 DEG          0.0 KM  AT    0 DEG          4.8 KM  AT  203 DEG
+ EVENT  19  20080222.0347.57     3.3 KM  AT  258 DEG          0.0 KM  AT    0 DEG          3.2 KM  AT  259 DEG
+ EVENT  20  20080222.0356.45     7.2 KM  AT  187 DEG          0.0 KM  AT    0 DEG          7.2 KM  AT  187 DEG
+ EVENT  21  20080222.0759.13     5.1 KM  AT  236 DEG          0.0 KM  AT    0 DEG          5.1 KM  AT  235 DEG
+ EVENT  22  20080222.1145.02     4.1 KM  AT  242 DEG          0.0 KM  AT    0 DEG          4.0 KM  AT  245 DEG
+ EVENT  23  20080222.1922.29     4.1 KM  AT  184 DEG          0.0 KM  AT    0 DEG          4.2 KM  AT  184 DEG
+ EVENT  24  20080222.2120.58     2.3 KM  AT  246 DEG          0.0 KM  AT    0 DEG          2.2 KM  AT  240 DEG
+ EVENT  25  20080222.2327.45     5.4 KM  AT  199 DEG          0.0 KM  AT    0 DEG          5.4 KM  AT  199 DEG
+ EVENT  26  20080223.0254.57    12.5 KM  AT    9 DEG          0.0 KM  AT    0 DEG         12.6 KM  AT    9 DEG
+ EVENT  27  20080224.1746.23     1.8 KM  AT  308 DEG          0.0 KM  AT    0 DEG          1.8 KM  AT  308 DEG
+ EVENT  28  20080224.1840.45     3.7 KM  AT  100 DEG          0.0 KM  AT    0 DEG          3.7 KM  AT  100 DEG
+ EVENT  29  20080225.1901.36     3.2 KM  AT  173 DEG          0.0 KM  AT    0 DEG          3.0 KM  AT  175 DEG
+ EVENT  30  20080226.0222.23     8.1 KM  AT   25 DEG          0.0 KM  AT    0 DEG          8.1 KM  AT   25 DEG
+ EVENT  31  20080226.0248.45    12.5 KM  AT   11 DEG          0.0 KM  AT    0 DEG         12.5 KM  AT   11 DEG
+ EVENT  32  20080226.0347.14    12.9 KM  AT   10 DEG          0.0 KM  AT    0 DEG         12.9 KM  AT    9 DEG
+ EVENT  33  20080226.2046.45    12.3 KM  AT   10 DEG          0.0 KM  AT    0 DEG         12.3 KM  AT   10 DEG
+ EVENT  34  20080227.0759.39     4.9 KM  AT   54 DEG          0.0 KM  AT    0 DEG          4.9 KM  AT   54 DEG
+ EVENT  35  20080228.1402.16     1.9 KM  AT  256 DEG          0.0 KM  AT    0 DEG          1.9 KM  AT  257 DEG
+ EVENT  36  20080228.1510.38     3.7 KM  AT  230 DEG          0.0 KM  AT    0 DEG          3.9 KM  AT  232 DEG
+ EVENT  37  20080229.2119.24     5.0 KM  AT   34 DEG          0.0 KM  AT    0 DEG          4.9 KM  AT   34 DEG
+ EVENT  38  20080304.1521.13     2.4 KM  AT   28 DEG          0.0 KM  AT    0 DEG          2.4 KM  AT   29 DEG
+ EVENT  39  20080306.0205.55     3.1 KM  AT   17 DEG          0.0 KM  AT    0 DEG          3.1 KM  AT   17 DEG
+ EVENT  40  20080313.0847.32     7.1 KM  AT  186 DEG          0.0 KM  AT    0 DEG          7.2 KM  AT  186 DEG
+ EVENT  41  20080314.0739.06     4.5 KM  AT  205 DEG          0.0 KM  AT    0 DEG          4.5 KM  AT  205 DEG
+ EVENT  42  20080315.1622.33     4.7 KM  AT  204 DEG          0.0 KM  AT    0 DEG          4.8 KM  AT  202 DEG
+ EVENT  43  20080330.1332.18     5.8 KM  AT  219 DEG          0.0 KM  AT    0 DEG          5.8 KM  AT  219 DEG
+ EVENT  44  20080401.1316.18     7.6 KM  AT   38 DEG          0.0 KM  AT    0 DEG          7.6 KM  AT   38 DEG
+ EVENT  45  20080422.2040.09     6.5 KM  AT   37 DEG          0.0 KM  AT    0 DEG          6.5 KM  AT   37 DEG
+ EVENT  46  20080606.0322.02     6.0 KM  AT  205 DEG          0.0 KM  AT    0 DEG          6.0 KM  AT  204 DEG
+ EVENT  47  20080709.0046.40     5.3 KM  AT   51 DEG          0.0 KM  AT    0 DEG          5.3 KM  AT   51 DEG
+ EVENT  48  20080812.1058.45     5.2 KM  AT   56 DEG          0.0 KM  AT    0 DEG          5.1 KM  AT   56 DEG
+ EVENT  49  20090310.0550.07     6.3 KM  AT   46 DEG          0.0 KM  AT    0 DEG          6.4 KM  AT   46 DEG
+
+ *******************************************************************************************************************
+ DATA IMPORTANCE:               NNE    NE   ENE   ESE    SE   SSE   SSW    SW   WSW   WNW    NW   NNW
+  HYPOCENTROID:               0.000 0.024 0.110 0.000 0.129 0.101 0.109 0.202 0.073 0.100 0.017 0.135
+  EVENT   1  20070228.1147.41 0.088 0.037 0.079 0.081 0.073 0.124 0.073 0.065 0.086 0.059 0.075 0.158   ------------
+  EVENT   2  20070228.1446.10 0.087 0.029 0.083 0.120 0.054 0.113 0.089 0.042 0.051 0.088 0.098 0.145   ------------
+  EVENT   3  20080221.1416.04 0.097 0.081 0.090 0.100 0.059 0.087 0.121 0.060 0.089 0.025 0.106 0.085   ------------
+  EVENT   4  20080221.1420.52 0.222 0.011 0.089 0.185 0.002 0.000 0.002 0.344 0.070 0.000 0.060 0.015   ----000--0--
+  EVENT   5  20080221.1434.41 0.088 0.096 0.079 0.057 0.100 0.101 0.119 0.117 0.122 0.038 0.039 0.045   ------------
+  EVENT   6  20080221.1534.25 0.090 0.056 0.086 0.071 0.230 0.105 0.053 0.066 0.093 0.049 0.049 0.053   ------------
+  EVENT   7  20080221.1855.51 0.083 0.042 0.144 0.124 0.054 0.112 0.090 0.065 0.098 0.044 0.082 0.063   ------------
+  EVENT   8  20080221.1906.43 0.085 0.053 0.076 0.161 0.012 0.104 0.135 0.073 0.104 0.057 0.083 0.057   ------------
+  EVENT   9  20080221.1910.21 0.056 0.038 0.106 0.111 0.079 0.122 0.103 0.060 0.078 0.053 0.117 0.077   ------------
+  EVENT  10  20080221.2026.08 0.099 0.034 0.115 0.134 0.042 0.107 0.173 0.010 0.095 0.042 0.080 0.068   -------0----
+  EVENT  11  20080221.2033.19 0.054 0.079 0.116 0.110 0.069 0.092 0.124 0.041 0.072 0.041 0.133 0.070   ------------
+  EVENT  12  20080221.2056.52 0.083 0.058 0.075 0.316 0.079 0.047 0.112 0.022 0.068 0.037 0.054 0.049   ------------
+  EVENT  13  20080221.2135.50 0.050 0.122 0.096 0.137 0.044 0.110 0.150 0.017 0.087 0.058 0.081 0.048   ------------
+  EVENT  14  20080221.2357.52 0.104 0.091 0.101 0.116 0.056 0.106 0.102 0.076 0.089 0.042 0.064 0.053   ------------
+  EVENT  15  20080222.0002.51 0.066 0.083 0.094 0.092 0.092 0.133 0.127 0.005 0.100 0.041 0.095 0.071   -------0----
+  EVENT  16  20080222.0013.58 0.005 0.093 0.121 0.099 0.072 0.127 0.062 0.112 0.022 0.079 0.107 0.101   0-----------
+  EVENT  17  20080222.0014.59 0.074 0.083 0.100 0.123 0.052 0.111 0.093 0.048 0.117 0.062 0.089 0.047   ------------
+  EVENT  18  20080222.0150.05 0.102 0.084 0.094 0.128 0.049 0.088 0.109 0.069 0.118 0.058 0.068 0.034   ------------
+  EVENT  19  20080222.0347.57 0.077 0.082 0.114 0.126 0.070 0.111 0.121 0.025 0.106 0.036 0.077 0.056   ------------
+  EVENT  20  20080222.0356.45 0.044 0.065 0.097 0.086 0.067 0.081 0.161 0.089 0.066 0.046 0.081 0.117   ------------
+  EVENT  21  20080222.0759.13 0.077 0.066 0.092 0.151 0.047 0.113 0.135 0.044 0.096 0.050 0.066 0.063   ------------
+  EVENT  22  20080222.1145.02 0.192 0.046 0.064 0.256 0.059 0.007 0.263 0.000 0.035 0.044 0.000 0.033   -----0-0--0-
+  EVENT  23  20080222.1922.29 0.061 0.067 0.074 0.100 0.201 0.103 0.084 0.055 0.090 0.042 0.051 0.073   ------------
+  EVENT  24  20080222.2120.58 0.066 0.061 0.117 0.147 0.073 0.086 0.100 0.046 0.120 0.050 0.074 0.060   ------------
+  EVENT  25  20080222.2327.45 0.066 0.079 0.109 0.104 0.047 0.118 0.135 0.066 0.112 0.046 0.043 0.075   ------------
+  EVENT  26  20080223.0254.57 0.051 0.101 0.109 0.076 0.098 0.071 0.133 0.032 0.080 0.076 0.075 0.098   ------------
+  EVENT  27  20080224.1746.23 0.069 0.048 0.151 0.046 0.099 0.092 0.086 0.006 0.084 0.087 0.132 0.101   -------0----
+  EVENT  28  20080224.1840.45 0.087 0.070 0.109 0.004 0.172 0.088 0.078 0.062 0.058 0.065 0.125 0.083   ---0--------
+  EVENT  29  20080225.1901.36 0.036 0.065 0.103 0.136 0.075 0.101 0.103 0.083 0.074 0.069 0.064 0.092   ------------
+  EVENT  30  20080226.0222.23 0.036 0.112 0.108 0.096 0.092 0.135 0.107 0.075 0.030 0.054 0.074 0.080   ------------
+  EVENT  31  20080226.0248.45 0.063 0.110 0.117 0.056 0.117 0.096 0.123 0.054 0.063 0.049 0.072 0.080   ------------
+  EVENT  32  20080226.0347.14 0.051 0.111 0.106 0.049 0.097 0.120 0.132 0.058 0.058 0.055 0.086 0.077   ------------
+  EVENT  33  20080226.2046.45 0.051 0.107 0.130 0.048 0.101 0.119 0.143 0.062 0.026 0.057 0.061 0.094   ------------
+  EVENT  34  20080227.0759.39 0.088 0.064 0.091 0.070 0.100 0.110 0.144 0.069 0.076 0.044 0.081 0.063   ------------
+  EVENT  35  20080228.1402.16 0.071 0.113 0.095 0.171 0.040 0.091 0.096 0.042 0.133 0.018 0.099 0.032   ------------
+  EVENT  36  20080228.1510.38 0.095 0.070 0.087 0.121 0.181 0.114 0.063 0.053 0.097 0.041 0.033 0.045   ------------
+  EVENT  37  20080229.2119.24 0.073 0.124 0.116 0.078 0.123 0.105 0.089 0.049 0.017 0.078 0.073 0.074   ------------
+  EVENT  38  20080304.1521.13 0.034 0.083 0.096 0.100 0.123 0.105 0.106 0.027 0.074 0.058 0.113 0.080   ------------
+  EVENT  39  20080306.0205.55 0.055 0.056 0.080 0.152 0.078 0.093 0.138 0.021 0.130 0.051 0.068 0.078   ------------
+  EVENT  40  20080313.0847.32 0.086 0.057 0.087 0.094 0.053 0.119 0.072 0.088 0.077 0.082 0.103 0.082   ------------
+  EVENT  41  20080314.0739.06 0.053 0.087 0.078 0.126 0.046 0.101 0.138 0.048 0.071 0.073 0.109 0.070   ------------
+  EVENT  42  20080315.1622.33 0.079 0.095 0.118 0.079 0.033 0.088 0.095 0.085 0.057 0.054 0.096 0.121   ------------
+  EVENT  43  20080330.1332.18 0.097 0.072 0.107 0.144 0.035 0.071 0.136 0.038 0.051 0.033 0.160 0.056   ------------
+  EVENT  44  20080401.1316.18 0.068 0.077 0.095 0.065 0.088 0.127 0.085 0.054 0.019 0.085 0.077 0.158   ------------
+  EVENT  45  20080422.2040.09 0.085 0.073 0.081 0.057 0.075 0.138 0.113 0.128 0.013 0.018 0.090 0.130   ------------
+  EVENT  46  20080606.0322.02 0.154 0.062 0.108 0.131 0.078 0.093 0.101 0.045 0.061 0.041 0.063 0.063   ------------
+  EVENT  47  20080709.0046.40 0.075 0.060 0.097 0.081 0.109 0.107 0.099 0.053 0.035 0.064 0.066 0.154   ------------
+  EVENT  48  20080812.1058.45 0.105 0.090 0.133 0.100 0.127 0.158 0.083 0.020 0.060 0.000 0.090 0.033   ---------0--
+  EVENT  49  20090310.0550.07 0.139 0.126 0.068 0.042 0.171 0.043 0.000 0.279 0.038 0.000 0.000 0.095   ------0--00-
+  CLUSTER VECTORS:            0.079 0.075 0.100 0.109 0.084 0.101 0.108 0.063 0.075 0.050 0.080 0.077
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   1 20070228.1147.41                        wells6/20070228.1147.41.mnf
+ MAG    3.4
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/28/2007   11:47:41.19      41.124      -114.861         1.6
+ START    2/28/2007   11:47:40.72      41.143      -114.850        11.9
+
+ ITER 0                      0.03 S    -0.19 KM       0.03 KM       0.08 KM     243.8/ 234      0.7/  16    4.0   272   21   42
+ ITER 1                     -0.01 S     0.08 KM      -0.05 KM      -0.13 KM     232.3/ 234      0.7/  16    4.0   272   21   42
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM     232.2/ 234      0.7/  16    4.0   272   21   42
+
+  CUMULATIVE                 0.01 S    -0.11 KM      -0.02 KM      -0.02 KM    AZIM =  192 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S    -0.07 KM      -0.01 KM       0.34 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/28/2007  11:47:40.75      41.143      -114.851        12.3
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.34 KM    ELLIPSE:  -3.6 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.44 S     0.018 DEG     0.011 DEG    10.65 KM    AZIM =   24 DEG    DIST =  2.2 KM
+
+ Normalized sample variance for cluster vector:  1.001 (   0.00)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   2 20070228.1446.10                        wells6/20070228.1446.10.mnf
+ MAG    3.1
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/28/2007   14:46:10.26      41.147      -114.860         4.4
+ START    2/28/2007   14:46: 9.48      41.139      -114.854        10.9
+
+ ITER 0                      0.02 S    -0.15 KM       0.16 KM       0.02 KM     202.3/ 171      0.7/  16    4.0   180    9   17
+ ITER 1                     -0.01 S     0.07 KM      -0.19 KM       0.02 KM     170.2/ 169      0.7/  16    4.0   180    9   17
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM     170.2/ 169      0.7/  16    4.0   180    9   17
+
+  CUMULATIVE                 0.01 S    -0.08 KM      -0.03 KM       0.07 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S    -0.04 KM      -0.02 KM       0.43 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/28/2007  14:46: 9.51      41.138      -114.854        11.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.35 KM    ELLIPSE: -15.6 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.75 S    -0.009 DEG     0.006 DEG     6.96 KM    AZIM =  153 DEG    DIST =  1.1 KM
+
+ Normalized sample variance for cluster vector:  1.019 (   0.08)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   3 20080221.1416.04                        wells6/20080221.1416.04.mnf
+ MAG    5.8
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   14:16: 4.45      41.100      -114.876        10.0
+ START    2/21/2008   14:16: 2.04      41.141      -114.869        11.3
+
+ ITER 0                     -0.01 S     0.02 KM      -0.01 KM      -0.07 KM     337.6/ 511      0.5/   9    4.0  1758   72  361
+ ITER 1                     -0.00 S    -0.06 KM       0.03 KM      -0.18 KM     342.3/ 511      0.5/   9    4.0  1758   72  361
+ ITER 2                     -0.00 S    -0.00 KM      -0.00 KM       0.03 KM     342.3/ 511      0.5/   9    4.0  1758   72  361
+
+  CUMULATIVE                -0.01 S    -0.04 KM       0.02 KM      -0.22 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.00 KM       0.03 KM       0.13 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  14:16: 2.04      41.141      -114.869        11.4
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.40 KM    ELLIPSE:   3.0 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -2.41 S     0.040 DEG     0.007 DEG     1.44 KM    AZIM =    8 DEG    DIST =  4.5 KM
+
+ Normalized sample variance for cluster vector:  0.674 (  -1.38)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   4 20080221.1420.52                        wells6/20080221.1420.52.mnf
+ MAG    4.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   14:20:52.10      41.112      -114.925        10.0
+ START    2/21/2008   14:20:50.79      41.131      -114.922        10.8
+
+ ITER 0                      0.08 S    -0.36 KM       0.09 KM       0.66 KM      38.0/  43      0.7/   3    4.0    58    5   17
+ ITER 1                     -0.09 S     0.43 KM       0.04 KM      -1.22 KM      41.8/  43      0.7/   3    4.0    58    5   17
+ ITER 2                     -0.00 S    -0.03 KM       0.00 KM       0.05 KM      41.8/  43      0.7/   3    4.0    58    5   17
+
+  CUMULATIVE                -0.02 S     0.04 KM       0.14 KM      -0.51 KM    AZIM =   75 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.01 S     0.08 KM       0.15 KM      -0.15 KM    AZIM =   63 DEG    DIST =  0.2 KM
+
+ SOLUTION  2/21/2008  14:20:50.78      41.131      -114.921        10.7
+ STANDARD ERRORS             0.17 S     0.008 DEG     0.009 DEG     1.30 KM    ELLIPSE:  50.3 DEG   1.3 AND    2.2 KM
+
+ SOLUTION-INPUT             -1.32 S     0.019 DEG     0.004 DEG     0.68 KM    AZIM =    9 DEG    DIST =  2.1 KM
+
+ Normalized sample variance for cluster vector:  1.018 (   0.08)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   5 20080221.1434.41                        wells6/20080221.1434.41.mnf
+ MAG    4.2
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   14:34:41.76      41.104      -114.859         5.8
+ START    2/21/2008   14:34:41.35      41.136      -114.857        12.4
+
+ ITER 0                     -0.00 S    -0.02 KM       0.03 KM       0.00 KM     135.3/ 139      0.8/  10    4.0   194   39   65
+ ITER 1                     -0.01 S    -0.02 KM      -0.01 KM      -0.30 KM     141.6/ 139      0.8/  10    4.0   194   39   65
+ ITER 2                     -0.00 S     0.00 KM       0.00 KM       0.02 KM     141.7/ 139      0.8/  10    4.0   194   39   65
+
+  CUMULATIVE                -0.02 S    -0.04 KM       0.02 KM      -0.28 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.01 S    -0.00 KM       0.03 KM       0.08 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  14:34:41.34      41.136      -114.857        12.4
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.43 KM    ELLIPSE:  36.2 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.42 S     0.032 DEG     0.003 DEG     6.64 KM    AZIM =    3 DEG    DIST =  3.5 KM
+
+ Normalized sample variance for cluster vector:  1.034 (   0.14)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   6 20080221.1534.25                        wells6/20080221.1534.25.mnf
+ MAG    3.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   15:34:25.73      41.100      -114.923        10.0
+ START    2/21/2008   15:34:24.80      41.126      -114.916        10.4
+
+ ITER 0                      0.01 S    -0.03 KM      -0.04 KM       0.08 KM     190.5/ 222      0.9/  15    4.0   245   13   35
+ ITER 1                      0.00 S     0.01 KM       0.02 KM       0.09 KM     225.0/ 223      0.9/  15    4.0   245   13   35
+ ITER 2                      0.00 S    -0.01 KM       0.00 KM       0.09 KM     224.9/ 223      0.9/  15    4.0   245   13   35
+
+  CUMULATIVE                 0.02 S    -0.03 KM      -0.02 KM       0.27 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S     0.01 KM      -0.01 KM       0.63 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  15:34:24.84      41.126      -114.916        11.0
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.08 KM    ELLIPSE:  14.3 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.89 S     0.026 DEG     0.008 DEG     1.05 KM    AZIM =   12 DEG    DIST =  3.0 KM
+
+ Normalized sample variance for cluster vector:  1.017 (   0.07)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   7 20080221.1855.51                        wells6/20080221.1855.51.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   18:55:51.25      41.114      -114.915         5.0
+ START    2/21/2008   18:55:50.55      41.161      -114.914         9.5
+
+ ITER 0                     -0.05 S     0.20 KM      -0.07 KM      -0.28 KM      65.0/  78      0.8/  16    4.0    66    0    2
+ ITER 1                     -0.01 S     0.04 KM       0.04 KM      -0.15 KM      65.7/  78      0.8/  16    4.0    66    0    2
+ ITER 2                      0.00 S    -0.00 KM       0.00 KM       0.04 KM      65.7/  78      0.8/  16    4.0    66    0    2
+
+  CUMULATIVE                -0.06 S     0.24 KM      -0.03 KM      -0.39 KM    AZIM =  353 DEG    DIST =  0.2 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.05 S     0.28 KM      -0.02 KM      -0.03 KM    AZIM =  356 DEG    DIST =  0.3 KM
+
+ SOLUTION  2/21/2008  18:55:50.50      41.164      -114.914         9.4
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.46 KM    ELLIPSE:  34.9 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.75 S     0.050 DEG     0.001 DEG     4.44 KM    AZIM =    1 DEG    DIST =  5.5 KM
+
+ Normalized sample variance for cluster vector:  0.870 (  -0.55)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   8 20080221.1906.43                        wells6/20080221.1906.43.mnf
+ MAG    2.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   19: 6:43.47      41.112      -114.900        13.9
+ START    2/21/2008   19: 6:42.65      41.126      -114.895         9.8
+
+ ITER 0                     -0.00 S     0.01 KM       0.02 KM       0.05 KM      80.1/  68      0.3/  12    4.0    61    0    5
+ ITER 1                     -0.00 S    -0.02 KM      -0.01 KM      -0.13 KM      80.5/  68      0.3/  12    4.0    61    0    5
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM      80.4/  68      0.3/  12    4.0    61    0    5
+
+  CUMULATIVE                -0.01 S    -0.01 KM       0.01 KM      -0.05 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.03 KM       0.02 KM       0.31 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  19: 6:42.66      41.126      -114.895        10.1
+ STANDARD ERRORS             0.09 S     0.002 DEG     0.003 DEG     0.55 KM    ELLIPSE:  72.1 DEG   0.5 AND    0.6 KM
+
+ SOLUTION-INPUT             -0.81 S     0.014 DEG     0.005 DEG    -3.81 KM    AZIM =   15 DEG    DIST =  1.7 KM
+
+ Normalized sample variance for cluster vector:  1.209 (   0.88)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT   9 20080221.1910.21                        wells6/20080221.1910.21.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   19:10:21.66      41.102      -114.903        11.6
+ START    2/21/2008   19:10:20.91      41.109      -114.901        10.9
+
+ ITER 0                      0.00 S    -0.02 KM       0.01 KM      -0.03 KM      97.7/  79      0.6/  13    4.0    77    0    9
+ ITER 1                     -0.00 S    -0.03 KM       0.01 KM      -0.15 KM      98.7/  79      0.6/  13    4.0    77    0    9
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM      98.7/  79      0.6/  13    4.0    77    0    9
+
+  CUMULATIVE                -0.01 S    -0.05 KM       0.02 KM      -0.15 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S    -0.01 KM       0.03 KM       0.21 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  19:10:20.91      41.108      -114.901        11.1
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.43 KM    ELLIPSE:   2.5 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.75 S     0.006 DEG     0.002 DEG    -0.47 KM    AZIM =   13 DEG    DIST =  0.7 KM
+
+ Normalized sample variance for cluster vector:  1.272 (   1.15)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  10 20080221.2026.08                        wells6/20080221.2026.08.mnf
+ MAG    2.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   20:26: 8.99      41.122      -114.953         5.0
+ START    2/21/2008   20:26: 8.49      41.148      -114.932         9.3
+
+ ITER 0                     -0.04 S     0.22 KM      -0.07 KM      -0.09 KM     108.5/  81      7.6/  15    4.0    72    0    6
+ ITER 1                     -0.02 S     0.12 KM      -0.04 KM      -0.20 KM     108.6/  81      7.2/  15    4.0    72    0    6
+ ITER 2                     -0.00 S    -0.00 KM      -0.00 KM       0.05 KM     108.6/  81      7.0/  15    4.0    72    0    6
+
+  CUMULATIVE                -0.06 S     0.33 KM      -0.11 KM      -0.25 KM    AZIM =  341 DEG    DIST =  0.4 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.04 S     0.37 KM      -0.10 KM       0.11 KM    AZIM =  344 DEG    DIST =  0.4 KM
+
+ SOLUTION  2/21/2008  20:26: 8.45      41.151      -114.933         9.4
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.46 KM    ELLIPSE:  32.4 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.54 S     0.029 DEG     0.020 DEG     4.44 KM    AZIM =   27 DEG    DIST =  3.6 KM
+
+ Normalized sample variance for cluster vector:  1.361 (   1.53)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  11 20080221.2033.19                        wells6/20080221.2033.19.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   20:33:19.26      41.120      -114.805         5.0
+ START    2/21/2008   20:33:19.20      41.146      -114.907        10.0
+
+ ITER 0                      0.01 S    -0.04 KM       0.02 KM       0.08 KM      97.1/  76      0.2/  10    4.0    75    1    9
+ ITER 1                     -0.00 S    -0.02 KM       0.01 KM      -0.13 KM      97.0/  76      0.2/  10    4.0    75    1    9
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM      96.9/  76      0.2/  10    4.0    75    1    9
+
+  CUMULATIVE                -0.00 S    -0.05 KM       0.03 KM      -0.02 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S    -0.01 KM       0.04 KM       0.34 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  20:33:19.22      41.146      -114.906        10.3
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.43 KM    ELLIPSE:  14.6 DEG   0.5 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.04 S     0.026 DEG    -0.101 DEG     5.35 KM    AZIM =  289 DEG    DIST =  9.0 KM
+
+ Normalized sample variance for cluster vector:  1.298 (   1.26)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  12 20080221.2056.52                        wells6/20080221.2056.52.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   20:56:52.91      41.167      -114.941         4.0
+ START    2/21/2008   20:56:52.25      41.162      -114.940         8.2
+
+ ITER 0                      0.01 S    -0.03 KM      -0.01 KM       0.16 KM      61.3/  85      0.3/  10    4.0    78    0    4
+ ITER 1                     -0.01 S    -0.04 KM      -0.00 KM      -0.20 KM      61.3/  85      0.3/  10    4.0    78    0    4
+ ITER 2                     -0.00 S     0.01 KM      -0.02 KM      -0.01 KM      61.1/  85      0.3/  10    4.0    78    0    4
+
+  CUMULATIVE                -0.01 S    -0.06 KM      -0.03 KM      -0.05 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S    -0.02 KM      -0.02 KM       0.31 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  20:56:52.26      41.162      -114.940         8.5
+ STANDARD ERRORS             0.07 S     0.002 DEG     0.002 DEG     0.03 KM    ELLIPSE:  18.5 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.65 S    -0.005 DEG     0.001 DEG     4.48 KM    AZIM =  170 DEG    DIST =  0.6 KM
+
+ Normalized sample variance for cluster vector:  0.746 (  -1.08)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  13 20080221.2135.50                        wells6/20080221.2135.50.mnf
+ MAG    2.9
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   21:35:50.94      41.142      -114.922         3.4
+ START    2/21/2008   21:35:50.16      41.153      -114.929         8.3
+
+ ITER 0                     -0.00 S    -0.00 KM      -0.02 KM       0.05 KM     107.1/ 119      0.7/  14    4.0   117    6   10
+ ITER 1                     -0.02 S    -0.01 KM      -0.03 KM      -0.27 KM     102.1/ 120      0.7/  14    4.0   117    5   10
+ ITER 2                      0.01 S    -0.00 KM       0.00 KM       0.10 KM     101.9/ 120      0.7/  14    4.0   117    5   10
+
+  CUMULATIVE                -0.01 S    -0.01 KM      -0.04 KM      -0.11 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.03 KM      -0.03 KM       0.25 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  21:35:50.16      41.154      -114.929         8.5
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.47 KM    ELLIPSE:  33.5 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.78 S     0.012 DEG    -0.007 DEG     5.12 KM    AZIM =  334 DEG    DIST =  1.4 KM
+
+ Normalized sample variance for cluster vector:  0.867 (  -0.56)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  14 20080221.2357.52                        wells6/20080221.2357.52.mnf
+ MAG    4.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/21/2008   23:57:52.13      41.103      -114.947        10.0
+ START    2/21/2008   23:57:50.45      41.141      -114.920         9.5
+
+ ITER 0                     -0.00 S    -0.02 KM      -0.01 KM       0.01 KM     266.6/ 311      0.9/  13    4.0   335   10   34
+ ITER 1                     -0.01 S    -0.03 KM      -0.01 KM      -0.22 KM     265.6/ 311      0.9/  13    4.0   335   10   34
+ ITER 2                     -0.00 S    -0.00 KM       0.00 KM       0.04 KM     265.2/ 311      0.9/  13    4.0   335   10   34
+
+  CUMULATIVE                -0.01 S    -0.05 KM      -0.02 KM      -0.18 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.00 S    -0.01 KM      -0.01 KM       0.18 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/21/2008  23:57:50.45      41.141      -114.920         9.7
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.41 KM    ELLIPSE:  19.2 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -1.68 S     0.039 DEG     0.027 DEG    -0.33 KM    AZIM =   27 DEG    DIST =  4.8 KM
+
+ Normalized sample variance for cluster vector:  0.860 (  -0.59)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  15 20080222.0002.51                        wells6/20080222.0002.51.mnf
+ MAG    2.8
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    0: 2:51.87      41.155      -114.924        14.2
+ START    2/22/2008    0: 2:51.03      41.177      -114.920         8.7
+
+ ITER 0                      0.04 S    -0.09 KM       0.05 KM       0.26 KM      50.1/  56      0.7/  15    4.0    47    0    7
+ ITER 1                     -0.00 S    -0.02 KM       0.01 KM      -0.15 KM      50.0/  56      0.7/  15    4.0    47    0    7
+ ITER 2                     -0.01 S     0.00 KM       0.00 KM       0.03 KM      49.9/  56      0.7/  15    4.0    47    0    7
+
+  CUMULATIVE                 0.03 S    -0.11 KM       0.05 KM       0.15 KM    AZIM =  155 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.04 S    -0.07 KM       0.06 KM       0.51 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008   0: 2:51.07      41.176      -114.919         9.2
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.44 KM    ELLIPSE:  17.7 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.80 S     0.021 DEG     0.005 DEG    -5.01 KM    AZIM =   10 DEG    DIST =  2.4 KM
+
+ Normalized sample variance for cluster vector:  0.928 (  -0.30)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  16 20080222.0013.58                        wells6/20080222.0013.58.mnf
+ MAG    2.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    0:13:58.18      41.202      -114.779         4.0
+ START    2/22/2008    0:13:57.26      41.251      -114.803        11.6
+
+ ITER 0                      0.01 S     0.04 KM       0.08 KM      -0.03 KM      71.4/  56      0.4/  14    4.0    49    0    8
+ ITER 1                      0.01 S     0.15 KM       0.12 KM      -0.09 KM      75.8/  56      0.4/  14    4.0    49    0    8
+ ITER 2                     -0.01 S     0.00 KM       0.00 KM       0.02 KM      76.0/  56      0.4/  14    4.0    49    0    8
+
+  CUMULATIVE                 0.02 S     0.19 KM       0.21 KM      -0.10 KM    AZIM =   48 DEG    DIST =  0.3 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S     0.22 KM       0.21 KM       0.26 KM    AZIM =   44 DEG    DIST =  0.3 KM
+
+ SOLUTION  2/22/2008   0:13:57.29      41.253      -114.801        11.9
+ STANDARD ERRORS             0.07 S     0.002 DEG     0.002 DEG     0.45 KM    ELLIPSE:   5.9 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.89 S     0.051 DEG    -0.022 DEG     7.86 KM    AZIM =  342 DEG    DIST =  6.0 KM
+
+ Normalized sample variance for cluster vector:  1.386 (   1.63)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  17 20080222.0014.59                        wells6/20080222.0014.59.mnf
+ MAG    2.8
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    0:14:59.59      41.107      -114.922        13.7
+ START    2/22/2008    0:14:58.79      41.134      -114.924         9.3
+
+ ITER 0                      0.01 S     0.02 KM       0.00 KM       0.10 KM      96.8/  75      0.6/  15    4.0    69    3   13
+ ITER 1                      0.02 S    -0.08 KM       0.05 KM       0.19 KM      94.8/  75      0.6/  15    4.0    69    3   13
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM      94.8/  75      0.6/  15    4.0    69    3   13
+
+  CUMULATIVE                 0.02 S    -0.06 KM       0.05 KM       0.32 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S    -0.02 KM       0.06 KM       0.68 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008   0:14:58.82      41.134      -114.923        10.0
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.44 KM    ELLIPSE:  49.4 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.77 S     0.027 DEG    -0.001 DEG    -3.71 KM    AZIM =  358 DEG    DIST =  3.0 KM
+
+ Normalized sample variance for cluster vector:  1.287 (   1.21)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  18 20080222.0150.05                        wells6/20080222.0150.05.mnf
+ MAG    4.0
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    1:50: 5.84      41.106      -114.894        10.0
+ START    2/22/2008    1:50: 4.58      41.126      -114.912         9.5
+
+ ITER 0                      0.01 S    -0.01 KM       0.05 KM       0.13 KM     203.4/ 306      0.6/  13    4.0   353   25   51
+ ITER 1                     -0.01 S    -0.03 KM      -0.02 KM      -0.21 KM     203.7/ 307      0.6/  13    4.0   353   25   51
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM     203.8/ 307      0.6/  13    4.0   353   25   51
+
+  CUMULATIVE                -0.00 S    -0.04 KM       0.03 KM      -0.05 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.00 KM       0.04 KM       0.31 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008   1:50: 4.59      41.126      -114.911         9.8
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.36 KM    ELLIPSE:  40.3 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -1.25 S     0.020 DEG    -0.018 DEG    -0.20 KM    AZIM =  326 DEG    DIST =  2.7 KM
+
+ Normalized sample variance for cluster vector:  0.671 (  -1.39)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  19 20080222.0347.57                        wells6/20080222.0347.57.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    3:47:57.69      41.082      -114.879         5.0
+ START    2/22/2008    3:47:56.74      41.159      -114.927         8.4
+
+ ITER 0                      0.00 S     0.04 KM      -0.01 KM       0.05 KM      95.5/ 104      0.7/  13    4.0   104    1   13
+ ITER 1                     -0.01 S     0.03 KM       0.04 KM      -0.12 KM      96.2/ 104      0.7/  13    4.0   104    1   13
+ ITER 2                     -0.00 S     0.00 KM       0.00 KM       0.04 KM      96.3/ 104      0.7/  13    4.0   104    1   13
+
+  CUMULATIVE                -0.01 S     0.08 KM       0.03 KM      -0.03 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.11 KM       0.04 KM       0.33 KM    AZIM =   18 DEG    DIST =  0.1 KM
+
+ SOLUTION  2/22/2008   3:47:56.75      41.160      -114.927         8.7
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.44 KM    ELLIPSE:  18.4 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.94 S     0.078 DEG    -0.048 DEG     3.74 KM    AZIM =  335 DEG    DIST =  9.6 KM
+
+ Normalized sample variance for cluster vector:  0.946 (  -0.23)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  20 20080222.0356.45                        wells6/20080222.0356.45.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    3:56:45.95      41.106      -114.898         7.3
+ START    2/22/2008    3:56:45.17      41.101      -114.899        10.6
+
+ ITER 0                      0.01 S     0.02 KM      -0.02 KM       0.12 KM      84.8/  95      0.5/   9    4.0   107    5   21
+ ITER 1                      0.00 S    -0.03 KM       0.02 KM      -0.12 KM      86.1/  95      0.5/   9    4.0   107    5   21
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM      86.0/  95      0.5/   9    4.0   107    5   21
+
+  CUMULATIVE                 0.00 S    -0.02 KM      -0.00 KM       0.03 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S     0.02 KM       0.00 KM       0.39 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008   3:56:45.19      41.101      -114.899        11.0
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.003 DEG     0.46 KM    ELLIPSE:  15.0 DEG   0.4 AND    0.5 KM
+
+ SOLUTION-INPUT             -0.76 S    -0.005 DEG    -0.001 DEG     3.69 KM    AZIM =  191 DEG    DIST =  0.5 KM
+
+ Normalized sample variance for cluster vector:  0.928 (  -0.31)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  21 20080222.0759.13                        wells6/20080222.0759.13.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008    7:59:13.99      41.120      -114.933        12.8
+ START    2/22/2008    7:59:13.33      41.140      -114.939         8.6
+
+ ITER 0                      0.02 S    -0.02 KM      -0.03 KM       0.16 KM     133.5/ 135      0.6/  13    4.0   134    4   10
+ ITER 1                     -0.01 S    -0.03 KM       0.03 KM      -0.22 KM     141.8/ 137      0.6/  13    4.0   134    4   10
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.04 KM     141.7/ 137      0.6/  13    4.0   134    4   10
+
+  CUMULATIVE                 0.00 S    -0.05 KM      -0.00 KM      -0.02 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S    -0.01 KM       0.01 KM       0.34 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008   7:59:13.35      41.139      -114.939         8.9
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.40 KM    ELLIPSE:  21.7 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.64 S     0.019 DEG    -0.006 DEG    -3.88 KM    AZIM =  346 DEG    DIST =  2.2 KM
+
+ Normalized sample variance for cluster vector:  1.049 (   0.21)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  22 20080222.1145.02                        wells6/20080222.1145.02.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008   11:45: 2.70      41.123      -114.916        14.7
+ START    2/22/2008   11:45: 1.93      41.148      -114.932         7.0
+
+ ITER 0                     -0.01 S     0.21 KM      -0.02 KM      -0.07 KM      47.6/  41      0.4/   2    4.0    76   26   38
+ ITER 1                      0.05 S    -0.02 KM      -0.04 KM       0.25 KM      47.8/  41      0.4/   2    4.0    76   26   38
+ ITER 2                     -0.00 S     0.03 KM       0.03 KM      -0.02 KM      48.0/  41      0.4/   2    4.0    76   26   38
+
+  CUMULATIVE                 0.03 S     0.23 KM      -0.03 KM       0.15 KM    AZIM =  352 DEG    DIST =  0.2 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.05 S     0.26 KM      -0.02 KM       0.51 KM    AZIM =  355 DEG    DIST =  0.3 KM
+
+ SOLUTION  2/22/2008  11:45: 1.98      41.151      -114.932         7.5
+ STANDARD ERRORS             0.11 S     0.005 DEG     0.006 DEG     0.18 KM    ELLIPSE:  54.2 DEG   1.2 AND    1.4 KM
+
+ SOLUTION-INPUT             -0.72 S     0.028 DEG    -0.016 DEG    -7.17 KM    AZIM =  337 DEG    DIST =  3.4 KM
+
+ Normalized sample variance for cluster vector:  1.214 (   0.91)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  23 20080222.1922.29                        wells6/20080222.1922.29.mnf
+ MAG    3.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008   19:22:29.80      41.134      -114.889        10.0
+ START    2/22/2008   19:22:29.36      41.128      -114.892        11.0
+
+ ITER 0                     -0.00 S    -0.03 KM       0.03 KM       0.03 KM     180.6/ 213      0.8/  20    4.0   239   25   46
+ ITER 1                      0.00 S    -0.02 KM      -0.02 KM       0.02 KM     182.9/ 213      0.8/  20    4.0   239   26   46
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.02 KM     183.0/ 213      0.8/  20    4.0   239   26   46
+
+  CUMULATIVE                -0.01 S    -0.05 KM       0.01 KM       0.07 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S    -0.01 KM       0.02 KM       0.43 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008  19:22:29.38      41.128      -114.892        11.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.08 KM    ELLIPSE:  24.5 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.43 S    -0.006 DEG    -0.003 DEG     1.39 KM    AZIM =  201 DEG    DIST =  0.7 KM
+
+ Normalized sample variance for cluster vector:  0.869 (  -0.55)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  24 20080222.2120.58                        wells6/20080222.2120.58.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008   21:20:58.22      41.138      -114.908        12.1
+ START    2/22/2008   21:20:57.45      41.157      -114.913         8.9
+
+ ITER 0                      0.02 S    -0.17 KM       0.12 KM       0.38 KM      77.6/ 109      0.8/  16    4.0   104    6   15
+ ITER 1                     -0.00 S    -0.02 KM       0.00 KM      -0.15 KM      77.0/ 109      0.8/  16    4.0   104    5   15
+ ITER 2                     -0.00 S    -0.00 KM       0.00 KM       0.04 KM      77.0/ 109      0.8/  16    4.0   104    5   15
+
+  CUMULATIVE                 0.02 S    -0.19 KM       0.12 KM       0.27 KM    AZIM =  147 DEG    DIST =  0.2 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.04 S    -0.15 KM       0.13 KM       0.63 KM    AZIM =  140 DEG    DIST =  0.2 KM
+
+ SOLUTION  2/22/2008  21:20:57.48      41.156      -114.912         9.5
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.41 KM    ELLIPSE:  82.6 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.74 S     0.018 DEG    -0.004 DEG    -2.59 KM    AZIM =  351 DEG    DIST =  2.0 KM
+
+ Normalized sample variance for cluster vector:  0.727 (  -1.15)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  25 20080222.2327.45                        wells6/20080222.2327.45.mnf
+ MAG    4.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/22/2008   23:27:45.60      41.090      -114.914        10.0
+ START    2/22/2008   23:27:44.61      41.120      -114.910        11.4
+
+ ITER 0                     -0.01 S    -0.00 KM       0.02 KM      -0.04 KM     235.3/ 310      1.1/  19    4.0   380   25   84
+ ITER 1                      0.01 S    -0.03 KM       0.01 KM      -0.06 KM     236.7/ 310      1.1/  19    4.0   380   25   84
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM     236.8/ 310      1.1/  19    4.0   380   25   84
+
+  CUMULATIVE                -0.01 S    -0.03 KM       0.03 KM      -0.07 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.00 KM       0.04 KM       0.29 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/22/2008  23:27:44.62      41.120      -114.909        11.7
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.36 KM    ELLIPSE:  31.5 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.98 S     0.029 DEG     0.004 DEG     1.66 KM    AZIM =    7 DEG    DIST =  3.3 KM
+
+ Normalized sample variance for cluster vector:  0.771 (  -0.97)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  26 20080223.0254.57                        wells6/20080223.0254.57.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/23/2008    2:54:57.45      41.290      -114.856         5.0
+ START    2/23/2008    2:54:57.13      41.277      -114.865        11.9
+
+ ITER 0                      0.00 S     0.09 KM      -0.15 KM       0.21 KM     157.7/ 131      0.7/  16    4.0   155   14   34
+ ITER 1                      0.02 S    -0.06 KM       0.19 KM      -0.09 KM     149.7/ 131      0.8/  16    4.0   155   13   34
+ ITER 2                     -0.01 S     0.00 KM      -0.00 KM       0.02 KM     149.7/ 131      0.7/  16    4.0   155   14   34
+
+  CUMULATIVE                 0.01 S     0.03 KM       0.04 KM       0.14 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S     0.07 KM       0.05 KM       0.50 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/23/2008   2:54:57.16      41.278      -114.865        12.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.40 KM    ELLIPSE:  27.5 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.29 S    -0.012 DEG    -0.009 DEG     7.42 KM    AZIM =  208 DEG    DIST =  1.6 KM
+
+ Normalized sample variance for cluster vector:  1.157 (   0.66)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  27 20080224.1746.23                        wells6/20080224.1746.23.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/24/2008   17:46:23.04      41.168      -114.905         3.8
+ START    2/24/2008   17:46:22.04      41.175      -114.906        10.7
+
+ ITER 0                     -0.03 S     0.21 KM       0.13 KM       0.37 KM     143.2/ 102      0.4/  15    4.0   123   11   32
+ ITER 1                      0.02 S    -0.21 KM      -0.11 KM      -0.22 KM     129.6/ 102      0.4/  15    4.0   123   10   32
+ ITER 2                     -0.00 S    -0.00 KM      -0.00 KM       0.03 KM     129.6/ 102      0.4/  15    4.0   123   10   32
+
+  CUMULATIVE                -0.01 S    -0.01 KM       0.01 KM       0.18 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.03 KM       0.02 KM       0.53 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/24/2008  17:46:22.04      41.176      -114.905        11.3
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.45 KM    ELLIPSE: -51.5 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -1.00 S     0.008 DEG    -0.000 DEG     7.47 KM    AZIM =  357 DEG    DIST =  0.9 KM
+
+ Normalized sample variance for cluster vector:  1.287 (   1.21)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  28 20080224.1840.45                        wells6/20080224.1840.45.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/24/2008   18:40:45.59      41.163      -114.841         4.8
+ START    2/24/2008   18:40:44.76      41.160      -114.845        12.1
+
+ ITER 0                     -0.03 S     0.16 KM      -0.17 KM       0.11 KM     124.3/  96      0.6/  16    4.0   127   17   38
+ ITER 1                      0.01 S    -0.13 KM       0.14 KM      -0.20 KM     117.9/  96      0.6/  16    4.0   127   15   38
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.02 KM     117.9/  96      0.6/  16    4.0   127   15   38
+
+  CUMULATIVE                -0.02 S     0.03 KM      -0.02 KM      -0.07 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.01 S     0.07 KM      -0.01 KM       0.29 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/24/2008  18:40:44.76      41.160      -114.845        12.3
+ STANDARD ERRORS             0.07 S     0.002 DEG     0.002 DEG     0.50 KM    ELLIPSE: -45.7 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.83 S    -0.003 DEG    -0.004 DEG     7.54 KM    AZIM =  228 DEG    DIST =  0.4 KM
+
+ Normalized sample variance for cluster vector:  1.246 (   1.04)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  29 20080225.1901.36                        wells6/20080225.1901.36.mnf
+ MAG    3.1
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/25/2008   19: 1:36.34      41.140      -114.881         3.3
+ START    2/25/2008   19: 1:36.24      41.137      -114.884        10.9
+
+ ITER 0                      0.01 S     0.01 KM      -0.03 KM       0.10 KM     104.1/ 111      0.7/  18    4.0   109    7   14
+ ITER 1                     -0.03 S     0.21 KM      -0.07 KM      -0.19 KM     120.6/ 112      0.7/  18    4.0   109    6   14
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.02 KM     120.5/ 112      0.7/  18    4.0   109    6   14
+
+  CUMULATIVE                -0.03 S     0.21 KM      -0.10 KM      -0.07 KM    AZIM =  335 DEG    DIST =  0.2 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.02 S     0.25 KM      -0.09 KM       0.29 KM    AZIM =  340 DEG    DIST =  0.3 KM
+
+ SOLUTION  2/25/2008  19: 1:36.23      41.139      -114.885        11.2
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.38 KM    ELLIPSE:  57.3 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.11 S    -0.001 DEG    -0.004 DEG     7.94 KM    AZIM =  254 DEG    DIST =  0.4 KM
+
+ Normalized sample variance for cluster vector:  1.093 (   0.39)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  30 20080226.0222.23                        wells6/20080226.0222.23.mnf
+ MAG    2.9
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/26/2008    2:22:23.46      41.242      -114.858         9.4
+ START    2/26/2008    2:22:23.06      41.232      -114.848        10.2
+
+ ITER 0                      0.00 S     0.00 KM      -0.02 KM       0.08 KM     100.1/ 123      0.8/  17    4.0   115    8   11
+ ITER 1                     -0.00 S    -0.02 KM       0.00 KM      -0.15 KM      99.5/ 123      0.8/  17    4.0   115    8   11
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM      99.6/ 123      0.8/  17    4.0   115    8   11
+
+  CUMULATIVE                -0.01 S    -0.02 KM      -0.02 KM      -0.03 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.02 KM      -0.01 KM       0.32 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/26/2008   2:22:23.07      41.232      -114.848        10.6
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.39 KM    ELLIPSE:  27.2 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.39 S    -0.010 DEG     0.010 DEG     1.17 KM    AZIM =  143 DEG    DIST =  1.3 KM
+
+ Normalized sample variance for cluster vector:  0.827 (  -0.73)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  31 20080226.0248.45                        wells6/20080226.0248.45.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/26/2008    2:48:45.81      41.277      -114.855         0.0
+ START    2/26/2008    2:48:45.15      41.276      -114.861        10.9
+
+ ITER 0                      0.01 S    -0.02 KM       0.03 KM       0.10 KM      87.8/  92      0.4/  16    4.0    78    1    2
+ ITER 1                      0.01 S     0.06 KM      -0.07 KM      -0.03 KM      84.3/  93      0.4/  16    4.0    78    0    2
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM      84.2/  93      0.5/  16    4.0    78    0    2
+
+  CUMULATIVE                 0.02 S     0.04 KM      -0.04 KM       0.10 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S     0.08 KM      -0.03 KM       0.46 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/26/2008   2:48:45.18      41.277      -114.861        11.4
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.42 KM    ELLIPSE:  45.9 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.63 S    -0.000 DEG    -0.006 DEG    11.41 KM    AZIM =  266 DEG    DIST =  0.5 KM
+
+ Normalized sample variance for cluster vector:  0.928 (  -0.30)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  32 20080226.0347.14                        wells6/20080226.0347.14.mnf
+ MAG    2.8
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/26/2008    3:47:14.28      41.292      -114.863         1.8
+ START    2/26/2008    3:47:13.91      41.280      -114.863        11.4
+
+ ITER 0                      0.00 S    -0.01 KM      -0.00 KM       0.09 KM      82.5/ 103      0.4/  13    4.0    96    0   11
+ ITER 1                     -0.00 S    -0.02 KM      -0.03 KM      -0.11 KM      81.2/ 103      0.4/  13    4.0    96    0   11
+ ITER 2                     -0.01 S     0.00 KM       0.00 KM       0.03 KM      81.2/ 103      0.4/  13    4.0    96    0   11
+
+  CUMULATIVE                -0.00 S    -0.03 KM      -0.04 KM       0.01 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.00 KM      -0.03 KM       0.37 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/26/2008   3:47:13.92      41.280      -114.864        11.8
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.42 KM    ELLIPSE:  33.5 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.36 S    -0.012 DEG    -0.001 DEG     9.97 KM    AZIM =  183 DEG    DIST =  1.3 KM
+
+ Normalized sample variance for cluster vector:  0.810 (  -0.80)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  33 20080226.2046.45                        wells6/20080226.2046.45.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/26/2008   20:46:45.46      41.272      -114.857        11.5
+ START    2/26/2008   20:46:44.88      41.275      -114.863        11.3
+
+ ITER 0                      0.01 S    -0.01 KM      -0.03 KM       0.06 KM     107.1/  80      0.4/  15    4.0    73    1   13
+ ITER 1                     -0.00 S    -0.02 KM       0.01 KM      -0.17 KM     108.8/  80      0.5/  15    4.0    73    1   13
+ ITER 2                     -0.00 S     0.00 KM      -0.00 KM       0.03 KM     108.8/  80      0.5/  15    4.0    73    1   13
+
+  CUMULATIVE                 0.01 S    -0.02 KM      -0.02 KM      -0.08 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S     0.01 KM      -0.02 KM       0.28 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/26/2008  20:46:44.90      41.275      -114.863        11.5
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.003 DEG     0.43 KM    ELLIPSE:  24.2 DEG   0.5 AND    0.6 KM
+
+ SOLUTION-INPUT             -0.56 S     0.003 DEG    -0.006 DEG     0.05 KM    AZIM =  301 DEG    DIST =  0.6 KM
+
+ Normalized sample variance for cluster vector:  1.380 (   1.61)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  34 20080227.0759.39                        wells6/20080227.0759.39.mnf
+ MAG    4.0
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/27/2008    7:59:39.33      41.151      -114.874        10.0
+ START    2/27/2008    7:59:37.40      41.192      -114.841        10.9
+
+ ITER 0                      0.01 S     0.04 KM      -0.05 KM       0.10 KM     274.9/ 418      0.7/  16    4.0   427    2   24
+ ITER 1                     -0.00 S    -0.06 KM       0.06 KM      -0.18 KM     275.3/ 419      0.7/  16    4.0   427    2   24
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM     275.4/ 419      0.7/  16    4.0   427    2   24
+
+  CUMULATIVE                -0.00 S    -0.02 KM       0.01 KM      -0.06 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.02 KM       0.02 KM       0.30 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/27/2008   7:59:37.41      41.192      -114.841        11.2
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.37 KM    ELLIPSE:   3.3 DEG   0.2 AND    0.2 KM
+
+ SOLUTION-INPUT             -1.92 S     0.041 DEG     0.033 DEG     1.20 KM    AZIM =   32 DEG    DIST =  5.3 KM
+
+ Normalized sample variance for cluster vector:  0.663 (  -1.43)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  35 20080228.1402.16                        wells6/20080228.1402.16.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/28/2008   14: 2:16.34      41.177      -114.919         5.4
+ START    2/28/2008   14: 2:15.87      41.161      -114.911         8.9
+
+ ITER 0                     -0.01 S     0.06 KM      -0.01 KM      -0.01 KM      61.8/  95      0.7/  12    4.0    92    2   12
+ ITER 1                     -0.00 S    -0.02 KM       0.00 KM      -0.11 KM      61.8/  95      0.7/  12    4.0    92    2   12
+ ITER 2                     -0.00 S     0.00 KM      -0.00 KM       0.03 KM      61.8/  95      0.7/  12    4.0    92    2   12
+
+  CUMULATIVE                -0.01 S     0.04 KM      -0.01 KM      -0.09 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.08 KM       0.00 KM       0.27 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/28/2008  14: 2:15.87      41.162      -114.911         9.1
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.42 KM    ELLIPSE:  47.5 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.47 S    -0.015 DEG     0.008 DEG     3.75 KM    AZIM =  159 DEG    DIST =  1.8 KM
+
+ Normalized sample variance for cluster vector:  0.675 (  -1.38)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  36 20080228.1510.38                        wells6/20080228.1510.38.mnf
+ MAG    3.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/28/2008   15:10:38.21      41.115      -114.893        10.0
+ START    2/28/2008   15:10:37.04      41.145      -114.922         8.4
+
+ ITER 0                      0.03 S    -0.06 KM       0.00 KM       0.24 KM     184.1/ 239      0.7/  16    4.0   270   20   46
+ ITER 1                     -0.02 S    -0.00 KM      -0.23 KM      -0.14 KM     248.2/ 240      0.7/  16    4.0   270   19   46
+ ITER 2                     -0.00 S     0.00 KM       0.00 KM       0.03 KM     248.2/ 240      0.7/  16    4.0   270   19   46
+
+  CUMULATIVE                 0.00 S    -0.06 KM      -0.23 KM       0.13 KM    AZIM =  255 DEG    DIST =  0.2 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S    -0.03 KM      -0.22 KM       0.49 KM    AZIM =  263 DEG    DIST =  0.2 KM
+
+ SOLUTION  2/28/2008  15:10:37.05      41.144      -114.925         8.9
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.40 KM    ELLIPSE:  25.7 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -1.16 S     0.029 DEG    -0.032 DEG    -1.11 KM    AZIM =  320 DEG    DIST =  4.3 KM
+
+ Normalized sample variance for cluster vector:  1.042 (   0.18)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  37 20080229.2119.24                        wells6/20080229.2119.24.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    2/29/2008   21:19:24.59      41.245      -114.819         9.6
+ START    2/29/2008   21:19:24.84      41.203      -114.856         9.4
+
+ ITER 0                     -0.00 S     0.03 KM      -0.09 KM      -0.02 KM      53.4/  58      0.6/  12    4.0    60    2   14
+ ITER 1                     -0.00 S    -0.01 KM       0.03 KM      -0.15 KM      53.3/  58      0.6/  12    4.0    60    2   14
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.04 KM      53.3/  58      0.6/  12    4.0    60    2   14
+
+  CUMULATIVE                -0.01 S     0.01 KM      -0.06 KM      -0.14 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.00 S     0.05 KM      -0.05 KM       0.22 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  2/29/2008  21:19:24.85      41.203      -114.856         9.6
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.003 DEG     0.55 KM    ELLIPSE:  24.6 DEG   0.4 AND    0.6 KM
+
+ SOLUTION-INPUT              0.26 S    -0.042 DEG    -0.037 DEG     0.01 KM    AZIM =  214 DEG    DIST =  5.6 KM
+
+ Normalized sample variance for cluster vector:  0.954 (  -0.19)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  38 20080304.1521.13                        wells6/20080304.1521.13.mnf
+ MAG    2.5
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/ 4/2008   15:21:13.59      41.215      -114.861         4.3
+ START    3/ 4/2008   15:21:13.23      41.185      -114.875         8.1
+
+ ITER 0                      0.01 S     0.02 KM       0.04 KM       0.00 KM      86.0/  75      0.8/  17    4.0    81    6   25
+ ITER 1                     -0.01 S    -0.03 KM      -0.01 KM      -0.22 KM      87.0/  75      0.8/  17    4.0    81    7   25
+ ITER 2                      0.01 S     0.01 KM      -0.01 KM       0.11 KM      86.7/  75      0.8/  17    4.0    81    7   25
+
+  CUMULATIVE                -0.00 S    -0.01 KM       0.02 KM      -0.11 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.03 KM       0.03 KM       0.25 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  3/ 4/2008  15:21:13.25      41.185      -114.875         8.3
+ STANDARD ERRORS             0.08 S     0.002 DEG     0.002 DEG     0.51 KM    ELLIPSE: -22.5 DEG   0.4 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.34 S    -0.030 DEG    -0.014 DEG     4.05 KM    AZIM =  199 DEG    DIST =  3.5 KM
+
+ Normalized sample variance for cluster vector:  1.180 (   0.76)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  39 20080306.0205.55                        wells6/20080306.0205.55.mnf
+ MAG    2.7
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/ 6/2008    2: 5:55.61      41.169      -114.847         5.0
+ START    3/ 6/2008    2: 5:54.56      41.192      -114.878         8.0
+
+ ITER 0                      0.02 S    -0.15 KM       0.06 KM       0.03 KM      98.4/ 110      1.1/  20    4.0    94    0    9
+ ITER 1                     -0.00 S     0.12 KM      -0.04 KM       0.00 KM      83.0/ 109      1.1/  20    4.0    94    0    9
+ ITER 2                     -0.00 S     0.01 KM       0.01 KM       0.05 KM      82.5/ 108      1.1/  19    4.0    94    0    9
+
+  CUMULATIVE                 0.02 S    -0.02 KM       0.03 KM       0.09 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S     0.02 KM       0.04 KM       0.45 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  3/ 6/2008   2: 5:54.59      41.193      -114.878         8.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.34 KM    ELLIPSE:  21.8 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -1.02 S     0.024 DEG    -0.031 DEG     3.41 KM    AZIM =  315 DEG    DIST =  3.7 KM
+
+ Normalized sample variance for cluster vector:  0.784 (  -0.91)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  40 20080313.0847.32                        wells6/20080313.0847.32.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/13/2008    8:47:32.77      41.108      -114.907         9.6
+ START    3/13/2008    8:47:32.03      41.102      -114.898        11.2
+
+ ITER 0                      0.00 S    -0.01 KM       0.06 KM       0.07 KM     110.1/ 131      1.0/  20    4.0   117    1   12
+ ITER 1                      0.01 S    -0.08 KM      -0.10 KM      -0.02 KM     100.7/ 131      0.9/  20    4.0   117    1   12
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.03 KM     100.8/ 131      0.9/  20    4.0   117    1   12
+
+  CUMULATIVE                 0.01 S    -0.10 KM      -0.04 KM       0.08 KM    AZIM =  204 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S    -0.06 KM      -0.03 KM       0.44 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  3/13/2008   8:47:32.05      41.101      -114.898        11.6
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.31 KM    ELLIPSE: -21.3 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.72 S    -0.007 DEG     0.009 DEG     2.04 KM    AZIM =  135 DEG    DIST =  1.1 KM
+
+ Normalized sample variance for cluster vector:  0.787 (  -0.90)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  41 20080314.0739.06                        wells6/20080314.0739.06.mnf
+ MAG    3.3
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/14/2008    7:39: 5.86      41.134      -114.913        12.3
+ START    3/14/2008    7:39: 5.37      41.129      -114.912         9.0
+
+ ITER 0                      0.00 S     0.01 KM      -0.00 KM       0.10 KM     123.6/ 156      1.6/  32    4.0   163    8   60
+ ITER 1                      0.00 S    -0.03 KM      -0.01 KM      -0.11 KM     123.3/ 157      1.6/  32    4.0   163    8   60
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.04 KM     123.3/ 157      1.6/  32    4.0   163    8   60
+
+  CUMULATIVE                -0.00 S    -0.02 KM      -0.01 KM       0.04 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.02 KM      -0.00 KM       0.40 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  3/14/2008   7:39: 5.38      41.129      -114.912         9.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.30 KM    ELLIPSE:  18.9 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.48 S    -0.005 DEG     0.001 DEG    -2.93 KM    AZIM =  170 DEG    DIST =  0.5 KM
+
+ Normalized sample variance for cluster vector:  0.799 (  -0.85)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  42 20080315.1622.33                        wells6/20080315.1622.33.mnf
+ MAG    4.3
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/15/2008   16:22:33.61      41.129      -114.901        11.3
+ START    3/15/2008   16:22:32.91      41.127      -114.912        10.6
+
+ ITER 0                      0.00 S     0.02 KM       0.22 KM       0.05 KM     291.7/ 175      1.4/  31    4.0   279   38  151
+ ITER 1                      0.01 S    -0.11 KM      -0.12 KM      -0.12 KM     250.6/ 175      1.4/  31    4.0   279   38  151
+ ITER 2                     -0.01 S    -0.00 KM      -0.00 KM       0.04 KM     250.7/ 175      1.4/  31    4.0   279   37  151
+
+  CUMULATIVE                 0.01 S    -0.09 KM       0.11 KM      -0.03 KM    AZIM =  130 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.03 S    -0.05 KM       0.12 KM       0.33 KM    AZIM =  115 DEG    DIST =  0.1 KM
+
+ SOLUTION  3/15/2008  16:22:32.94      41.126      -114.910        11.0
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.30 KM    ELLIPSE:  14.5 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.67 S    -0.003 DEG    -0.010 DEG    -0.32 KM    AZIM =  251 DEG    DIST =  0.9 KM
+
+ Normalized sample variance for cluster vector:  1.442 (   1.87)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  43 20080330.1332.18                        wells6/20080330.1332.18.mnf
+ MAG    2.3
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/30/2008   13:32:18.65      41.132      -114.929         8.0
+ START    3/30/2008   13:32:18.10      41.125      -114.933         8.4
+
+ ITER 0                      0.00 S     0.04 KM       0.00 KM       0.01 KM      95.3/ 108      1.8/  38    4.0   107    5   37
+ ITER 1                     -0.00 S    -0.07 KM       0.02 KM      -0.16 KM      93.4/ 108      1.7/  38    4.0   107    5   37
+ ITER 2                     -0.00 S    -0.00 KM      -0.00 KM       0.03 KM      93.5/ 108      1.7/  38    4.0   107    5   37
+
+  CUMULATIVE                -0.00 S    -0.03 KM       0.02 KM      -0.12 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.00 KM       0.03 KM       0.24 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  3/30/2008  13:32:18.11      41.125      -114.932         8.6
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.29 KM    ELLIPSE:  -7.2 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -0.54 S    -0.006 DEG    -0.003 DEG     0.59 KM    AZIM =  202 DEG    DIST =  0.8 KM
+
+ Normalized sample variance for cluster vector:  0.885 (  -0.49)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  44 20080401.1316.18                        wells6/20080401.1316.18.mnf
+ MAG    4.3
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    4/ 1/2008   13:16:18.20      41.186      -114.835        10.0
+ START    4/ 1/2008   13:16:16.52      41.219      -114.832        11.4
+
+ ITER 0                     -0.00 S     0.02 KM      -0.09 KM       0.07 KM     284.8/ 392      0.9/  18    4.0   409    5   31
+ ITER 1                     -0.00 S    -0.03 KM       0.04 KM      -0.12 KM     279.4/ 392      0.9/  18    4.0   409    5   31
+ ITER 2                     -0.01 S     0.00 KM      -0.00 KM       0.02 KM     279.3/ 392      0.9/  18    4.0   409    5   31
+
+  CUMULATIVE                -0.01 S    -0.01 KM      -0.05 KM      -0.03 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.02 KM      -0.04 KM       0.32 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  4/ 1/2008  13:16:16.53      41.220      -114.833        11.8
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.001 DEG     0.33 KM    ELLIPSE: -12.6 DEG   0.2 AND    0.2 KM
+
+ SOLUTION-INPUT             -1.67 S     0.033 DEG     0.002 DEG     1.77 KM    AZIM =    3 DEG    DIST =  3.7 KM
+
+ Normalized sample variance for cluster vector:  0.718 (  -1.19)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  45 20080422.2040.09                        wells6/20080422.2040.09.mnf
+ MAG    4.3
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    4/22/2008   20:40: 9.91      41.177      -114.822        10.0
+ START    4/22/2008   20:40: 8.64      41.212      -114.842        11.4
+
+ ITER 0                     -0.01 S     0.10 KM      -0.06 KM       0.04 KM     218.2/ 303      1.9/  34    4.0   318   17   44
+ ITER 1                     -0.00 S    -0.09 KM       0.09 KM      -0.19 KM     214.5/ 301      1.8/  34    4.0   318   16   44
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM     214.6/ 301      1.8/  34    4.0   318   16   44
+
+  CUMULATIVE                -0.02 S     0.01 KM       0.03 KM      -0.12 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                     -0.01 S     0.05 KM       0.04 KM       0.24 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  4/22/2008  20:40: 8.64      41.213      -114.842        11.6
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.30 KM    ELLIPSE:  -4.3 DEG   0.2 AND    0.3 KM
+
+ SOLUTION-INPUT             -1.27 S     0.036 DEG    -0.019 DEG     1.60 KM    AZIM =  338 DEG    DIST =  4.3 KM
+
+ Normalized sample variance for cluster vector:  0.720 (  -1.18)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  46 20080606.0322.02                        wells6/20080606.0322.02.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    6/ 6/2008    3:22: 2.78      41.009      -114.854         5.0
+ START    6/ 6/2008    3:22: 1.05      41.116      -114.919         9.5
+
+ ITER 0                      0.04 S    -0.17 KM       0.09 KM       0.06 KM     156.5/ 130      0.8/  18    4.0   126    3   15
+ ITER 1                     -0.02 S     0.14 KM      -0.09 KM      -0.10 KM     127.4/ 128      0.8/  18    4.0   126    2   15
+ ITER 2                     -0.01 S    -0.00 KM       0.00 KM       0.03 KM     127.4/ 128      0.8/  18    4.0   126    3   15
+
+  CUMULATIVE                 0.01 S    -0.03 KM      -0.00 KM      -0.01 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.02 S     0.01 KM       0.01 KM       0.35 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  6/ 6/2008   3:22: 1.07      41.117      -114.919         9.8
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.35 KM    ELLIPSE:   3.4 DEG   0.3 AND    0.3 KM
+
+ SOLUTION-INPUT             -1.71 S     0.108 DEG    -0.065 DEG     4.82 KM    AZIM =  336 DEG    DIST = 13.1 KM
+
+ Normalized sample variance for cluster vector:  1.011 (   0.05)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  47 20080709.0046.40                        wells6/20080709.0046.40.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    7/ 9/2008    0:46:40.69      41.205      -114.842         8.9
+ START    7/ 9/2008    0:46:39.96      41.196      -114.839        11.0
+
+ ITER 0                      0.01 S    -0.02 KM      -0.05 KM       0.14 KM      79.2/  89      0.9/  18    4.0    83    3   14
+ ITER 1                     -0.01 S    -0.02 KM      -0.04 KM      -0.12 KM      81.9/  89      0.9/  18    4.0    83    3   14
+ ITER 2                     -0.01 S     0.00 KM      -0.00 KM       0.02 KM      81.9/  89      0.9/  18    4.0    83    3   14
+
+  CUMULATIVE                -0.00 S    -0.03 KM      -0.09 KM       0.04 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S     0.01 KM      -0.08 KM       0.40 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  7/ 9/2008   0:46:39.97      41.196      -114.840        11.4
+ STANDARD ERRORS             0.07 S     0.001 DEG     0.002 DEG     0.38 KM    ELLIPSE:  -6.8 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.72 S    -0.009 DEG     0.002 DEG     2.52 KM    AZIM =  170 DEG    DIST =  1.0 KM
+
+ Normalized sample variance for cluster vector:  0.943 (  -0.24)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  48 20080812.1058.45                        wells6/20080812.1058.45.mnf
+ MAG    2.9
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    8/12/2008   10:58:45.62      41.201      -114.850        10.8
+ START    8/12/2008   10:58:45.09      41.192      -114.837        11.2
+
+ ITER 0                     -0.02 S    -0.03 KM      -0.32 KM      -0.16 KM     157.4/ 130      0.1/  10    4.0   140    3   10
+ ITER 1                      0.02 S    -0.00 KM       0.24 KM       0.06 KM     132.5/ 125      0.1/  10    4.0   140    2   10
+ ITER 2                     -0.00 S    -0.00 KM       0.00 KM       0.03 KM     132.5/ 125      0.1/  10    4.0   140    2   10
+
+  CUMULATIVE                -0.00 S    -0.04 KM      -0.08 KM      -0.07 KM    AZIM =    0 DEG    DIST =  0.0 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.01 S    -0.00 KM      -0.07 KM       0.29 KM    AZIM =    0 DEG    DIST =  0.0 KM
+
+ SOLUTION  8/12/2008  10:58:45.10      41.192      -114.838        11.5
+ STANDARD ERRORS             0.08 S     0.001 DEG     0.002 DEG     0.40 KM    ELLIPSE:   9.6 DEG   0.3 AND    0.4 KM
+
+ SOLUTION-INPUT             -0.52 S    -0.009 DEG     0.012 DEG     0.71 KM    AZIM =  135 DEG    DIST =  1.4 KM
+
+ Normalized sample variance for cluster vector:  1.075 (   0.32)
+
+ ******************************************************************************************************************************
+ CLUSTER EVENT  49 20090310.0550.07                        wells6/20090310.0550.07.mnf
+ MAG    2.6
+ Cluster vector location parameters: (lat, lon, depth, origin time)
+            DATE         TIME        LATITUDE     LONGITUDE       DEPTH         EC**2/NSTA    EH**2/NSTA  PRMAX  DELT PRES FLAG
+ INPUT    3/10/2009    5:50: 7.38      41.134      -114.767         5.0
+ START    3/10/2009    5:50: 6.37      41.205      -114.835         7.6
+
+ ITER 0                      0.00 S     0.13 KM       0.06 KM      -0.02 KM      36.0/  30      0.4/   2    4.0    35    4    7
+ ITER 1                      0.03 S    -0.02 KM      -0.00 KM       0.10 KM      36.4/  30      0.4/   2    4.0    35    4    7
+ ITER 2                     -0.01 S     0.02 KM       0.01 KM      -0.01 KM      36.3/  30      0.4/   2    4.0    35    4    7
+
+  CUMULATIVE                 0.03 S     0.12 KM       0.07 KM       0.07 KM    AZIM =   32 DEG    DIST =  0.1 KM
+ +HYPOCENTROID               0.01 S     0.04 KM       0.01 KM       0.36 KM
+  TOTAL                      0.04 S     0.15 KM       0.08 KM       0.43 KM    AZIM =   28 DEG    DIST =  0.2 KM
+
+ SOLUTION  3/10/2009   5:50: 6.41      41.206      -114.834         8.0
+ STANDARD ERRORS             0.10 S     0.005 DEG     0.007 DEG     0.11 KM    ELLIPSE:  29.6 DEG   1.2 AND    1.6 KM
+
+ SOLUTION-INPUT             -0.97 S     0.072 DEG    -0.067 DEG     3.03 KM    AZIM =  325 DEG    DIST =  9.8 KM
+
+ Normalized sample variance for cluster vector:  1.267 (   1.13)

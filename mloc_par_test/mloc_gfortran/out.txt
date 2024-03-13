@@ -1,0 +1,1 @@
+gfortran -c -W -Wall -Wno-unused-parameter -fno-automatic -fstack-check -ffpe-trap='underflow' -g -fbacktrace -fno-align-commons -mcmodel=large -O3 ../mloc_src/mlocout_comcat.f90

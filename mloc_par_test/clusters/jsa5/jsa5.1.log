@@ -1,0 +1,85 @@
+
+Convergence limits
+Hypocentroid:  0.005 (deg),  0.5(km),  0.1 (sec)
+Cluster vectors:  0.5 (km),   0.5(km),  0.1 (sec)
+mlocset: event   1  19680729.0245.44  jsa5/19680729.0245.44.mnf
+   read_mnf_13:      0 phases re-identified for iteration 0
+mlocset: event   2  19690806.1715.39  jsa5/19690806.1715.39.mnf
+   read_mnf_13:      1 phases re-identified for iteration 0
+mlocset: event   3  19730119.0736.32  jsa5/19730119.0736.32.mnf
+   read_mnf_13:      1 phases re-identified for iteration 0
+mlocset: event   4  19730119.1526.27  jsa5/19730119.1526.27.mnf
+   read_mnf_13:      3 phases re-identified for iteration 0
+
+ Beginning iteration 0...
+iev ndat    ndatdl  ndatpr
+  1   37       6       0
+  2   30      11       5
+  3   29      23       5
+  4   20      21       1
+Average:
+         0.007     0.105     0.000     0.000
+ weighted epicentroid:    -20.817   -19.593     0.245
+      bias correction:      3.639    -1.367     0.048
+ 90% confidence ellipses:
+ Bias-corrected: alpha =   37.2 axes =      7.276    13.306
+       Weighted: alpha =   37.1 axes =      7.331    13.261
+     Correction: alpha =   41.6 axes =      0.546     2.235
+iev        dtim      dlat      dlon      ddep
+  1       0.170     0.117     0.091     0.000
+  2       0.246     0.091     0.103     0.000
+  3       0.732    -0.064    -0.111     0.000
+  4      -1.148    -0.144    -0.079     0.000
+           dtim      dlat      dlon      ddep
+hyp:      0.195    -0.220    -0.164     0.000
+mlocset:      2 phases re-identified for iteration  1
+
+ Beginning iteration 1...
+iev ndat    ndatdl  ndatpr
+  1   37       6       0
+  2   30      11       5
+  3   29      23       5
+  4   21      21       4
+Average:
+         0.000     0.003     0.000     0.000
+ weighted epicentroid:     -1.637    -1.795    -0.020
+      bias correction:      0.214     0.045    -0.007
+ 90% confidence ellipses:
+ Bias-corrected: alpha =   37.1 axes =      6.956    12.501
+       Weighted: alpha =   36.9 axes =      7.008    12.451
+     Correction: alpha =   40.7 axes =      0.536     2.143
+iev        dtim      dlat      dlon      ddep
+  1       0.020     0.006     0.011     0.000
+  2       0.038     0.002     0.005     0.000
+  3      -0.010     0.005     0.004     0.000
+  4      -0.049    -0.013    -0.020     0.000
+           dtim      dlat      dlon      ddep
+hyp:     -0.012    -0.017    -0.017     0.000
+
+ Beginning iteration 2...
+iev ndat    ndatdl  ndatpr
+  1   37       6       0
+  2   30      11       5
+  3   29      23       5
+  4   21      21       5
+Average:
+        -0.000    -0.000     0.000     0.000
+ weighted epicentroid:     -0.002    -0.003     0.000
+      bias correction:      0.010     0.006    -0.000
+ 90% confidence ellipses:
+ Bias-corrected: alpha =   37.1 axes =      6.915    12.427
+       Weighted: alpha =   36.9 axes =      6.966    12.377
+     Correction: alpha =   40.7 axes =      0.535     2.137
+iev        dtim      dlat      dlon      ddep
+  1      -0.001     0.000     0.000     0.000
+  2      -0.000     0.001     0.001     0.000
+  3       0.000    -0.000    -0.000     0.000
+  4       0.001    -0.000    -0.000     0.000
+           dtim      dlat      dlon      ddep
+hyp:      0.000    -0.000    -0.000     0.000
+
+Basic hypocenter list, uncalibrated or direct calibration:
+  1 1968  7 29  2 45 45.01  -7.3855 -148.3424  10.0 UE05 4.9mb  
+  2 1969  8  6 17 15 39.69  -7.3663 -148.2979  10.0 UE06 5.1mb  
+  3 1973  1 19  7 36 33.22  -7.3276 -148.3490  10.0 UE05 5.0mb  
+  4 1973  1 19 15 26 26.06  -7.3536 -148.3211  10.0 UE06 5.0mb  

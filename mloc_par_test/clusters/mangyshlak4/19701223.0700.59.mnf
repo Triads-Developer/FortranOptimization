@@ -1,0 +1,494 @@
+F   MNF v1.3.3                                                                                                           
+E   Mangyshlak-3 PNE                                                                                                     
+H = 1970/12/23 07 00 59.76         44.025    54.933                    0.5                            Sultanov           
+M   6.0  mb                                                                                                              
+#   75 kt yeild                                                                                                          
+P   KAT                Pn       1970 12 23  7  2 15.0   -1   0.0 Pn            .        .KAT  .  .    KMackey            
+P   BAK                Pn       1970 12 23  7  2 17.0   -1   0.0 Pn            .        .BAK  .  .    KMackey            
+P   BAK                Pg       1970 12 23  7  2 37.0   -1   0.0 Pg            .        .BAK  .  .    KMackey            
+P   MAK                Pn       1970 12 23  7  2 22.0   -1   0.0 Pn            .        .MAK  .  .    KMackey            
+P   SHE                Pn       1970 12 23  7  2 26.0   -1   0.0 Pn            .        .SHE  .  .    KMackey            
+P   ASH                Pn       1970 12 23  7  2 35.7   -1   0.0 Pn            .        .ASH  .  .    KMackey            
+P x ASH                Sn       1970 12 23  7  3 59.6   -1   0.0 Sn            .        .ASH  .  .    KMackey            
+P x ASH                Lg       1970 12 23  7  4 34.6   -1   0.0 Lg            .        .ASH  .  .    KMackey            
+P   GRO                Pn       1970 12 23  7  2 39.0   -1   0.0 Pn            .        .GRO  .  .    KMackey            
+P   KRV                Pn       1970 12 23  7  2 44.5   -1   0.0 Pn            .        .KRV  .  .    KMackey            
+P x KRV                Pg       1970 12 23  7  3  6.5   -1   0.0 Pg            .        .KRV  .  .    KMackey            
+P   TI2                Pn       1970 12 23  7  2 53.0   -1   0.0 Pn            .        .TI2  .  .    KMackey            
+P   DUS                Pn       1970 12 23  7  2 54.0   -1   0.0 Pn            .        .DUS  .  .    KMackey            
+P   GOR                Pn       1970 12 23  7  2 58.4   -1   0.0 Pn            .        .GOR  .  .    KMackey            
+P   STE                Pn       1970 12 23  7  3  0.2   -1   0.0 Pn            .        .STE  .  .    KMackey            
+P   PYA                Pn       1970 12 23  7  3  2.7   -1   0.0 Pn            .        .PYA  .  .    KMackey            
+P   PYA                Pg       1970 12 23  7  3 39.7   -1   0.0 Pg            .        .PYA  .  .    KMackey            
+P   PYA                Sn       1970 12 23  7  4 37.7   -1   0.0 Sn            .        .PYA  .  .    KMackey            
+P   ERE                Pn       1970 12 23  7  3  3.0   -1   0.0 Pn            .        .ERE  .  .    KMackey            
+P   ERE                Sn       1970 12 23  7  4 43.0   -1   0.0 Sn            .        .ERE  .  .    KMackey            
+P   ERE                Lg       1970 12 23  7  5 35.0   -1   0.0 Lg            .        .ERE  .  .    KMackey            
+P   BKR                Pn       1970 12 23  7  3  6.4   -1   0.0 Pn            .        .BKR  .  .    KMackey            
+P   ABS                Pn       1970 12 23  7  3 12.4   -1   0.0 Pn            .        .ABS  .  .    KMackey            
+P   SAM                Pn       1970 12 23  7  3 20.0   -1   0.0 Pn            .        .SAM  .  .    KMackey            
+P   SAM                Pg       1970 12 23  7  4  7.0   -1   0.0 Pg            .        .SAM  .  .    KMackey            
+P x SAM                Sn       1970 12 23  7  5 11.0   -1   0.0 Sn            .        .SAM  .  .    KMackey            
+P   TAS                Pn       1970 12 23  7  3 35.0   -1   0.0 Pn            .        .TAS  .  .    KMackey            
+P   SOC                Pn       1970 12 23  7  3 37.0   -1   0.0 Pn            .        .SOC  .  .    KMackey            
+P   SOC                Lg       1970 12 23  7  6 52.0   -1   0.0 Lg            .        .SOC  .  .    KMackey            
+P   DSH                Pn       1970 12 23  7  3 46.0   -1   0.0 Pn            .        .DSH  .  .    KMackey            
+P   ANN                Pn       1970 12 23  7  3 58.0   -1   0.0 Pn            .        .ANN  .  .    KMackey            
+P   KUL                Pn       1970 12 23  7  3 58.9   -1   0.0 Pn            .        .KUL  .  .    KMackey            
+P   NAM                Pn       1970 12 23  7  4  0.4   -1   0.0 Pn            .        .NAM  .  .    KMackey            
+P   NAM                Sn       1970 12 23  7  6 25.2   -1   0.0 Sn            .        .NAM  .  .    KMackey            
+P   FRG                Pn       1970 12 23  7  4  3.3   -1   0.0 Pn            .        .FRG  .  .    KMackey            
+P   SVE                Pn       1970 12 23  7  4  7.0   -1   0.0 Pn            .        .SVE  .  .    KMackey            
+P   SVE                Sn       1970 12 23  7  6 36.0   -1   0.0 Sn            .        .SVE  .  .    KMackey            
+P   ANR                Pn       1970 12 23  7  4  7.5   -1   0.0 Pn            .        .ANR  .  .    KMackey            
+P   ANR                Lg       1970 12 23  7  8  2.0   -1   0.0 Lg            .        .ANR  .  .    KMackey            
+P   BRVK               Pn       1970 12 23  7  4 11.4   -1   0.0 Pn            .        .BRVK .  .    KMackey            
+P   FEO                Pn       1970 12 23  7  4 16.0   -1   0.0 Pn            .        .FEO  .  .    KMackey            
+P   KHO                Pn       1970 12 23  7  4 19.1   -1   0.0 Pn            .        .KHO  .  .    KMackey            
+P   YAL                Pn       1970 12 23  7  4 28.0   -1   0.0 Pn            .        .YAL  .  .    KMackey            
+P   SIM                Pn       1970 12 23  7  4 29.0   -1   0.0 Pn            .        .SIM  .  .    KMackey            
+P   MUR                Pn       1970 12 23  7  4 36.2   -1   0.0 Pn            .        .MUR  .  .    KMackey            
+P   MUR                Lg       1970 12 23  7  9 20.7   -1   0.0 Lg            .        .MUR  .  .    KMackey            
+P x FAB                Pn       1970 12 23  7  4 37.0   -1   0.0 Pn            .        .FAB  .  .    KMackey            
+P   NRN                Pn       1970 12 23  7  4 39.0   -1   0.0 Pn            .        .NRN  .  .    KMackey            
+P x MOS                Pn       1970 12 23  7  4 43.0   -1   0.0 Pn            .        .MOS  .  .    KMackey            
+P x OBN                Pn       1970 12 23  7  4 44.0   -1   0.0 Pn            .        .OBN  .  .    KMackey            
+P   OBN                Pg       1970 12 23  7  5 44.0   -1   0.0 Pg            .        .OBN  .  .    KMackey            
+P   OBN                Sn       1970 12 23  7  7 47.0   -1   0.0 Sn            .        .OBN  .  .    KMackey            
+P   OBN                Lg       1970 12 23  7  9 36.0   -1   0.0 Lg            .        .OBN  .  .    KMackey            
+P   AAB                Pn       1970 12 23  7  4 44.6   -1   0.0 Pn            .        .AAB  .  .    KMackey            
+P   AAA                Pn       1970 12 23  7  4 44.9   -1   0.0 Pn            .        .AAA  .  .    KMackey            
+P   KDS+G              Pn       1970 12 23  7  4 49.5   -1   0.0 Pn            .        .KDS+G.  .    KMackey            
+P   KRM                Pn       1970 12 23  7  4 56.5   -1   0.0 Pn            .        .KRM  .  .    KMackey            
+P   KIS                Pn       1970 12 23  7  5 13.5   -1   0.0 Pn            .        .KIS  .  .    KMackey            
+P   CRA                P        1970 12 23  7  5 38.4   -1   0.0 P             .        .CRA  .  .    KMackey            
+P   CRA                S        1970 12 23  7  9 26.4   -1   0.0 S             .        .CRA  .  .    KMackey            
+P   KSV                P        1970 12 23  7  5 43.0   -1   0.0 P             .        .KSV  .  .    KMackey            
+P x KSV                S        1970 12 23  7  9 45.0   -1   0.0 S             .        .KSV  .  .    KMackey            
+P   NVS                P        1970 12 23  7  5 47.1   -1   0.0 P             .        .NVS  .  .    KMackey            
+P   NVS                P        1970 12 23  7  5 47.2   -1   0.0 P             .        .NVS  .  .    KMackey            
+P   NVS                S        1970 12 23  7  9 45.8   -1   0.0 S             .        .NVS  .  .    KMackey            
+P   RAK                P        1970 12 23  7  5 50.0   -1   0.0 P             .        .RAK  .  .    KMackey            
+P   RAK                S        1970 12 23  7  9 53.0   -1   0.0 S             .        .RAK  .  .    KMackey            
+P   PUL                P        1970 12 23  7  5 51.0   -1   0.0 P             .        .PUL  .  .    KMackey            
+P   PUL                P        1970 12 23  7  5 52.0   -1   0.0 P             .        .PUL  .  .    KMackey            
+P   PUL                S        1970 12 23  7  9 50.0   -1   0.0 S             .        .PUL  .  .    KMackey            
+P   PUL                S        1970 12 23  7  9 51.0   -1   0.0 S             .        .PUL  .  .    KMackey            
+P   LVV                P        1970 12 23  7  5 52.3   -1   0.0 P             .        .LVV  .  .    KMackey            
+P   ELT                P        1970 12 23  7  6  0.1   -1   0.0 P             .        .ELT  .  .    KMackey            
+P   ELT                P        1970 12 23  7  6  0.8   -1   0.0 P             .        .ELT  .  .    KMackey            
+P   UZH                P        1970 12 23  7  6  1.8   -1   0.0 P             .        .UZH  .  .    KMackey            
+P   APA                P        1970 12 23  7  6 36.0   -1   0.0 P             .        .APA  .  .    KMackey            
+P   UER                P        1970 12 23  7  6 44.5   -1   0.0 P             .        .UER  .  .    KMackey            
+P   UER                P        1970 12 23  7  6 44.5   -1   0.0 P             .        .UER  .  .    KMackey            
+P   UER                Lg       1970 12 23  7 15 14.5   -1   0.0 Lg            .        .UER  .  .    KMackey            
+P   NRI                P        1970 12 23  7  7 16.0   -1   0.0 P             .        .NRI  .  .    KMackey            
+P   NRI                P        1970 12 23  7  7 16.0   -1   0.0 P             .        .NRI  .  .    KMackey            
+P   ORL                P        1970 12 23  7  7 17.8   -1   0.0 P             .        .ORL  .  .    KMackey            
+P   MOY                P        1970 12 23  7  7 24.2   -1   0.0 P             .        .MOY  .  .    KMackey            
+P   ARS                P        1970 12 23  7  7 31.6   -1   0.0 P             .        .ARS  .  .    KMackey            
+P   ZAK                P        1970 12 23  7  7 37.1   -1   0.0 P             .        .ZAK  .  .    KMackey            
+P   ZAK                P        1970 12 23  7  7 37.6   -1   0.0 P             .        .ZAK  .  .    KMackey            
+P   IRK                P        1970 12 23  7  7 40.5   -1   0.0 P             .        .IRK  .  .    KMackey            
+P   IRK                P        1970 12 23  7  7 40.6   -1   0.0 P             .        .IRK  .  .    KMackey            
+P   TRG                P        1970 12 23  7  7 50.8   -1   0.0 P             .        .TRG  .  .    KMackey            
+P   KHE                P        1970 12 23  7  8 11.0   -1   0.0 P             .        .KHE  .  .    KMackey            
+P   BDN                P        1970 12 23  7  8 11.0   -1   0.0 P             .        .BDN  .  .    KMackey            
+P   KMO                P        1970 12 23  7  8 12.5   -1   0.0 P             .        .KMO  .  .    KMackey            
+P   BOD                P        1970 12 23  7  8 23.1   -1   0.0 P             .        .BOD  .  .    KMackey            
+P   BOD                P        1970 12 23  7  8 23.2   -1   0.0 P             .        .BOD  .  .    KMackey            
+P   UKT                P        1970 12 23  7  8 25.5   -1   0.0 P             .        .UKT  .  .    KMackey            
+P   KPC                P        1970 12 23  7  8 28.2   -1   0.0 P             .        .KPC  .  .    KMackey            
+P   CIT                P        1970 12 23  7  8 29.6   -1   0.0 P             .        .CIT  .  .    KMackey            
+P   NLY                P        1970 12 23  7  8 33.5   -1   0.0 P             .        .NLY  .  .    KMackey            
+P   SRK                P        1970 12 23  7  8 43.0   -1   0.0 P             .        .SRK  .  .    KMackey            
+P   CRS                P        1970 12 23  7  8 44.2   -1   0.0 P             .        .CRS  .  .    KMackey            
+P   TIK                P        1970 12 23  7  9  8.0   -1   0.0 P             .        .TIK  .  .    KMackey            
+P   TIK                P        1970 12 23  7  9  8.1   -1   0.0 P             .        .TIK  .  .    KMackey            
+P   YAK                P        1970 12 23  7  9 20.0   -1   0.0 P             .        .YAK  .  .    KMackey            
+P   KLR                P        1970 12 23  7 10  4.0   -1   0.0 P             .        .KLR  .  .    KMackey            
+P   SEY                P        1970 12 23  7 10 33.8   -1   0.0 P             .        .SEY  .  .    KMackey            
+P   MGD                P        1970 12 23  7 10 41.0   -1   0.0 P             .        .MGD  .  .    KMackey            
+P   UGL                P        1970 12 23  7 10 47.4   -1   0.0 P             .        .UGL  .  .    KMackey            
+P   ILT                P        1970 12 23  7 11 17.0   -1   0.0 P             .        .ILT  .  .    KMackey            
+P   PET                P        1970 12 23  7 11 29.0   -1   0.0 P             .        .PET  .  .    KMackey            
+P   SRI      8.37 212  P/PKP    1970 12 23  7  2 57.5   -1  -7.9 P/PKP         .        .SRI  .  .    ISC                
+P   MSH      8.48 153  P/PKP    1970 12 23  7  3  2.2   -1  -4.7 P/PKP         .        .MSH  .  .    ISC                
+P x MSH      8.48 153           1970 12 23  7  3 48.     0 999.9               .        .MSH  .  .    ISC                
+P x MSH      8.48 153           1970 12 23  7  5 49.     0 999.9               .        .MSH  .  .    ISC                
+P   TEH      8.68 199  P/PKP    1970 12 23  7  3  4.5   -1  -5.3 P/PKP         .        .TEH  .  .    ISC                
+P   TAB      8.78 230  P/PKP    1970 12 23  7  3  7.5   -1  -3.6 P/PKP         .        .TAB  .  .    ISC                
+P   KBL     14.45 126  P/PKP    1970 12 23  7  4 22.1   -1  -5.6 P/PKP         .        .KBL  .  .    ISC                
+P   SHI     14.45 188  P/PKP    1970 12 23  7  4 23.3   -1  -4.5 P/PKP         .        .SHI  .  .    ISC                
+P   KAS     15.76 268  P/PKP    1970 12 23  7  4 40.5   -1  -4.3 P/PKP         .        .KAS  .  .    ISC                
+P   KSA     17.91 242  P/PKP    1970 12 23  7  5  9.0   -1  -3.0 P/PKP         .        .KSA  .  .    ISC                
+P x KSA     17.91 242  S        1970 12 23  7  5 54.     0 999.9 S             .        .KSA  .  .    ISC                
+P   GPA     18.59 267  P/PKP    1970 12 23  7  5 16.0   -1  -4.4 P/PKP         .        .GPA  .  .    ISC                
+P   ISK     19.24 270  P/PKP    1970 12 23  7  5 24.5   -1  -3.8 P/PKP         .        .ISK  .  .    ISC                
+P   IST     19.30 270  P/PKP    1970 12 23  7  5 25.     0  -3.9 P/PKP         .        .IST  .  .    ISC                
+P   IAS     19.36 289  P/PKP    1970 12 23  7  5 24.     0  -5.6 P/PKP         .        .IAS  .  .    ISC                
+P   JER     19.71 238  P/PKP    1970 12 23  7  5 30.8   -1  -3.0 P/PKP         .        .JER  .  .    ISC                
+P x JER     19.71 238  S        1970 12 23  7  9 18.     0 999.9 S             .        .JER  .  .    ISC                
+P   BAC     19.83 287  P/PKP    1970 12 23  7  5 29.     0  -6.0 P/PKP         .        .BAC  .  .    ISC                
+P   DMK     19.97 273  P/PKP    1970 12 23  7  5 33.5   -1  -3.1 P/PKP         .        .DMK  .  .    ISC                
+P   VRI     20.00 285  P/PKP    1970 12 23  7  5 33.     0  -3.8 P/PKP         .        .VRI  .  .    ISC                
+P   VRI     20.00 285  P        1970 12 23  7  5 34.     0 999.9 P             .        .VRI  .  .    ISC                
+P   DRB     20.04 266  P/PKP    1970 12 23  7  5 34.2   -1  -3.1 P/PKP         .        .DRB  .  .    ISC                
+P   BUC     20.61 281  P/PKP    1970 12 23  7  5 41.     0  -2.3 P/PKP         .        .BUC  .  .    ISC                
+P   CIN     21.23 262  P/PKP    1970 12 23  7  5 46.     0  -3.6 P/PKP         .        .CIN  .  .    ISC                
+P   CMP     21.24 284  P/PKP    1970 12 23  7  5 47.     0  -2.7 P/PKP         .        .CMP  .  .    ISC                
+P   EIL     21.45 234  P/PKP    1970 12 23  7  5 48.0   -1  -3.9 P/PKP         .        .EIL  .  .    ISC                
+P x EIL     21.45 234  S        1970 12 23  7  9 52.     0 999.9 S             .        .EIL  .  .    ISC                
+P   ARG     21.84 258  P/PKP    1970 12 23  7  5 47.     0  -8.8 P/PKP         .        .ARG  .  .    ISC                
+P   PRK     21.87 267  P/PKP    1970 12 23  7  5 52.3   -1  -3.8 P/PKP         .        .PRK  .  .    ISC                
+P   HLW     23.43 241  P/PKP    1970 12 23  7  6  8.8   -1  -2.7 P/PKP         .        .HLW  .  .    ISC                
+P x HLW     23.43 241  S        1970 12 23  7 11 27.     0 999.9 S             .        .HLW  .  .    ISC                
+P   NDI     23.49 123  P/PKP    1970 12 23  7  6 10.5   -1  -1.6 P/PKP         .        .NDI  .  .    ISC                
+P x NDI     23.49 123           1970 12 23  7 10 33.     0 999.9               .        .NDI  .  .    ISC                
+P   TIM     23.84 286  P/PKP    1970 12 23  7  6 15.4   -1   0.1 P/PKP         .        .TIM  .  .    ISC                
+P   JOS     24.06 293  P/PKP    1970 12 23  7  6 15.9   -1  -1.5 P/PKP         .        .JOS  .  .    ISC                
+P   JOS     24.06 293  PPP      1970 12 23  7  7 10.     0 999.9 PPP           .        .JOS  .  .    ISC                
+P x JOS     24.06 293           1970 12 23  7  8 45.     0 999.9               .        .JOS  .  .    ISC                
+P   JOS     24.06 293  SS       1970 12 23  7 10  0.     0 999.9 SS            .        .JOS  .  .    ISC                
+P x JOS     24.06 293           1970 12 23  7 15  0.     0 999.9               .        .JOS  .  .    ISC                
+P x JOS     24.06 293  SCS      1970 12 23  7 17 12.     0 999.9 SCS           .        .JOS  .  .    ISC                
+P   NIE     24.18 295  P/PKP    1970 12 23  7  6 16.     0  -2.6 P/PKP         .        .NIE  .  .    ISC                
+P   ATH     24.21 266  P/PKP    1970 12 23  7  6 17.0   -1  -2.0 P/PKP         .        .ATH  .  .    ISC                
+P x ATH     24.21 266  S        1970 12 23  7 10 52.     0 999.9 S             .        .ATH  .  .    ISC                
+P   KRA     24.43 297  P/PKP    1970 12 23  7  6 19.0   -1  -2.0 P/PKP         .        .KRA  .  .    ISC                
+P x KRA     24.43 297           1970 12 23  7  6 23.     0 999.9               .        .KRA  .  .    ISC                
+P x KRA     24.43 297           1970 12 23  7  6 43.     0 999.9               .        .KRA  .  .    ISC                
+P   KRA     24.43 297  PP       1970 12 23  7  6 56.     0 999.9 PP            .        .KRA  .  .    ISC                
+P   KRA     24.43 297  PPP      1970 12 23  7  7 22.     0 999.9 PPP           .        .KRA  .  .    ISC                
+P   KRA     24.43 297  SS       1970 12 23  7 11 26.     0 999.9 SS            .        .KRA  .  .    ISC                
+P   KRA     24.43 297  PCS      1970 12 23  7 13 42.     0 999.9 PCS           .        .KRA  .  .    ISC                
+P   SKO     24.47 277  P/PKP    1970 12 23  7  6 20.7   -1  -0.8 P/PKP         .        .SKO  .  .    ISC                
+P   NUR     24.49 323  P/PKP    1970 12 23  7  6 19.0   -1  -2.5 P/PKP         .        .NUR  .  .    ISC                
+P x NUR     24.49 323           1970 12 23  7  6 27.     0 999.9               .        .NUR  .  .    ISC                
+P   NUR     24.49 323  S        1970 12 23  7 10 44.     0 999.9 S             .        .NUR  .  .    ISC                
+P   PSZ     24.52 292  P/PKP    1970 12 23  7  6 20.     0  -1.9 P/PKP         .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 10 15.     0 999.9               .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 11 25.     0 999.9               .        .PSZ  .  .    ISC                
+P   PSZ     24.52 292           1970 12 23  7 12 15.     0 999.9               .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 13  9.     0 999.9               .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 13 36.     0 999.9               .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 14 14.     0 999.9               .        .PSZ  .  .    ISC                
+P x PSZ     24.52 292           1970 12 23  7 16  2.     0 999.9               .        .PSZ  .  .    ISC                
+P   KEC     24.74 289  P/PKP    1970 12 23  7  6 15.     0  -9.1 P/PKP         .        .KEC  .  .    ISC                
+P   KEC     24.74 289  P        1970 12 23  7  6 23.     0 999.9 P             .        .KEC  .  .    ISC                
+P x KEC     24.74 289           1970 12 23  7  6 54.     0 999.9               .        .KEC  .  .    ISC                
+P x KEC     24.74 289           1970 12 23  7  7 15.     0 999.9               .        .KEC  .  .    ISC                
+P x KEC     24.74 289  SCS      1970 12 23  7 17  2.     0 999.9 SCS           .        .KEC  .  .    ISC                
+P   VAM     24.94 261  P/PKP    1970 12 23  7  6 23.9   -1  -2.2 P/PKP         .        .VAM  .  .    ISC                
+P   VAM     24.94 261  S        1970 12 23  7 10 52.     0 999.9 S             .        .VAM  .  .    ISC                
+P   KJN     25.32 332  P/PKP    1970 12 23  7  6 28.1   -1  -1.4 P/PKP         .        .KJN  .  .    ISC                
+P x KJN     25.32 332           1970 12 23  7  6 38.     0 999.9               .        .KJN  .  .    ISC                
+P   KJN     25.32 332  S        1970 12 23  7 11  1.     0   7.3 S             .        .KJN  .  .    ISC                
+P   PAT     25.52 268  P/PKP    1970 12 23  7  6 40.     0   8.4 P/PKP         .        .PAT  .  .    ISC                
+P   JAN     25.63 272  P/PKP    1970 12 23  7  6 30.0   -1  -2.6 P/PKP         .        .JAN  .  .    ISC                
+P   BRA     26.36 292  P/PKP    1970 12 23  7  6 36.4   -1  -2.9 P/PKP         .        .BRA  .  .    ISC                
+P x BRA     26.36 292           1970 12 23  7  6 51.     0 999.9               .        .BRA  .  .    ISC                
+P   BRA     26.36 292  PP       1970 12 23  7  7 12.     0 999.9 PP            .        .BRA  .  .    ISC                
+P   BRA     26.36 292  PPP      1970 12 23  7  7 18.     0  -3.9 PPP           .        .BRA  .  .    ISC                
+P   VLS     26.38 269  P/PKP    1970 12 23  7  6 36.4   -1  -3.2 P/PKP         .        .VLS  .  .    ISC                
+P   OUL     26.57 333  P/PKP    1970 12 23  7  6 38.0   -1  -3.0 P/PKP         .        .OUL  .  .    ISC                
+P   VIE     26.85 293  P/PKP    1970 12 23  7  6 42.1   -1  -1.7 P/PKP         .        .VIE  .  .    ISC                
+P x VIE     26.85 293           1970 12 23  7  7  5.     0 999.9               .        .VIE  .  .    ISC                
+P   VIE     26.85 293  PP       1970 12 23  7  7 23.     0 999.9 PP            .        .VIE  .  .    ISC                
+P   VIE     26.85 293  PPP      1970 12 23  7  7 33.     0   4.3 PPP           .        .VIE  .  .    ISC                
+P x VIE     26.85 293  S        1970 12 23  7 11  9.     0 999.9 S             .        .VIE  .  .    ISC                
+P   VKA     26.88 293  P/PKP    1970 12 23  7  6 42.1   -1  -1.9 P/PKP         .        .VKA  .  .    ISC                
+P   VKA     26.88 293  PP       1970 12 23  7  7 23.     0  -6.1 PP            .        .VKA  .  .    ISC                
+P x VKA     26.88 293  S        1970 12 23  7 11  9.     0 999.9 S             .        .VKA  .  .    ISC                
+P   ZAG     27.44 288  P/PKP    1970 12 23  7  6 46.     0  -3.2 P/PKP         .        .ZAG  .  .    ISC                
+P x ZAG     27.44 288           1970 12 23  7  6 47.     0 999.9               .        .ZAG  .  .    ISC                
+P x ZAG     27.44 288           1970 12 23  7  7 25.     0 999.9               .        .ZAG  .  .    ISC                
+P   UPP     27.45 318  P/PKP    1970 12 23  7  6 45.3   -1  -3.8 P/PKP         .        .UPP  .  .    ISC                
+P   SOD     27.84 337  P/PKP    1970 12 23  7  6 50.3   -1  -2.3 P/PKP         .        .SOD  .  .    ISC                
+P   PRU     27.91 297  P/PKP    1970 12 23  7  6 51.2   -1  -2.2 P/PKP         .        .PRU  .  .    ISC                
+P   LJU     28.40 288  P/PKP    1970 12 23  7  6 56.     0  -1.8 P/PKP         .        .LJU  .  .    ISC                
+P x LJU     28.40 288           1970 12 23  7 10  8.     0  -2.5               .        .LJU  .  .    ISC                
+P   KHC     28.60 295  P/PKP    1970 12 23  7  6 57.1   -1  -2.6 P/PKP         .        .KHC  .  .    ISC                
+P   BRL     28.63 302  P/PKP    1970 12 23  7  6 55.5   -1  -4.4 P/PKP         .        .BRL  .  .    ISC                
+P   CLL     28.83 300  P/PKP    1970 12 23  7  6 59.     0  -2.7 P/PKP         .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7  7 24.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7  7 43.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7  8 23.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7  8 50.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7 13 56.     0   3.4               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7 14 30.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7 17 18.     0 999.9               .        .CLL  .  .    ISC                
+P x CLL     28.83 300           1970 12 23  7 18 47.     0 999.9               .        .CLL  .  .    ISC                
+P   CLL     28.83 300  L        1970 12 23  7 19 24.     0 999.9 L             .        .CLL  .  .    ISC                
+P   CLL     28.83 300           1970 12 23  7 20 18.     0 999.9               .        .CLL  .  .    ISC                
+P   TRI     28.99 288  P/PKP    1970 12 23  7  7  0.0   -1  -3.2 P/PKP         .        .TRI  .  .    ISC                
+P   COP     29.31 309  P/PKP    1970 12 23  7  7  3.0   -1  -3.0 P/PKP         .        .COP  .  .    ISC                
+P x COP     29.31 309  PCP      1970 12 23  7  7 25.     0 999.9 PCP           .        .COP  .  .    ISC                
+P   HFS     29.42 318  P/PKP    1970 12 23  7  7  3.0   -1  -3.9 P/PKP         .        .HFS  .  .    ISC                
+P   KEV     29.43 341  P/PKP    1970 12 23  7  7  4.9   -1  -2.0 P/PKP         .        .KEV  .  .    ISC                
+P x KEV     29.43 341           1970 12 23  7  7 16.     0 999.9               .        .KEV  .  .    ISC                
+P   MOX     29.74 298  P/PKP    1970 12 23  7  7  7.5   -1  -2.4 P/PKP         .        .MOX  .  .    ISC                
+P   MOX     29.74 298  PN       1970 12 23  7  7 35.     0 999.9 PN            .        .MOX  .  .    ISC                
+P x MOX     29.74 298           1970 12 23  7  7 36.     0 999.9               .        .MOX  .  .    ISC                
+P x MOX     29.74 298           1970 12 23  7  7 42.     0 999.9               .        .MOX  .  .    ISC                
+P x MOX     29.74 298           1970 12 23  7  8 10.     0 999.9               .        .MOX  .  .    ISC                
+P   MOX     29.74 298           1970 12 23  7  8 10.     0   3.6               .        .MOX  .  .    ISC                
+P x MOX     29.74 298           1970 12 23  7  8 48.     0 999.9               .        .MOX  .  .    ISC                
+P   MOX     29.74 298  PCP      1970 12 23  7 10 10.     0  -3.7 PCP           .        .MOX  .  .    ISC                
+P   KIR     29.98 335  P/PKP    1970 12 23  7  7  8.9   -1  -3.0 P/PKP         .        .KIR  .  .    ISC                
+P   GRF     30.08 297  P/PKP    1970 12 23  7  7 11.4   -1  -1.6 P/PKP         .        .GRF  .  .    ISC                
+P   FUR     30.24 293  P/PKP    1970 12 23  7  7 11.0   -1  -3.3 P/PKP         .        .FUR  .  .    ISC                
+P x FUR     30.24 293           1970 12 23  7  7 28.     0 999.9               .        .FUR  .  .    ISC                
+P x FUR     30.24 293           1970 12 23  7  7 50.     0 999.9               .        .FUR  .  .    ISC                
+P   FUR     30.24 293  PP       1970 12 23  7  8 15.     0   2.2 PP            .        .FUR  .  .    ISC                
+P   FUR     30.24 293  PPP      1970 12 23  7  8 24.     0  -3.1 PPP           .        .FUR  .  .    ISC                
+P x FUR     30.24 293           1970 12 23  7  8 33.     0 999.9               .        .FUR  .  .    ISC                
+P x FUR     30.24 293  PCP      1970 12 23  7 10  1.     0 999.9 PCP           .        .FUR  .  .    ISC                
+P x FUR     30.24 293           1970 12 23  7 10 20.     0   5.0               .        .FUR  .  .    ISC                
+P   FUR     30.24 293  S        1970 12 23  7 12 11.     0  -2.5 S             .        .FUR  .  .    ISC                
+P   HAM     30.67 304  P/PKP    1970 12 23  7  7 15.7   -1  -2.4 P/PKP         .        .HAM  .  .    ISC                
+P   RMP     30.75 281  P/PKP    1970 12 23  7  7 16.8   -1  -2.1 P/PKP         .        .RMP  .  .    ISC                
+P x RMP     30.75 281  S        1970 12 23  7 11 30.     0 999.9 S             .        .RMP  .  .    ISC                
+P   KON     31.34 316  P/PKP    1970 12 23  7  7 20.4   -1  -3.5 P/PKP         .        .KON  .  .    ISC                
+P   TRO     31.47 337  P/PKP    1970 12 23  7  7 22.2   -1  -2.8 P/PKP         .        .TRO  .  .    ISC                
+P x TRO     31.47 337           1970 12 23  7  7 31.     0 999.9               .        .TRO  .  .    ISC                
+P x TRO     31.47 337           1970 12 23  7  7 57.     0 999.9               .        .TRO  .  .    ISC                
+P   STU     31.52 295  P/PKP    1970 12 23  7  7 22.5   -1  -3.1 P/PKP         .        .STU  .  .    ISC                
+P   KRL     31.99 296  P/PKP    1970 12 23  7  7 28.0   -1  -1.7 P/PKP         .        .KRL  .  .    ISC                
+P   BUH     32.16 295  P/PKP    1970 12 23  7  7 28.8   -1  -2.5 P/PKP         .        .BUH  .  .    ISC                
+P   STR     32.48 295  P/PKP    1970 12 23  7  7 31.6   -1  -2.4 P/PKP         .        .STR  .  .    ISC                
+P x STR     32.48 295           1970 12 23  7  7 32.     0 999.9               .        .STR  .  .    ISC                
+P x STR     32.48 295           1970 12 23  7  7 42.     0 999.9               .        .STR  .  .    ISC                
+P   STR     32.48 295  PP       1970 12 23  7  8 49.     0   7.0 PP            .        .STR  .  .    ISC                
+P   BNS     32.52 299  P/PKP    1970 12 23  7  7 31.9   -1  -2.4 P/PKP         .        .BNS  .  .    ISC                
+P x BNS     32.52 299  PP       1970 12 23  7  8 32.     0 999.9 PP            .        .BNS  .  .    ISC                
+P   BNS     32.52 299  RM       1970 12 23  7 24 20.     0 999.9 RM            .        .BNS  .  .    ISC                
+P   WIT     32.66 303  P/PKP    1970 12 23  7  7 32.9   -1  -2.6 P/PKP         .        .WIT  .  .    ISC                
+P   WLS     32.78 295  P/PKP    1970 12 23  7  7 33.7   -1  -2.9 P/PKP         .        .WLS  .  .    ISC                
+P   BAS     32.80 293  P/PKP    1970 12 23  7  7 35.     0  -1.8 P/PKP         .        .BAS  .  .    ISC                
+P x BAS     32.80 293  S        1970 12 23  7  9 58.     0 999.9 S             .        .BAS  .  .    ISC                
+P   CDF     32.84 295  P/PKP    1970 12 23  7  7 34.2   -1  -2.9 P/PKP         .        .CDF  .  .    ISC                
+P   HYB     33.17 136  P/PKP    1970 12 23  7  7 37.     0  -3.3 P/PKP         .        .HYB  .  .    ISC                
+P   BSF     33.26 294  P/PKP    1970 12 23  7  7 37.8   -1  -3.0 P/PKP         .        .BSF  .  .    ISC                
+P   HAU     33.52 294  P/PKP    1970 12 23  7  7 40.0   -1  -3.1 P/PKP         .        .HAU  .  .    ISC                
+P x RSL     33.86 290  P/PKP    1970 12 23  7  7 40.1   -1  -6.0 P/PKP         .        .RSL  .  .    ISC                
+P x RSL     33.86 290           1970 12 23  7  7 59.     0 999.9               .        .RSL  .  .    ISC                
+P x RSL     33.86 290           1970 12 23  7  8 39.     0 999.9               .        .RSL  .  .    ISC                
+P   BES     33.92 293  P/PKP    1970 12 23  7  7 43.9   -1  -2.6 P/PKP         .        .BES  .  .    ISC                
+P x BES     33.92 293           1970 12 23  7  8  0.     0 999.9               .        .BES  .  .    ISC                
+P   ISO     33.98 287  P/PKP    1970 12 23  7  7 43.5   -1  -3.7 P/PKP         .        .ISO  .  .    ISC                
+P x ISO     33.98 287           1970 12 23  7  7 44.     0 999.9               .        .ISO  .  .    ISC                
+P x ISO     33.98 287           1970 12 23  7  7 48.     0 999.9               .        .ISO  .  .    ISC                
+P   DOU     34.27 298  P/PKP    1970 12 23  7  7 45.9   -1  -3.7 P/PKP         .        .DOU  .  .    ISC                
+P   DOU     34.27 298  LQ       1970 12 23  7 18  8.     0 999.9 LQ            .        .DOU  .  .    ISC                
+P   DOU     34.27 298  LR       1970 12 23  7 20  0.     0 999.9 LR            .        .DOU  .  .    ISC                
+P x UCC     34.31 300  P/PKP    1970 12 23  7  7 52.     0   2.1 P/PKP         .        .UCC  .  .    ISC                
+P   VOU     34.34 292  P/PKP    1970 12 23  7  7 47.1   -1  -3.1 P/PKP         .        .VOU  .  .    ISC                
+P   SPF     34.41 286  P/PKP    1970 12 23  7  7 48.8   -1  -2.1 P/PKP         .        .SPF  .  .    ISC                
+P   LRG     34.68 286  P/PKP    1970 12 23  7  7 50.4   -1  -2.7 P/PKP         .        .LRG  .  .    ISC                
+P x MNY     34.69 289  P/PKP    1970 12 23  7  7 47.     0  -6.3 P/PKP         .        .MNY  .  .    ISC                
+P x MNY     34.69 289           1970 12 23  7  7 48.     0 999.9               .        .MNY  .  .    ISC                
+P   SHL     35.14 109  P/PKP    1970 12 23  7  7 53.7   -1  -3.6 P/PKP         .        .SHL  .  .    ISC                
+P   LBF     35.31 293  P/PKP    1970 12 23  7  7 55.3   -1  -3.2 P/PKP         .        .LBF  .  .    ISC                
+P   LOR     35.33 294  P/PKP    1970 12 23  7  7 55.3   -1  -3.4 P/PKP         .        .LOR  .  .    ISC                
+P   SSF     35.61 293  P/PKP    1970 12 23  7  7 57.6   -1  -3.4 P/PKP         .        .SSF  .  .    ISC                
+P   GBA     35.91 141  P/PKP    1970 12 23  7  8  1.     0  -3.0 P/PKP         .        .GBA  .  .    ISC                
+P   TCF     36.67 293  P/PKP    1970 12 23  7  8  7.7   -1  -2.3 P/PKP         .        .TCF  .  .    ISC                
+P   DUR     37.34 307  P/PKP    1970 12 23  7  8 13.0   -1  -2.5 P/PKP         .        .DUR  .  .    ISC                
+P   SSC     37.59 297  P/PKP    1970 12 23  7  8 14.8   -1  -2.9 P/PKP         .        .SSC  .  .    ISC                
+P   ARH     37.65 291  P/PKP    1970 12 23  7  8 16.3   -1  -1.9 P/PKP         .        .ARH  .  .    ISC                
+P   FLN     37.79 297  P/PKP    1970 12 23  7  8 16.5   -1  -2.9 P/PKP         .        .FLN  .  .    ISC                
+P   LPO     37.83 290  P/PKP    1970 12 23  7  8 17.6   -1  -2.2 P/PKP         .        .LPO  .  .    ISC                
+P   EGL     37.86 309  P/PKP    1970 12 23  7  8 17.1   -1  -2.8 P/PKP         .        .EGL  .  .    ISC                
+P   EBL     38.04 309  P/PKP    1970 12 23  7  8 18.7   -1  -2.7 P/PKP         .        .EBL  .  .    ISC                
+P x EBL     38.04 309           1970 12 23  7  9 20.     0 999.9               .        .EBL  .  .    ISC                
+P   LFF     38.06 291  P/PKP    1970 12 23  7  8 19.7   -1  -2.0 P/PKP         .        .LFF  .  .    ISC                
+P   EDI     38.10 309  P/PKP    1970 12 23  7  8 19.4   -1  -2.6 P/PKP         .        .EDI  .  .    ISC                
+P   GRR     38.12 297  P/PKP    1970 12 23  7  8 19.0   -1  -3.2 P/PKP         .        .GRR  .  .    ISC                
+P   EKA     38.16 308  P/PKP    1970 12 23  7  8 20.2   -1  -2.3 P/PKP         .        .EKA  .  .    ISC                
+P   ESK     38.19 308  P/PKP    1970 12 23  7  8 20.0   -1  -2.7 P/PKP         .        .ESK  .  .    ISC                
+P   ESK     38.19 308  PP       1970 12 23  7  9 44.     0 999.9 PP            .        .ESK  .  .    ISC                
+P   EBH     38.24 310  P/PKP    1970 12 23  7  8 20.1   -1  -3.0 P/PKP         .        .EBH  .  .    ISC                
+P   EAU     38.26 309  P/PKP    1970 12 23  7  8 21.0   -1  -2.3 P/PKP         .        .EAU  .  .    ISC                
+P   EBR     39.69 285  P/PKP    1970 12 23  7  8 32.8   -1  -2.6 P/PKP         .        .EBR  .  .    ISC                
+P x ALI     41.40 282  P/PKP    1970 12 23  7  8 52.4   -1   2.9 P/PKP         .        .ALI  .  .    ISC                
+P   VAL     42.99 305  P/PKP    1970 12 23  7  9  0.     0  -2.3 P/PKP         .        .VAL  .  .    ISC                
+P   TOL     43.24 286  P/PKP    1970 12 23  7  9  1.5   -1  -2.9 P/PKP         .        .TOL  .  .    ISC                
+P   ALM     43.48 281  P/PKP    1970 12 23  7  9  3.6   -1  -2.9 P/PKP         .        .ALM  .  .    ISC                
+P   ALM     43.48 281  PP       1970 12 23  7 10 45.     0  -4.6 PP            .        .ALM  .  .    ISC                
+P   NOR     44.09 348  P/PKP    1970 12 23  7  9  9.6   -1  -1.3 P/PKP         .        .NOR  .  .    ISC                
+P x NOR     44.09 348  PCP      1970 12 23  7 10 50.     0  -5.1 PCP           .        .NOR  .  .    ISC                
+P   AKU     44.16 325  P/PKP    1970 12 23  7  9 11.3   -1  -0.2 P/PKP         .        .AKU  .  .    ISC                
+P x AKU     44.16 325           1970 12 23  7 10 51.     0  -4.9               .        .AKU  .  .    ISC                
+P   SID     44.43 323  P/PKP    1970 12 23  7  9 14.0   -1   0.2 P/PKP         .        .SID  .  .    ISC                
+P   CHG     44.54 110  P/PKP    1970 12 23  7  9 10.5   -1  -4.8 P/PKP         .        .CHG  .  .    ISC                
+P x CHG     44.54 110           1970 12 23  7 10 53.     0  -6.0               .        .CHG  .  .    ISC                
+P   KTG     45.02 332  P/PKP    1970 12 23  7  9 17.8   -1  -0.6 P/PKP         .        .KTG  .  .    ISC                
+P x KTG     45.02 332  PP       1970 12 23  7 10 57.     0  -2.7 PP            .        .KTG  .  .    ISC                
+P   TAM     45.55 259  P/PKP    1970 12 23  7  9 21.0   -1  -2.3 P/PKP         .        .TAM  .  .    ISC                
+P   PTO     45.82 290  P/PKP    1970 12 23  7  9 23.0   -1  -2.2 P/PKP         .        .PTO  .  .    ISC                
+P   REY     46.02 324  P/PKP    1970 12 23  7  9 26.2   -1  -0.3 P/PKP         .        .REY  .  .    ISC                
+P   BAB     46.73 273  P/PKP    1970 12 23  7  9 29.3   -1  -3.2 P/PKP         .        .BAB  .  .    ISC                
+P   IFR     47.03 278  P/PKP    1970 12 23  7  9 32.0   -1  -2.8 P/PKP         .        .IFR  .  .    ISC                
+P x IFR     47.03 278           1970 12 23  7  9 51.     0 999.9               .        .IFR  .  .    ISC                
+P   IFR     47.03 278  PCP      1970 12 23  7 11  5.     0  -2.4 PCP           .        .IFR  .  .    ISC                
+P x IFR     47.03 278           1970 12 23  7 11 43.     0 999.9               .        .IFR  .  .    ISC                
+P   LIS     47.29 287  P/PKP    1970 12 23  7  9 35.0   -1  -1.9 P/PKP         .        .LIS  .  .    ISC                
+P   RBA     47.99 280  P/PKP    1970 12 23  7  9 38.     0  -4.4 P/PKP         .        .RBA  .  .    ISC                
+P   AVE     48.77 280  P/PKP    1970 12 23  7  9 45.5   -1  -2.9 P/PKP         .        .AVE  .  .    ISC                
+P x AVE     48.77 280  PCP      1970 12 23  7 11 15.     0   1.3 PCP           .        .AVE  .  .    ISC                
+P   ALE     50.01 351  P/PKP    1970 12 23  7  9 55.8   -1  -1.6 P/PKP         .        .ALE  .  .    ISC                
+P   BNG     50.80 230  P/PKP    1970 12 23  7 10  0.2   -1  -4.0 P/PKP         .        .BNG  .  .    ISC                
+P   LWI     51.63 214  P/PKP    1970 12 23  7 10  7.0   -1  -3.5 P/PKP         .        .LWI  .  .    ISC                
+P   HKC     52.94  94  P/PKP    1970 12 23  7 10 18.     0  -2.3 P/PKP         .        .HKC  .  .    ISC                
+P   GDH     55.57 336  P/PKP    1970 12 23  7 10 36.5   -1  -2.4 P/PKP         .        .GDH  .  .    ISC                
+P   GDH     55.57 336  PP       1970 12 23  7 12 40.     0  -4.2 PP            .        .GDH  .  .    ISC                
+P   SHK     58.89  70  P/PKP    1970 12 23  7 11  0.     0  -2.9 P/PKP         .        .SHK  .  .    ISC                
+P   RES     59.90 351  P/PKP    1970 12 23  7 11  7.2   -1  -2.1 P/PKP         .        .RES  .  .    ISC                
+P   MBC     59.98 358  P/PKP    1970 12 23  7 11  8.4   -1  -1.5 P/PKP         .        .MBC  .  .    ISC                
+P   LOM     60.11 248  P/PKP    1970 12 23  7 11  8.4   -1  -3.2 P/PKP         .        .LOM  .  .    ISC                
+P   ABU     60.66  69  P/PKP    1970 12 23  7 11 12.5   -1  -2.6 P/PKP         .        .ABU  .  .    ISC                
+P   KMU     61.21  58  P/PKP    1970 12 23  7 11 16.0   -1  -2.7 P/PKP         .        .KMU  .  .    ISC                
+P   BAG     61.34  95  P/PKP    1970 12 23  7 11 17.2   -1  -2.7 P/PKP         .        .BAG  .  .    ISC                
+P   MAT     61.44  66  P/PKP    1970 12 23  7 11 16.9   -1  -3.4 P/PKP         .        .MAT  .  .    ISC                
+P   MAT     61.44  66  PCP      1970 12 23  7 11 59.     0  -3.1 PCP           .        .MAT  .  .    ISC                
+P   MAT     61.44  66  L        1970 12 23  7 32 30.     0 999.9 L             .        .MAT  .  .    ISC                
+P   CLK     62.12 202  P/PKP    1970 12 23  7 11 22.0   -1  -3.2 P/PKP         .        .CLK  .  .    ISC                
+P   DDR     62.40  66  P/PKP    1970 12 23  7 11 23.5   -1  -3.3 P/PKP         .        .DDR  .  .    ISC                
+P   SRY     62.68  66  P/PKP    1970 12 23  7 11 26.1   -1  -2.6 P/PKP         .        .SRY  .  .    ISC                
+P   BRW     62.80  11  P/PKP    1970 12 23  7 11 27.4   -1  -1.6 P/PKP         .        .BRW  .  .    ISC                
+P x BRW     62.80  11           1970 12 23  7 13 35.     0 999.9               .        .BRW  .  .    ISC                
+P   QCP     62.87  96  P/PKP    1970 12 23  7 11 16.5   -1 -13.7 P/PKP         .        .QCP  .  .    ISC                
+P   TSK     62.88  65  P/PKP    1970 12 23  7 11 25.4   -1  -4.6 P/PKP         .        .TSK  .  .    ISC                
+P   TAN     62.97 188  P/PKP    1970 12 23  7 11 27.0   -1  -3.8 P/PKP         .        .TAN  .  .    ISC                
+P   BHA     62.97 209  P/PKP    1970 12 23  7 11 27.0   -1  -3.8 P/PKP         .        .BHA  .  .    ISC                
+P   KYS     63.50  66  P/PKP    1970 12 23  7 11 31.4   -1  -2.7 P/PKP         .        .KYS  .  .    ISC                
+P   KIC     63.98 253  P/PKP    1970 12 23  7 11 33.7   -1  -3.8 P/PKP         .        .KIC  .  .    ISC                
+P   KRR     64.82 207  P/PKP    1970 12 23  7 11 39.     0  -4.0 P/PKP         .        .KRR  .  .    ISC                
+P   GMA     67.35  15  P/PKP    1970 12 23  7 11 56.5   -1  -1.8 P/PKP         .        .GMA  .  .    ISC                
+P   INK     67.86   3  P/PKP    1970 12 23  7 11 58.7   -1  -2.8 P/PKP         .        .INK  .  .    ISC                
+P   BUL     68.22 207  P/PKP    1970 12 23  7 12  0.0   -1  -4.6 P/PKP         .        .BUL  .  .    ISC                
+P x LEM     69.37 122  P/PKP    1970 12 23  7 12  5.5   -1  -6.3 P/PKP         .        .LEM  .  .    ISC                
+P   BLC     69.62 347  P/PKP    1970 12 23  7 12 10.0   -1  -2.4 P/PKP         .        .BLC  .  .    ISC                
+P   SDB     69.71 223  P/PKP    1970 12 23  7 12 10.5   -1  -3.3 P/PKP         .        .SDB  .  .    ISC                
+P   SCH     69.81 328  P/PKP    1970 12 23  7 12 11.5   -1  -2.2 P/PKP         .        .SCH  .  .    ISC                
+P   GIL     69.96  10  P/PKP    1970 12 23  7 12 13.5   -1  -1.0 P/PKP         .        .GIL  .  .    ISC                
+P   SMY     70.40  34  P/PKP    1970 12 23  7 12 15.5   -1  -1.9 P/PKP         .        .SMY  .  .    ISC                
+P   DAV     71.22  98  P/PKP    1970 12 23  7 12 20.5   -1  -2.5 P/PKP         .        .DAV  .  .    ISC                
+P   PMR     72.98  12  P/PKP    1970 12 23  7 12 31.4   -1  -1.1 P/PKP         .        .PMR  .  .    ISC                
+P   GWC     73.26 334  P/PKP    1970 12 23  7 12 32.5   -1  -1.8 P/PKP         .        .GWC  .  .    ISC                
+P   YKC     73.53 355  P/PKP    1970 12 23  7 12 33.5   -1  -2.2 P/PKP         .        .YKC  .  .    ISC                
+P   PRE     73.61 205  P/PKP    1970 12 23  7 12 33.6   -1  -3.3 P/PKP         .        .PRE  .  .    ISC                
+P   FCC     74.43 344  P/PKP    1970 12 23  7 12 39.3   -1  -1.7 P/PKP         .        .FCC  .  .    ISC                
+P   ADK     74.62  30  P/PKP    1970 12 23  7 12 42.     0  -0.2 P/PKP         .        .ADK  .  .    ISC                
+P   WIN     74.75 216  P/PKP    1970 12 23  7 12 41.4   -1  -2.2 P/PKP         .        .WIN  .  .    ISC                
+P   KDC     76.07  15  P/PKP    1970 12 23  7 12 49.     0  -1.4 P/PKP         .        .KDC  .  .    ISC                
+P   HAL     76.18 320  P/PKP    1970 12 23  7 12 49.     0  -2.3 P/PKP         .        .HAL  .  .    ISC                
+P   SFA     77.41 325  P/PKP    1970 12 23  7 12 56.7   -1  -1.4 P/PKP         .        .SFA  .  .    ISC                
+P   SIT     78.95   6  P/PKP    1970 12 23  7 13  5.6   -1  -0.7 P/PKP         .        .SIT  .  .    ISC                
+P   BNH     79.63 324  P/PKP    1970 12 23  7 13  9.7   -1  -0.6 P/PKP         .        .BNH  .  .    ISC                
+P   FFC     79.70 347  P/PKP    1970 12 23  7 13  8.5   -1  -2.0 P/PKP         .        .FFC  .  .    ISC                
+P   MNT     79.86 326  P/PKP    1970 12 23  7 13 10.6   -1  -1.0 P/PKP         .        .MNT  .  .    ISC                
+P   OTT     80.78 327  P/PKP    1970 12 23  7 13 15.4   -1  -1.1 P/PKP         .        .OTT  .  .    ISC                
+P   GRM     81.17 204  P/PKP    1970 12 23  7 13 16.2   -1  -2.5 P/PKP         .        .GRM  .  .    ISC                
+P   WES     81.43 323  P/PKP    1970 12 23  7 13 19.8   -1  -0.1 P/PKP         .        .WES  .  .    ISC                
+P   SUD     81.82 331  P/PKP    1970 12 23  7 13 21.2   -1  -0.7 P/PKP         .        .SUD  .  .    ISC                
+P   FSJ     81.94 359  P/PKP    1970 12 23  7 13 21.4   -1  -0.9 P/PKP         .        .FSJ  .  .    ISC                
+P   EDM     82.63 353  P/PKP    1970 12 23  7 13 25.0   -1  -0.9 P/PKP         .        .EDM  .  .    ISC                
+P   LHC     82.74 337  P/PKP    1970 12 23  7 13 25.1   -1  -1.4 P/PKP         .        .LHC  .  .    ISC                
+P   SCB     83.55 328  P/PKP    1970 12 23  7 13 30.3   -1  -0.5 P/PKP         .        .SCB  .  .    ISC                
+P   MCC     84.16 356  P/PKP    1970 12 23  7 13 32.     0  -1.7 P/PKP         .        .MCC  .  .    ISC                
+P   SES     85.19 351  P/PKP    1970 12 23  7 13 38.1   -1  -0.8 P/PKP         .        .SES  .  .    ISC                
+P   NLM     86.62 324  P/PKP    1970 12 23  7 13 45.2   -1  -1.0 P/PKP         .        .NLM  .  .    ISC                
+P   WSC     86.67 325  P/PKP    1970 12 23  7 13 45.2   -1  -1.3 P/PKP         .        .WSC  .  .    ISC                
+P   PNT     86.94 356  P/PKP    1970 12 23  7 13 45.     0  -2.5 P/PKP         .        .PNT  .  .    ISC                
+P   NTI     87.48 355  P/PKP    1970 12 23  7 13 49.4   -1  -0.7 P/PKP         .        .NTI  .  .    ISC                
+P   HHM     87.52 353  P/PKP    1970 12 23  7 13 48.8   -1  -1.6 P/PKP         .        .HHM  .  .    ISC                
+P   VIC     87.85 359  P/PKP    1970 12 23  7 13 50.     0  -1.9 P/PKP         .        .VIC  .  .    ISC                
+P   NEW     87.85 355  P/PKP    1970 12 23  7 13 51.1   -1  -0.9 P/PKP         .        .NEW  .  .    ISC                
+P   LAO     88.17 347  P/PKP    1970 12 23  7 13 52.9   -1  -0.6 P/PKP         .        .LAO  .  .    ISC                
+P   LAO     88.17 347  PKKP     1970 12 23  7 31 34.     0   5.7 PKKP          .        .LAO  .  .    ISC                
+P   LAO     88.17 347  PKPPKP   1970 12 23  7 39 34.     0 999.9 PKPPKP        .        .LAO  .  .    ISC                
+P x LAO     88.17 347           1970 12 23  7 39 44.     0  -2.3               .        .LAO  .  .    ISC                
+P   LAO     88.17 347  LR       1970 12 23  7 55 44.     0 999.9 LR            .        .LAO  .  .    ISC                
+P   DAR     88.64 109  P/PKP    1970 12 23  7 13 54.0   -1  -2.5 P/PKP         .        .DAR  .  .    ISC                
+P   SEA     88.70 358  P/PKP    1970 12 23  7 13 56.8   -1   0.8 P/PKP         .        .SEA  .  .    ISC                
+P   TUM     89.35 359  P/PKP    1970 12 23  7 13 59.4   -1   0.3 P/PKP         .        .TUM  .  .    ISC                
+P   LON     89.59 358  P/PKP    1970 12 23  7 13 59.     0  -1.3 P/PKP         .        .LON  .  .    ISC                
+P   BUT     89.69 351  P/PKP    1970 12 23  7 13 59.7   -1  -1.0 P/PKP         .        .BUT  .  .    ISC                
+P   MEK     91.24 127  P/PKP    1970 12 23  7 14  4.5   -1  -3.9 P/PKP         .        .MEK  .  .    ISC                
+P   BMO     91.27 354  P/PKP    1970 12 23  7 14  6.1   -1  -2.0 P/PKP         .        .BMO  .  .    ISC                
+P   FLO     91.80 334  P/PKP    1970 12 23  7 14  9.0   -1  -1.7 P/PKP         .        .FLO  .  .    ISC                
+P   ORT     92.23 328  P/PKP    1970 12 23  7 14 11.2   -1  -1.5 P/PKP         .        .ORT  .  .    ISC                
+P   WAB     92.93  95  P/PKP    1970 12 23  7 14 14.5   -1  -2.0 P/PKP         .        .WAB  .  .    ISC                
+P   CPO     93.01 329  P/PKP    1970 12 23  7 14 13.9   -1  -2.4 P/PKP         .        .CPO  .  .    ISC                
+P   MOM     93.24  90  P/PKP    1970 12 23  7 14 15.5   -1  -2.4 P/PKP         .        .MOM  .  .    ISC                
+P   GRV     93.40 333  P/PKP    1970 12 23  7 14 16.1   -1  -2.0 P/PKP         .        .GRV  .  .    ISC                
+P   SLC     94.78 350  P/PKP    1970 12 23  7 14 23.     0  -1.3 P/PKP         .        .SLC  .  .    ISC                
+P   GOL     94.80 345  P/PKP    1970 12 23  7 14 23.     0  -1.5 P/PKP         .        .GOL  .  .    ISC                
+P   UBO     94.90 348  P/PKP    1970 12 23  7 14 23.5   -1  -1.4 P/PKP         .        .UBO  .  .    ISC                
+P   FAV     95.45 335  P/PKP    1970 12 23  7 14 25.1   -1  -2.5 P/PKP         .        .FAV  .  .    ISC                
+P   DUG     95.46 351  P/PKP    1970 12 23  7 14 27.     0  -0.5 P/PKP         .        .DUG  .  .    ISC                
+P   MIN     95.98 357  P/PKP    1970 12 23  7 14 28.4   -1  -1.5 P/PKP         .        .MIN  .  .    ISC                
+P   KLG     96.05 127  P/PKP    1970 12 23  7 14 26.4   -1  -4.0 P/PKP         .        .KLG  .  .    ISC                
+P   LAT     96.11  93  P/PKP    1970 12 23  7 14 28.     0  -3.1 P/PKP         .        .LAT  .  .    ISC                
+P   TUL     96.12 336  P/PKP    1970 12 23  7 14 28.4   -1  -2.2 P/PKP         .        .TUL  .  .    ISC                
+P x TUL     96.12 336           1970 12 23  7 14 33.     0   1.9               .        .TUL  .  .    ISC                
+P   WRA     96.34 111  P/PKP    1970 12 23  7 14 28.0   -1  -4.0 P/PKP         .        .WRA  .  .    ISC                
+P   EUR     96.49 353  P/PKP    1970 12 23  7 14 32.0   -1  -0.2 P/PKP         .        .EUR  .  .    ISC                
+P   ORV     96.76 357  P/PKP    1970 12 23  7 14 31.8   -1  -1.6 P/PKP         .        .ORV  .  .    ISC                
+P   PMG     98.07  95  P/PKP    1970 12 23  7 14 36.5   -1  -3.4 P/PKP         .        .PMG  .  .    ISC                
+P   JAS     98.32 356  P/PKP    1970 12 23  7 14 39.6   -1  -0.9 P/PKP         .        .JAS  .  .    ISC                
+P   JAS     98.32 356  PP       1970 12 23  7 18 36.     0  -5.9 PP            .        .JAS  .  .    ISC                
+P   JAS     98.32 356  PKKP     1970 12 23  7 31  8.     0   0.1 PKKP          .        .JAS  .  .    ISC                
+P   BKS     98.46 358  P/PKP    1970 12 23  7 14 41.0   -1  -0.1 P/PKP         .        .BKS  .  .    ISC                
+P   ASP     98.64 114  P/PKP    1970 12 23  7 14 39.0   -1  -3.2 P/PKP         .        .ASP  .  .    ISC                
+P   ASP     98.64 114  PP       1970 12 23  7 18 41.     0  -5.0 PP            .        .ASP  .  .    ISC                
+P   MHC     98.98 357  P/PKP    1970 12 23  7 14 43.0   -1  -0.4 P/PKP         .        .MHC  .  .    ISC                
+P   SLD     99.23 357  P/PKP    1970 12 23  7 14 44.6   -1   0.0 P/PKP         .        .SLD  .  .    ISC                
+P   LSM     99.24 353  P/PKP    1970 12 23  7 14 44.5   -1  -0.1 P/PKP         .        .LSM  .  .    ISC                
+P   ALQ     99.62 345  P/PKP    1970 12 23  7 14 45.5   -1  -0.9 P/PKP         .        .ALQ  .  .    ISC                
+P   BCN     99.85 352  P/PKP    1970 12 23  7 14 47.2   -1  -0.3 P/PKP         .        .BCN  .  .    ISC                
+P   PRI    100.13 356  P/PKP    1970 12 23  7 14 48.4   -1  -0.4 P/PKP         .        .PRI  .  .    ISC                
+P   ESA    100.93  93  P/PKP    1970 12 23  7 14 49.     0  -3.8 P/PKP         .        .ESA  .  .    ISC                
+P   TFO    101.09 348  P/PKP    1970 12 23  7 14 52.9   -1  -0.2 P/PKP         .        .TFO  .  .    ISC                
+P x TFO    101.09 348           1970 12 23  7 17 59.     0 999.9               .        .TFO  .  .    ISC                
+P   PAS    101.97 354  P/PKP    1970 12 23  7 14 57.     0  -0.1 P/PKP         .        .PAS  .  .    ISC                
+P   JCT    102.35 338  P/PKP    1970 12 23  7 14 56.     0  -2.9 P/PKP         .        .JCT  .  .    ISC                
+P x JCT    102.35 338           1970 12 23  7 17 42.     0 999.9               .        .JCT  .  .    ISC                
+P x JCT    102.35 338           1970 12 23  7 19  8.     0  -4.7               .        .JCT  .  .    ISC                
+P   JCT    102.35 338  PKP      1970 12 23  7 30 56.     0  -1.4 PKP           .        .JCT  .  .    ISC                
+P x JCT    102.35 338           1970 12 23  7 31 19.     0 999.9               .        .JCT  .  .    ISC                
+P   TUC    102.94 348  P/PKP    1970 12 23  7 15  0.5   -1  -0.9 P/PKP         .        .TUC  .  .    ISC                
+P   TPM    112.94 333  P/PKP    1970 12 23  7 19 39.0   -1  -0.1 P/PKP         .        .TPM  .  .    ISC                
+P   CAN    116.14 115  P/PKP    1970 12 23  7 19 43.     0  -2.1 P/PKP         .        .CAN  .  .    ISC                
+P   RIV    116.68 112  P/PKP    1970 12 23  7 19 46.     0  -0.1 P/PKP         .        .RIV  .  .    ISC                
+P   LPB    124.94 281  P/PKP    1970 12 23  7 20 20.0   -1  17.5 P/PKP         .        .LPB  .  .    ISC                
+P   PNS    125.03 282  P/PKP    1970 12 23  7 20  1.6   -1  -1.0 P/PKP         .        .PNS  .  .    ISC                
+P   HUA    126.82 291  P/PKP    1970 12 23  7 20  7.     0   0.9 P/PKP         .        .HUA  .  .    ISC                
+P x HUA    126.82 291           1970 12 23  7 20 30.     0 999.9               .        .HUA  .  .    ISC                
+P x HUA    126.82 291           1970 12 23  7 21 53.     0 999.9               .        .HUA  .  .    ISC                
+P   ARE    127.29 284  P/PKP    1970 12 23  7 20  7.0   -1   0.0 P/PKP         .        .ARE  .  .    ISC                
+P   MSZ    133.34 115  P/PKP    1970 12 23  7 20 16.6   -1  -1.2 P/PKP         .        .MSZ  .  .    ISC                
+P   SPA    133.81 180  P/PKP    1970 12 23  7 20  9.     0  -9.8 P/PKP         .        .SPA  .  .    ISC                
+P   MJZ    134.74 114  P/PKP    1970 12 23  7 20 19.     0  -1.4 P/PKP         .        .MJZ  .  .    ISC                
+P   COB    135.06 109  P/PKP    1970 12 23  7 20 19.     0  -2.1 P/PKP         .        .COB  .  .    ISC                
+P   MDZ    135.35 265  P/PKP    1970 12 23  7 20 21.6   -1  -0.2 P/PKP         .        .MDZ  .  .    ISC                
+P   KRP    135.60 103  P/PKP    1970 12 23  7 20  6.     0 -16.2 P/PKP         .        .KRP  .  .    ISC                
+P   KRP    135.60 103  PKP      1970 12 23  7 20 21.     0 999.9 PKP           .        .KRP  .  .    ISC                
+P   CNZ    136.19 105  P/PKP    1970 12 23  7 20 11.     0 -12.2 P/PKP         .        .CNZ  .  .    ISC                
+P x CNZ    136.19 105  PKP      1970 12 23  7 20 29.     0 999.9 PKP           .        .CNZ  .  .    ISC                
+P   MNG    136.75 107  P/PKP    1970 12 23  7 20 17.     0  -7.1 P/PKP         .        .MNG  .  .    ISC                
+P   SBA    137.17 163  P/PKP    1970 12 23  7 20 23.     0  -1.0 P/PKP         .        .SBA  .  .    ISC                
+P   BY1    143.80 182  P/PKP    1970 12 23  7 20 31.1   -1  -4.4 P/PKP         .        .BY1  .  .    ISC                
+P   PMO    145.19  41  P/PKP    1970 12 23  7 20 40.3   -1   0.5 P/PKP         .        .PMO  .  .    ISC                
+P   TPT    145.30  41  P/PKP    1970 12 23  7 20 40.7   -1   0.8 P/PKP         .        .TPT  .  .    ISC                
+P   VAH    145.51  41  P/PKP    1970 12 23  7 20 41.3   -1   1.0 P/PKP         .        .VAH  .  .    ISC                
+P   AFR    146.41  46  P/PKP    1970 12 23  7 20 44.3   -1   2.5 P/PKP         .        .AFR  .  .    ISC                
+P   PPT    146.54  46  P/PKP    1970 12 23  7 20 44.8   -1   2.8 P/PKP         .        .PPT  .  .    ISC                
+P   THT    146.54  46  P/PKP    1970 12 23  7 20 44.9   -1   2.9 P/PKP         .        .THT  .  .    ISC                
+P   PPN    146.58  46  P/PKP    1970 12 23  7 20 44.7   -1   2.6 P/PKP         .        .PPN  .  .    ISC                
+P   PAE    146.61  46  P/PKP    1970 12 23  7 20 44.9   -1   2.8 P/PKP         .        .PAE  .  .    ISC                
+P   TVO    146.88  46  P/PKP    1970 12 23  7 20 46.0   -1   3.4 P/PKP         .        .TVO  .  .    ISC                
+STOP                                                                                                                     
+EOF

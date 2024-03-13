@@ -1,0 +1,263 @@
+F   MNF v1.3.4                                                                                                               
+E   Gulf of Alaska                                                                                                           
+I   ISC      611795294                                                                                                       
+H = 2018/02/26 20 43 48.14         56.6136 -148.5906                  10.0                    ISC                   614145502
+# (Depth fixed by ISC Analyst)                                                                                               
+M   4.2  mb    ISC                                                                                                  614145502
+M   3.6  MS    ISC                                                                                                  614145502
+P   KDAK     2.47 300  Pn       2018  2 26 20 44 27.27  -2  -1.1 Pn       ISC  .IR      .KDAK .--.BHZ NEIC  NEIC    748446879
+P   KDAK     2.47 300  Sn       2018  2 26 20 44 55.72  -2  -2.8 Sn       ISC  .IR      .KDAK .--.BH1 AEIC  NEIC    748446989
+P   KDAK     2.47 300  Pn       2018  2 26 20 44 27.1   -1  -1.3 Pn       ISC  .IR      .KDAK .--.B?Z       MOS     817008780
+P   KDAK     2.47 300  Pn       2018  2 26 20 44 26.994 -3  -1.4 Pn       ISC  .IR      .KDAK .--.???               823263654
+P   KDAK     2.47 300  Sn       2018  2 26 20 44 56.019 -3  -2.5 Sn       ISC  .IR      .KDAK .--.???               823263654
+P   OHAK     2.65 285  Sn       2018  2 26 20 44 58.59  -2  -4.3 Sn       ISC  .IR      .OHAK .--.BHE AEIC  NEIC    748446875
+P   OHAK     2.65 285  Pn       2018  2 26 20 44 28.89  -2  -1.9 Pn       ISC  .IR      .OHAK .--.BHZ NEIC  NEIC    748446930
+P   OHAK     2.65 285  Pn       2018  2 26 20 44 27.895 -3  -2.9 Pn       ISC  .IR      .OHAK .--.BHZ IRIS  IRIS    800637934
+P   OHAK     2.65 285  Sn       2018  2 26 20 44 58.594 -3  -4.3 Sn       ISC  .IR      .OHAK .--.BHE IRIS  IRIS    800637934
+P   SYI      2.86 316  Sn       2018  2 26 20 45  7.38  -2  -0.8 Sn       ISC  .IR      .SYI  .--.BHE AEIC  NEIC    748446869
+P   SYI      2.86 316  Pn       2018  2 26 20 44 33.33  -2  -0.4 Pn       ISC  .IR      .SYI  .--.BHZ NEIC  NEIC    748446931
+P   Q20K     2.86 316  Pn       2018  2 26 20 44 33.42  -2  -0.4 Pn       ISC  .IR      .Q20K .--.BHZ IRIS  IRIS    800637942
+P   Q20K     2.86 316  Sn       2018  2 26 20 45  7.379 -3  -0.9 Sn       ISC  .IR      .Q20K .--.BHE IRIS  IRIS    800637942
+P   Q23K     3.06  22  Sn       2018  2 26 20 45 11.34  -2  -1.9 Sn       ISC  .IR      .Q23K .--.BHE AEIC  NEIC    748446868
+P   Q23K     3.06  22  Pn       2018  2 26 20 44 35.71  -2  -0.9 Pn       ISC  .IR      .Q23K .--.BHZ NEIC  NEIC    748446933
+P   Q23K     3.06  22  Pn       2018  2 26 20 44 35.869 -3  -0.7 Pn       ISC  .IR      .Q23K .--.BHZ IRIS  IRIS    800637943
+P   Q23K     3.06  22  Sn       2018  2 26 20 45 11.341 -3  -1.9 Sn       ISC  .IR      .Q23K .--.BHE IRIS  IRIS    800637943
+P   MID      3.07  22  Pn       2018  2 26 20 44 35.58  -2  -1.0 Pn       ISC  .IR      .MID  .--.BHZ NEIC  NEIC    748446932
+P   MID      3.07  22  Pn       2018  2 26 20 44 35.6   -1  -1.0 Pn       ISC  .IR      .MID  .--.S?Z       MOS     817008781
+P   CNPM     3.24 335  Pn       2018  2 26 20 44 38.21  -2  -0.8 Pn       ISC  .IR      .CNPM .--.BHZ NEIC  NEIC    748446882
+P   CNPM     3.24 335  Sn       2018  2 26 20 45 16.32  -2  -1.3 Sn       ISC  .IR      .CNPM .--.BHN AEIC  NEIC    748446982
+P   BRSE     3.34 341  Pn       2018  2 26 20 44 39.62  -2  -0.7 Pn       ISC  .IR      .BRSE .--.BHZ AEIC  NEIC    748446981
+P   BRSE     3.34 341  Pn       2018  2 26 20 44 39.623 -3  -0.7 Pn       ISC  .IR      .BRSE .--.BHZ IRIS  IRIS    800637907
+P   BRLK     3.38 340  Pn       2018  2 26 20 44 39.8   -1  -1.2 Pn       ISC  .IR      .BRLK .--.BHZ NEIC  NEIC    748446880
+P   BRLK     3.38 340  Sn       2018  2 26 20 45 18.71  -2  -2.5 Sn       ISC  .IR      .BRLK .--.BHE AEIC  NEIC    748446980
+P   P23K     3.45  10  Pn       2018  2 26 20 44 41.18  -2  -0.7 Pn       ISC  .IR      .P23K .--.BHZ AEIC  NEIC    748446874
+P   P23K     3.45  10  Pn       2018  2 26 20 44 41.185 -3  -0.7 Pn       ISC  .IR      .P23K .--.BHZ IRIS  IRIS    800637936
+P   HOM      3.46 333  Pn       2018  2 26 20 44 40.58  -2  -1.4 Pn       ISC  .IR      .HOM  .--.BHZ NEIC  NEIC    748446934
+# (Questionable onset)                                                                                                       
+P   SEW      3.53 353  Pn       2018  2 26 20 44 41.94  -2  -1.0 Pn       ISC  .IR      .SEW  .--.BHZ AEIC  NEIC    748446862
+P   SEW      3.53 353  Pn       2018  2 26 20 44 41.943 -3  -1.0 Pn       ISC  .IR      .SEW  .--.BHZ IRIS  IRIS    800637948
+P   Q19K     3.57 313  Pn       2018  2 26 20 44 43.76  -2   0.3 Pn       ISC  .IR      .Q19K .--.BHZ NEIC  NEIC    748446913
+P   P19K     3.92 323  Pn       2018  2 26 20 44 48.14  -2  -0.2 Pn       ISC  .IR      .P19K .--.BHZ NEIC  NEIC    748446935
+P   P19K     3.92 323  Pn       2018  2 26 20 44 48.306 -3  -0.0 Pn       ISC  .IR      .P19K .--.BHZ IRIS  IRIS    800637935
+P   O22K     3.92 352  Pn       2018  2 26 20 44 47.83  -2  -0.5 Pn       ISC  .IR      .O22K .--.BHZ NEIC  NEIC    748446910
+P   O22K     3.92 352  Pn       2018  2 26 20 44 47.914 -3  -0.5 Pn       ISC  .IR      .O22K .--.BHZ IRIS  IRIS    800637932
+P   HIN      3.95  15  Pn       2018  2 26 20 44 47.98  -2  -0.8 Pn       ISC  .IR      .HIN  .--.BHZ NEIC  NEIC    748446886
+P   KAIM     3.99  32  Pn       2018  2 26 20 44 48.77  -2  -0.5 Pn       ISC  .IR      .KAIM .--.BHZ NEIC  NEIC    748446936
+P   KAIM     3.99  32  Pn       2018  2 26 20 44 48.758 -3  -0.5 Pn       ISC  .IR      .KAIM .--.BHZ IRIS  IRIS    800637915
+P   O20K     4.08 330  Pn       2018  2 26 20 44 50.26  -2  -0.3 Pn       ISC  .IR      .O20K .--.BHZ AEIC  NEIC    748446876
+P   O20K     4.08 330  Pn       2018  2 26 20 44 50.264 -3  -0.3 Pn       ISC  .IR      .O20K .--.BHZ IRIS  IRIS    800637931
+P   IVE      4.13 328  Pn       2018  2 26 20 44 50.44  -2  -0.9 Pn       ISC  .IR      .IVE  .--.BHZ AEIC  NEIC    748446988
+P   ILSW     4.14 327  Pn       2018  2 26 20 44 51.56  -2   0.0 Pn       ISC  .IR      .ILSW .--.BHZ NEIC  NEIC    748446927
+P   EYAK     4.22  20  Pn       2018  2 26 20 44 51.98  -2  -0.4 Pn       ISC  .IR      .EYAK .--.BHZ AEIC  NEIC    748446984
+P   EYAK     4.22  20  Pn       2018  2 26 20 44 51.978 -3  -0.4 Pn       ISC  .IR      .EYAK .--.BHZ IRIS  IRIS    800637911
+P   FID      4.29  14  Pn       2018  2 26 20 44 52.53  -2  -0.9 Pn       ISC  .IR      .FID  .--.BHZ NEIC  NEIC    748446937
+P   SUCK     4.30  34  Pn       2018  2 26 20 44 53.5   -1  -0.0 Pn       ISC  .IR      .SUCK .--.BHZ NEIC  NEIC    748446892
+P   RAGM     4.30  27  Pn       2018  2 26 20 44 53.22  -2  -0.5 Pn       ISC  .IR      .RAGM .--.BHZ NEIC  NEIC    748446887
+P   GLI      4.35  10  Pn       2018  2 26 20 44 53.89  -2  -0.3 Pn       ISC  .IR      .GLI  .--.BHZ NEIC  NEIC    748446938
+P   GLI      4.35  10  Pn       2018  2 26 20 44 53.787 -3  -0.4 Pn       ISC  .IR      .GLI  .--.BHZ IRIS  IRIS    800637912
+P   HMT      4.37  30  Pn       2018  2 26 20 44 54.71  -2   0.2 Pn       ISC  .IR      .HMT  .--.BHZ NEIC  NEIC    748446888
+P   NICHA    4.37  32  Pn       2018  2 26 20 44 54.34  -2  -0.2 Pn       ISC  .IR      .NICHA.--.BHZ AEIC  NEIC    748446877
+P   CAPN     4.38 343  Pn       2018  2 26 20 44 54.39  -2  -0.2 Pn       ISC  .IR      .CAPN .--.BHZ NEIC  NEIC    748446939
+P   RSO      4.43 332  Pn       2018  2 26 20 44 54.68  -2  -0.9 Pn       ISC  .IR      .RSO  .--.EHZ NEIC  NEIC    748446881
+P   RDT      4.45 335  Pn       2018  2 26 20 44 54.63  -2  -1.0 Pn       ISC  .IR      .RDT  .--.BHZ AEIC  NEIC    748446867
+P   GOAT     4.46  25  Pn       2018  2 26 20 44 55.74  -2  -0.1 Pn       ISC  .IR      .GOAT .--.BHZ AEIC  NEIC    748446985
+P   RDWB     4.48 332  Pn       2018  2 26 20 44 55.2   -1  -0.9 Pn       ISC  .IR      .RDWB .--.BHZ AEIC  NEIC    748446866
+P   P18K     4.50 311  Pn       2018  2 26 20 44 53.79  -2  -2.5 Pn       ISC  .IR      .P18K .--.BHZ NEIC  NEIC    748446940
+P   RC01     4.53 353  Pn       2018  2 26 20 44 55.46  -2  -1.2 Pn       ISC  .IR      .RC01 .--.BHZ NEIC  NEIC    748446894
+P   NCT      4.56 332  Pn       2018  2 26 20 44 56.46  -2  -0.8 Pn       ISC  .IR      .NCT  .--.BHZ AEIC  NEIC    748446878
+P   BERG     4.58  32  Pn       2018  2 26 20 44 56.77  -2  -0.6 Pn       ISC  .IR      .BERG .--.BHZ NEIC  NEIC    748446941
+P   GRIN     4.60  35  Pn       2018  2 26 20 44 57.6   -1  -0.1 Pn       ISC  .IR      .GRIN .--.BHZ AEIC  NEIC    748446986
+P   FIS      4.62 350  Pn       2018  2 26 20 44 57.61  -2  -0.3 Pn       ISC  .IR      .FIS  .--.BHZ NEIC  NEIC    748446885
+P   SNH      4.68  38  Pn       2018  2 26 20 44 59.2   -1   0.3 Pn       ISC  .IR      .SNH  .--.BHZ NEIC  NEIC    748446943
+P   O19K     4.69 322  Pn       2018  2 26 20 44 56.43  -2  -2.4 Pn       ISC  .IR      .O19K .--.BHZ NEIC  NEIC    748446942
+P   KHIT     4.75  34  Pn       2018  2 26 20 44 59.23  -2  -0.6 Pn       ISC  .IR      .KHIT .--.BHZ AEIC  NEIC    748446990
+P   DIV      4.76  17  Pn       2018  2 26 20 44 59.59  -2  -0.3 Pn       ISC  .IR      .DIV  .--.BHZ AEIC  NEIC    748446983
+P   O18K     4.77 316  Pn       2018  2 26 20 44 59.24  -2  -0.8 Pn       ISC  .IR      .O18K .--.BHZ NEIC  NEIC    748446944
+P   KNK      4.81   1  Pn       2018  2 26 20 45  0.65  -2   0.0 Pn       ISC  .IR      .KNK  .--.BHZ NEIC  NEIC    748446909
+P   KNK      4.81   1  Pn       2018  2 26 20 45  0.473 -3  -0.2 Pn       ISC  .IR      .KNK  .--.BHZ IRIS  IRIS    800637917
+P   BMRM     4.83  24  Pn       2018  2 26 20 45  0.68  -2  -0.2 Pn       ISC  .IR      .BMRM .--.BHZ AEIC  NEIC    748446979
+P   BMRM     4.83  24  Pn       2018  2 26 20 45  0.678 -3  -0.2 Pn       ISC  .IR      .BMRM .--.BHZ IRIS  IRIS    800637906
+P   WAX      4.88  36  Pn       2018  2 26 20 45  0.74  -2  -0.9 Pn       ISC  .IR      .WAX  .--.BHZ NEIC  NEIC    748446897
+P   BARK     4.97  38  Pn       2018  2 26 20 45  2.32  -2  -0.5 Pn       ISC  .IR      .BARK .--.BHZ AEIC  NEIC    748446978
+P   N20K     4.97 339  Pn       2018  2 26 20 45  2.216 -3  -0.6 Pn       ISC  .IR      .N20K .--.BHZ IRIS  IRIS    800637928
+P   SPCR     4.97 339  Pn       2018  2 26 20 45  2.22  -2  -0.6 Pn       ISC  .IR      .SPCR .--.BHZ AEIC  NEIC    748446993
+P   SUA      4.99 348  Pn       2018  2 26 20 45  2.43  -2  -0.7 Pn       ISC  .IR      .SUA  .--.BHZ NEIC  NEIC    748446905
+P   SUA      4.99 348  Pn       2018  2 26 20 45  2.62  -2  -0.5 Pn       ISC  .IR      .SUA  .--.BHZ IRIS  IRIS    800637947
+P   MESA     5.00  42  Pn       2018  2 26 20 45  2.73  -2  -0.6 Pn       ISC  .IR      .MESA .--.BHZ NEIC  NEIC    748446945
+P   PMR      5.00 357  Pn       2018  2 26 20 45  3.05  -2  -0.1 Pn       ISC  .IR      .PMR  .--.BHZ NEIC  NEIC    748446884
+P   PMR      5.00 357  Pn       2018  2 26 20 45  3.1   -1  -0.1 Pn       ISC  .IR      .PMR  .--.S?Z       MOS     817008782
+P   CRQM     5.03  32  Pn       2018  2 26 20 45  3.3   -1  -0.5 Pn       ISC  .IR      .CRQM .--.BHZ AEIC  NEIC    748446975
+P   CRQE     5.04  32  Pn       2018  2 26 20 45  3.297 -3  -0.6 Pn       ISC  .IR      .CRQE .--.BHZ IRIS  IRIS    800637908
+P   KLU      5.08  15  Pn       2018  2 26 20 45  4.38  -2  -0.0 Pn       ISC  .IR      .KLU  .--.BHZ NEIC  NEIC    748446883
+P   KLU      5.08  15  Pn       2018  2 26 20 45  3.99  -2  -0.4 Pn       ISC  .IR      .KLU  .--.BHZ IRIS  IRIS    800637916
+P   ISLE     5.16  37  Pn       2018  2 26 20 45  4.99  -2  -0.6 Pn       ISC  .IR      .ISLE .--.BHZ NEIC  NEIC    748446900
+P   BAGL     5.17  39  Pn       2018  2 26 20 45  4.86  -2  -0.5 Pn       ISC  .IR      .BAGL .--.BHZ AEIC  NEIC    748446977
+P   STLK     5.18 343  Pn       2018  2 26 20 45  5.43  -2  -0.2 Pn       ISC  .IR      .STLK .--.BHZ AEIC  NEIC    748446863
+P   GHO      5.18 358  Pn       2018  2 26 20 45  5.7   -1   0.0 Pn       ISC  .IR      .GHO  .--.BHZ NEIC  NEIC    748446890
+P   N19K     5.21 326  Pn       2018  2 26 20 45  5.52  -2  -0.6 Pn       ISC  .IR      .N19K .--.BHZ NEIC  NEIC    748446946
+P   N19K     5.21 326  Pn       2018  2 26 20 45  5.564 -3  -0.6 Pn       ISC  .IR      .N19K .--.BHZ IRIS  IRIS    800637927
+P   SML      5.21   1  Pn       2018  2 26 20 45  6.38  -2   0.2 Pn       ISC  .IR      .SML  .--.BHZ NEIC  NEIC    748446891
+P   SML      5.21   1  Pn       2018  2 26 20 45  6.33  -2   0.2 Pn       ISC  .IR      .SML  .--.BHZ IRIS  IRIS    800637944
+P   SPNN     5.22 338  Pn       2018  2 26 20 45  6.62  -2   0.3 Pn       ISC  .IR      .SPNN .--.BHZ AEIC  NEIC    748446864
+P   SCM      5.28   7  Pn       2018  2 26 20 45  7.39  -2   0.4 Pn       ISC  .IR      .SCM  .--.BHZ NEIC  NEIC    748446893
+P   SCM      5.28   7  Pn       2018  2 26 20 45  7.339 -3   0.4 Pn       ISC  .IR      .SCM  .--.BHZ IRIS  IRIS    800637945
+P   SCM      5.28   7  Pn       2018  2 26 20 45  7.4   -1   0.4 Pn       ISC  .IR      .SCM  .--.S?Z       MOS     817008783
+P   VRDI     5.34  28  Pn       2018  2 26 20 45  8.     0   0.0 Pn       ISC  .IR      .VRDI .--.BHZ NEIC  NEIC    748446947
+P   KIAG     5.40  34  Pn       2018  2 26 20 45  8.51  -2  -0.3 Pn       ISC  .IR      .KIAG .--.BHZ AEIC  NEIC    748446991
+P   N25K     5.41  21  Pn       2018  2 26 20 45  8.51  -2  -0.4 Pn       ISC  .IR      .N25K .--.BHZ NEIC  NEIC    748446915
+P   N25K     5.41  21  Pn       2018  2 26 20 45  9.059 -3   0.2 Pn       ISC  .IR      .N25K .--.BHZ IRIS  IRIS    800637929
+P   SAMH     5.41  46  Pn       2018  2 26 20 45  8.73  -2  -0.2 Pn       ISC  .IR      .SAMH .--.BHZ AEIC  NEIC    748446865
+P   GLB      5.43  25  Pn       2018  2 26 20 45  8.5   -1  -0.7 Pn       ISC  .IR      .GLB  .--.BHZ NEIC  NEIC    748446896
+P   CHGN     5.46 271  Pn       2018  2 26 20 45  8.36  -2  -1.1 Pn       ISC  .IR      .CHGN .--.BHZ NEIC  NEIC    748446948
+P   TABL     5.47  42  Pn       2018  2 26 20 45  8.9   -1  -0.9 Pn       ISC  .IR      .TABL .--.BHZ NEIC  NEIC    748446899
+P   PTPK     5.58  32  Pn       2018  2 26 20 45 11.01  -2  -0.3 Pn       ISC  .IR      .PTPK .--.BHZ AEIC  NEIC    748446870
+P   N18K     5.58 320  Pn       2018  2 26 20 45 10.15  -2  -1.0 Pn       ISC  .IR      .N18K .--.BHZ NEIC  NEIC    748446949
+P   N18K     5.58 320  Pn       2018  2 26 20 45 10.438 -3  -0.7 Pn       ISC  .IR      .N18K .--.BHZ IRIS  IRIS    800637926
+P   MCARA    5.58  29  Pn       2018  2 26 20 45 11.12  -2   0.0 Pn       ISC  .IR      .MCARA.--.BHZ NEIC  NEIC    748446895
+P   MCARA    5.58  29  Pn       2018  2 26 20 45 11.212 -3   0.0 Pn       ISC  .IR      .MCARA.--.BHZ IRIS  IRIS    800637923
+P   SKT      5.59 346  Pn       2018  2 26 20 45 11.44  -2   0.2 Pn       ISC  .IR      .SKT  .--.BHZ NEIC  NEIC    748446950
+P   SKT      5.59 346  Pn       2018  2 26 20 45 11.556 -3   0.3 Pn       ISC  .IR      .SKT  .--.BHZ IRIS  IRIS    800637946
+P   PCA      5.61  48  Pn       2018  2 26 20 45 10.66  -2  -0.9 Pn       ISC  .IR      .PCA  .--.BHZ AEIC  NEIC    748446872
+P   PINM     5.61  48  Pn       2018  2 26 20 45 10.659 -3  -0.9 Pn       ISC  .IR      .PINM .--.BHZ IRIS  IRIS    800637940
+P   M24K     5.65  12  Pn       2018  2 26 20 45 12.43  -2   0.3 Pn       ISC  .IR      .M24K .--.BHZ NEIC  NEIC    748446898
+P   M24K     5.65  12  Pn       2018  2 26 20 45 12.783 -3   0.7 Pn       ISC  .IR      .M24K .--.BHZ IRIS  IRIS    800637920
+P   BARN     5.73  36  Pn       2018  2 26 20 45 12.96  -2  -0.4 Pn       ISC  .IR      .BARN .--.BHZ NEIC  NEIC    748446902
+P   PNL      5.75  54  Pn       2018  2 26 20 45 13.02  -2  -0.5 Pn       ISC  .IR      .PNL  .--.BHZ AEIC  NEIC    748446871
+P   PNL      5.75  54  Pn       2018  2 26 20 45 13.017 -3  -0.5 Pn       ISC  .IR      .PNL  .--.BHZ IRIS  IRIS    800637941
+P   CTG      5.76  38  Pn       2018  2 26 20 45 13.282 -3  -0.5 Pn       ISC  .IR      .CTG  .--.BHZ IRIS  IRIS    800637909
+P   CTGM     5.77  38  Pn       2018  2 26 20 45 12.68  -2  -1.1 Pn       ISC  .IR      .CTGM .--.BHZ NEIC  NEIC    748446904
+P   M20K     5.77 338  Pn       2018  2 26 20 45 13.3   -1  -0.6 Pn       ISC  .IR      .M20K .--.BHZ NEIC  NEIC    748446951
+P   M20K     5.77 338  Pn       2018  2 26 20 45 13.617 -3  -0.3 Pn       ISC  .IR      .M20K .--.BHZ IRIS  IRIS    800637919
+P   SVW2     5.78 324  Pn       2018  2 26 20 45 12.84  -2  -1.0 Pn       ISC  .IR      .SVW2 .--.BHZ NEIC  NEIC    748446889
+P   LOGN     5.78  40  Pn       2018  2 26 20 45 13.04  -2  -1.0 Pn       ISC  .IR      .LOGN .--.BHZ NEIC  NEIC    748446903
+P   BCPM     5.79  51  Pn       2018  2 26 20 45 13.54  -2  -0.5 Pn       ISC  .IR      .BCPM .--.BHZ NEIC  NEIC    748446952
+P   WACK     5.81  20  Pn       2018  2 26 20 45 15.12  -2   0.6 Pn       ISC  .IR      .WACK .--.BHZ AEIC  NEIC    748446861
+P   O16K     5.86 305  Pn       2018  2 26 20 45 14.92  -2   0.0 Pn       ISC  .IR      .O16K .--.BHZ NEIC  NEIC    748446924
+P   N17K     5.97 315  Pn       2018  2 26 20 45 14.48  -2  -1.9 Pn       ISC  .IR      .N17K .--.BHZ NEIC  NEIC    748446953
+P   WAT6     6.00   4  Pn       2018  2 26 20 45 17.03  -2  -0.0 Pn       ISC  .IR      .WAT6 .--.BHZ AEIC  NEIC    748446860
+P   WAT6     6.00   4  Pn       2018  2 26 20 45 17.031 -3  -0.0 Pn       ISC  .IR      .WAT6 .--.BHZ IRIS  IRIS    800637950
+P   HARP     6.06  15  Pn       2018  2 26 20 45 17.93  -2   0.2 Pn       ISC  .IR      .HARP .--.BHZ AEIC  NEIC    748446987
+P   HARP     6.06  15  Pn       2018  2 26 20 45 17.926 -3   0.2 Pn       ISC  .IR      .HARP .--.BHZ IRIS  IRIS    800637913
+P   M19K     6.08 333  Pn       2018  2 26 20 45 16.52  -2  -1.5 Pn       ISC  .IR      .M19K .--.BHZ NEIC  NEIC    748446954
+P   M18K     6.15 326  Pn       2018  2 26 20 45 18.22  -2  -0.7 Pn       ISC  .IR      .M18K .--.BHZ AEIC  NEIC    748446992
+P   M18K     6.15 326  Pn       2018  2 26 20 45 18.216 -3  -0.7 Pn       ISC  .IR      .M18K .--.BHZ IRIS  IRIS    800637918
+P   WAT7     6.24 359  Pn       2018  2 26 20 45 20.57  -2   0.3 Pn       ISC  .IR      .WAT7 .--.BHZ AEIC  NEIC    748446859
+P   O29M     6.42  51  Pn       2018  2 26 20 45 22.96  -2   0.1 Pn       ISC  .IR      .O29M .--.BHZ NEIC  NEIC    748446929
+P   O29M     6.42  51  Pn       2018  2 26 20 45 22.71  -2  -0.1 Pn       ISC  .IR      .O29M .--.BHZ IRIS  IRIS    800637933
+P   L19K     6.43 333  Pn       2018  2 26 20 45 21.93  -2  -0.9 Pn       ISC  .IR      .L19K .--.BHZ NEIC  NEIC    748446928
+P   M26K     6.46  24  Pn       2018  2 26 20 45 23.43  -2   0.1 Pn       ISC  .IR      .M26K .--.BHZ NEIC  NEIC    748446955
+P   M26K     6.46  24  Pn       2018  2 26 20 45 23.759 -3   0.5 Pn       ISC  .IR      .M26K .--.BHZ IRIS  IRIS    800637921
+P   P29M     6.50  58  Pn       2018  2 26 20 45 22.8   -1  -0.9 Pn       ISC  .IR      .P29M .--.BHZ NEIC  NEIC    748446956
+P   P29M     6.50  58  Pn       2018  2 26 20 45 22.839 -3  -0.9 Pn       ISC  .IR      .P29M .--.BHZ IRIS  IRIS    800637937
+P   DHY      6.51   5  Pn       2018  2 26 20 45 24.23  -2   0.2 Pn       ISC  .IR      .DHY  .--.BHZ NEIC  NEIC    748446901
+P   DHY      6.51   5  Pn       2018  2 26 20 45 24.31  -2   0.2 Pn       ISC  .IR      .DHY  .--.BHZ IRIS  IRIS    800637910
+P   PAX      6.57  13  Pn       2018  2 26 20 45 25.21  -2   0.5 Pn       ISC  .IR      .PAX  .--.BHZ AEIC  NEIC    748446873
+P   PAX      6.57  13  Pn       2018  2 26 20 45 25.214 -3   0.5 Pn       ISC  .IR      .PAX  .--.BHZ IRIS  IRIS    800637939
+P   PAX      6.57  13  Pn       2018  2 26 20 45 25.2   -1   0.5 Pn       ISC  .IR      .PAX  .--.S?Z       MOS     817008784
+P   M27K     6.70  28  Pn       2018  2 26 20 45 26.89  -2   0.3 Pn       ISC  .IR      .M27K .--.BHZ NEIC  NEIC    748446958
+P   M27K     6.70  28  Pn       2018  2 26 20 45 27.144 -3   0.6 Pn       ISC  .IR      .M27K .--.BHZ IRIS  IRIS    800637922
+P   SDPT     6.79 264  Pn       2018  2 26 20 45 24.33  -2  -3.4 Pn       ISC  .IR      .SDPT .--.BHZ NEIC  NEIC    748446957
+P   RND      6.82 359  Pn       2018  2 26 20 45 28.68  -2   0.5 Pn       ISC  .IR      .RND  .--.BHZ NEIC  NEIC    748446906
+P   RND      6.82 359  Pn       2018  2 26 20 45 28.7   -1   0.5 Pn       ISC  .IR      .RND  .--.S?Z       MOS     817008785
+P   S31K     6.83  74  Pn       2018  2 26 20 45 25.88  -2  -2.4 Pn       ISC  .IR      .S31K .--.BHZ NEIC  NEIC    748446916
+P   TRF      6.91 354  Pn       2018  2 26 20 45 28.2   -1  -1.3 Pn       ISC  .IR      .TRF  .--.BHZ NEIC  NEIC    748446912
+P   TRF      6.91 354  Pn       2018  2 26 20 45 30.171 -3   0.6 Pn       ISC  .IR      .TRF  .--.BHZ IRIS  IRIS    800637949
+P   L26K     6.95  20  Pn       2018  2 26 20 45 31.01  -2   1.1 Pn       ISC  .IR      .L26K .--.BHZ NEIC  NEIC    748446962
+P   M16K     6.96 314  Pn       2018  2 26 20 45 29.52  -2  -0.6 Pn       ISC  .IR      .M16K .--.BHZ NEIC  NEIC    748446959
+P   L18K     6.97 327  Pn       2018  2 26 20 45 28.8   -1  -1.4 Pn       ISC  .IR      .L18K .--.BHZ NEIC  NEIC    748446960
+P   YUK4     6.99  43  Pn       2018  2 26 20 45 33.1   -1   2.4 Pn       ISC  .IR      .YUK4 .--.HHZ IRIS  IRIS    800637951
+P   N15K     7.01 305  Pn       2018  2 26 20 45 31.3   -1   0.5 Pn       ISC  .IR      .N15K .--.BHZ NEIC  NEIC    748446961
+P   CAST     7.05 347  Pn       2018  2 26 20 45 31.93  -2   0.7 Pn       ISC  .IR      .CAST .--.BHZ NEIC  NEIC    748446907
+P   KTH      7.06 352  Pn       2018  2 26 20 45 31.91  -2   0.4 Pn       ISC  .IR      .KTH  .--.BHZ NEIC  NEIC    748446963
+P   MCK      7.14 359  Pn       2018  2 26 20 45 34.088 -3   1.5 Pn       ISC  .IR      .MCK  .--.BHZ IRIS  IRIS    800637924
+P   HYT      7.15  49  Pn       2018  2 26 20 45 33.12  -2   0.4 Pn       ISC  .IR      .HYT  .--.HHZ NEIC  NEIC    748446964
+P   O14K     7.25 297  Pn       2018  2 26 20 45 34.26  -2   0.3 Pn       ISC  .IR      .O14K .--.BHZ NEIC  NEIC    748446965
+P   K20K     7.30 340  Pn       2018  2 26 20 45 34.94  -2   0.2 Pn       ISC  .IR      .K20K .--.BHZ NEIC  NEIC    748446966
+P   L27K     7.31  25  Pn       2018  2 26 20 45 33.98  -2  -0.9 Pn       ISC  .IR      .L27K .--.BHZ NEIC  NEIC    748446923
+P   BCAR     7.32  25  Pn       2018  2 26 20 45 34.85  -2  -0.2 Pn       ISC  .IR      .BCAR .--.SHZ NEIC  NEIC    748446968
+P   TTA      7.36 333  Pn       2018  2 26 20 45 34.12  -2  -1.4 Pn       ISC  .IR      .TTA  .--.BHZ NEIC  NEIC    748446967
+P   TTA      7.36 333  Pn       2018  2 26 20 45 34.1   -1  -1.4 Pn       ISC  .IR      .TTA  .--.S?Z       MOS     817008786
+P   L16K     7.57 317  Pn       2018  2 26 20 45 37.45  -2  -0.9 Pn       ISC  .IR      .L16K .--.BHZ NEIC  NEIC    748446969
+P   SKAG     7.59  62  Pn       2018  2 26 20 45 38.58  -2  -0.1 Pn       ISC  .IR      .SKAG .--.BHZ NEIC  NEIC    748446970
+P   BWN      7.60 357  Pn       2018  2 26 20 45 38.76  -2   0.0 Pn       ISC  .IR      .BWN  .--.BHZ NEIC  NEIC    748446911
+P   BPAW     7.60 352  Pn       2018  2 26 20 45 38.37  -2  -0.5 Pn       ISC  .IR      .BPAW .--.BHZ NEIC  NEIC    748446914
+P   N30M     7.66  46  Pn       2018  2 26 20 45 39.85  -2   0.1 Pn       ISC  .IR      .N30M .--.BHZ IRIS  IRIS    800637930
+P   O30N     7.73  52  Pn       2018  2 26 20 45 40.26  -2  -0.3 Pn       ISC  .IR      .O30N .--.BHZ NEIC  NEIC    748446972
+P   SCRK     7.73  15  Pn       2018  2 26 20 45 41.29  -2   0.6 Pn       ISC  .IR      .SCRK .--.BHZ NEIC  NEIC    748446971
+P   K17K     7.84 325  Pn       2018  2 26 20 45 40.95  -2  -1.2 Pn       ISC  .IR      .K17K .--.BHZ NEIC  NEIC    748446973
+P   WHY      8.22  55  Pn       2018  2 26 20 45 47.35  -2  -0.0 Pn       ISC  .IR      .WHY  .--.HHZ NEIC  NEIC    748446908
+P   ILAR     8.23   5  Pn       2018  2 26 20 45 48.5   -1   1.1 Pn       ISC  .IR      .ILAR .--.B?Z       MOS     817008787
+P   ILAR     8.23   5  Pn       2018  2 26 20 45 45.5   -1  -1.9 Pn       ISC  .IR      .ILAR .--.???               823263652
+P   ILAR     8.23   5  Sn       2018  2 26 20 47 16.1   -1  -4.2 Sn       ISC  .IR      .ILAR .--.???               823263652
+P   J26L     8.29  15  Pn       2018  2 26 20 45 49.1   -1   0.8 Pn       ISC  .IR      .J26L .--.BHZ IRIS  IRIS    800637914
+P   P32M     8.42  63  Pn       2018  2 26 20 45 49.22  -2  -0.9 Pn       ISC  .IR      .P32M .--.BHZ NEIC  NEIC    748446917
+P   P32M     8.42  63  Pn       2018  2 26 20 45 49.475 -3  -0.7 Pn       ISC  .IR      .P32M .--.BHZ IRIS  IRIS    800637938
+P   MLY      8.51 354  Pn       2018  2 26 20 45 51.968 -3   0.6 Pn       ISC  .IR      .MLY  .--.BHZ IRIS  IRIS    800637925
+P   DLBC    10.15  72  Pn       2018  2 26 20 46 12.7   -1  -1.1 Pn       ISC  .IR      .DLBC .--.???               823263642
+P   DLBC    10.15  72  Sn       2018  2 26 20 48  4.225 -3  -3.3 Sn       ISC  .IR      .DLBC .--.???               823263642
+P   G23K    10.16 357  Pn       2018  2 26 20 46 12.68  -2  -1.2 Pn       ISC  .IR      .G23K .--.BHZ NEIC  NEIC    748446926
+P   F20K    10.99 345  Pn       2018  2 26 20 46 24.81  -2  -0.4 Pn       ISC  .IR      .F20K .--.BHZ NEIC  NEIC    748446925
+P   BBB     12.71 102  Pn       2018  2 26 20 46 47.875 -3  -0.9 Pn       ISC  .IR      .BBB  .--.???               823263637
+P   INK     13.58  24  Pn       2018  2 26 20 47  1.275 -3   0.7 Pn       ISC  .IR      .INK  .--.???               823263653
+P   YKA     18.04  57  P        2018  2 26 20 47 59.5   -1   0.5 P        ISC  .IR      .YKA  .--.B?Z       MOS     817008789
+P   YKA     18.04  57  P        2018  2 26 20 47 59.001 -3   0.0 P        ISC  .IR      .YKA  .--.???               823263670
+P   NEW     20.77 100  Pn       2018  2 26 20 48 30.119 -3  -1.3 Pn       ISC  .IR      .NEW  .--.???               823263658
+P   BILL    23.25 318  P        2018  2 26 20 48 53.92  -2  -1.3 P        ISC  .IR      .BILL .--.BHZ NEIC  NEIC    748446918
+P   BILL    23.25 318  P        2018  2 26 20 48 53.3   -1  -1.9 P        ISC  .IR      .BILL .--.S?Z MOS   MOS     817008791
+P   NVAR    27.03 119  P        2018  2 26 20 49 30.6   -1   0.0 P        ISC  .IR      .NVAR .--.???               823263660
+P   PDAR    28.36 103  P        2018  2 26 20 49 43.473 -3   1.1 P        ISC  .IR      .PDAR .--.???               823263661
+P   R11B    28.43 116  P        2018  2 26 20 49 42.67  -2  -0.3 P        ISC  .IR      .R11B .--.BHZ NEIC  NEIC    748446921
+P   SRU     30.44 109  P        2018  2 26 20 50  1.2   -1   0.4 P        ISC  .IR      .SRU  .--.HHZ NEIC  NEIC    748446922
+P   SRU     30.44 109  P        2018  2 26 20 50  1.2   -1   0.4 P        ISC  .IR      .SRU  .--.S?Z       MOS     817008792
+P   V12A    30.85 118  P        2018  2 26 20 50  3.65  -2  -0.7 P        ISC  .IR      .V12A .--.HHZ NEIC  NEIC    748446920
+P   ULM     31.36  79  P        2018  2 26 20 50  9.2   -1   0.6 P        ISC  .IR      .ULM  .--.S?Z       MOS     817008793
+P   X16A    33.58 116  P        2018  2 26 20 50 27.23  -2  -1.2 P        ISC  .IR      .X16A .--.HHZ NEIC  NEIC    748446974
+P   TIXI    35.60 327  P        2018  2 26 20 50 46.4   -1   1.2 P        ISC  .IR      .TIXI .--.S?Z       MOS     817008794
+P   YAK     39.43 313  P        2018  2 26 20 51 18.5   -1   0.7 P        ISC  .IR      .YAK  .--.B?Z       MOS     817008795
+P   TXAR    41.59 112  P        2018  2 26 20 51 36.639 -3   0.6 P        ISC  .IR      .TXAR .--.???               823263666
+P   SUMG    42.51  25  P        2018  2 26 20 51 44.0   -1   0.6 P        ISC  .IR      .SUMG .--.B?Z DNK   DNK     820280835
+P   ZEA     45.27 304  P        2018  2 26 20 52 11.5   -1   6.1 P        ISC  .IR      .ZEA  .--.S?Z       MOS     817008797
+P   KLR     46.03 296  P        2018  2 26 20 52 12.5   -1   1.1 P        ISC  .IR      .KLR  .--.S?Z       MOS     817008798
+P   NRIK    47.95 337  P        2018  2 26 20 52 27.1   -1   0.9 P        ISC  .IR      .NRIK .--.S?Z       MOS     817008799
+P   NRIK    47.95 337  P        2018  2 26 20 52 25.4   -1  -0.8 P        ISC  .IR      .NRIK .--.???               823263659
+P   H11N2   49.38 241  T        2018  2 26 21 45 47.61  -2       T        ISC  .IR      .H11N2.--.???               823263647
+P   H11N3   49.39 240  T        2018  2 26 21 45 48.435 -3       T        ISC  .IR      .H11N3.--.???               823263648
+P   H11N1   49.40 241  T        2018  2 26 21 45 51.805 -3       T        ISC  .IR      .H11N1.--.???               823263646
+P   H11S1   50.52 240  T        2018  2 26 21 47 14.329 -3       T        ISC  .IR      .H11S1.--.???               823263649
+P   H11S2   50.54 240  T        2018  2 26 21 47 15.792 -3       T        ISC  .IR      .H11S2.--.???               823263650
+P   H11S3   50.54 240  T        2018  2 26 21 47 17.637 -3       T        ISC  .IR      .H11S3.--.???               823263651
+P   ARCES   54.08   3  P        2018  2 26 20 53 12.325 -3   0.0 P        ISC  .IR      .ARCES.--.???               823263636
+P   KSRS    56.32 288  P        2018  2 26 20 53 30.5   -1   1.7 P        ISC  .IR      .KSRS .--.B?Z       MOS     817008801
+P   KSRS    56.32 288  P        2018  2 26 20 53 30.2   -1   1.4 P        ISC  .IR      .KSRS .--.???               823263655
+P   ULN     58.42 310  P        2018  2 26 20 53 45.1   -1   1.4 P        ISC  .IR      .ULN  .--.S?Z       MOS     817008802
+P   SONM    58.72 310  P        2018  2 26 20 53 47.22  -2   1.4 P        ISC  .IR      .SONM .--.???               823263663
+P   ZALV    61.49 327  P        2018  2 26 20 54  5.0   -1   0.5 P        ISC  .IR      .ZALV .--.B?Z       MOS     817008804
+P   ZALV    61.49 327  P        2018  2 26 20 54  4.7   -1   0.2 P        ISC  .IR      .ZALV .--.???               823263671
+P   FINES   62.21   3  P        2018  2 26 20 54  9.6   -1   0.4 P        ISC  .IR      .FINES.--.???               823263644
+P   KIRV    64.25 350  P        2018  2 26 20 54 24.4   -1   1.7 P        ISC  .IR      .KIRV .--.S?Z       MOS     817008806
+P   DGZ     64.33 323  P        2018  2 26 20 54 22.3   -1  -1.4 P        ISC  .IR      .DGZ  .--.S?Z       MOS     817008807
+P   ARU     65.19 344  P        2018  2 26 20 54 29.4   -1   0.4 P        ISC  .IR      .ARU  .--.B?Z MOS   MOS     817008808
+P   ARU     65.19 344  S        2018  2 26 21  3 13.0   -1   1.4 S        ISC  .IR      .ARU  .--.B?N MOS   MOS     817008808
+P   ARU     65.19 344  SS       2018  2 26 21  7 20.7   -1  -2.2 SS       ISC  .IR      .ARU  .--.B?N MOS   MOS     817008808
+P   BRVK    66.14 336  P        2018  2 26 20 54 35.8   -1   0.7 P        ISC  .IR      .BRVK .--.B?Z       MOS     817008809
+P   BVAR    66.14 336  P        2018  2 26 20 54 35.8   -1   0.6 P        ISC  .IR      .BVAR .--.???               823263640
+P   KURK    66.14 329  P        2018  2 26 20 54 35.9   -1   0.7 P        ISC  .IR      .KURK .--.S?Z       MOS     817008811
+P   KURBB   66.25 329  P        2018  2 26 20 54 35.9   -1   0.0 P        ISC  .IR      .KURBB.--.???               823263656
+P   MK31    68.54 325  P        2018  2 26 20 54 50.6   -1   0.1 P        ISC  .IR      .MK31 .--.B?Z       MOS     817008813
+P   MKAR    68.54 325  P        2018  2 26 20 54 50.65  -2   0.1 P        ISC  .IR      .MKAR .--.???               823263657
+P   OBN     68.55 357  P        2018  2 26 20 54 50.7   -1   0.4 P        ISC  .IR      .OBN  .--.S?Z       MOS     817008812
+P   OBN     68.55 357           2018  2 26 20 55 16.1   -1                ISC  .IR      .OBN  .--.S?Z       MOS     817008812
+P   OBN     68.55 357           2018  2 26 20 57 25.0   -1                ISC  .IR      .OBN  .--.S?Z       MOS     817008812
+P   BELG    70.54 350  P        2018  2 26 20 55  3.0   -1   0.4 P        ISC  .IR      .BELG .--.S?Z       MOS     817008815
+P   AKASG   73.04   2  P        2018  2 26 20 55 17.636 -3  -0.1 P        ISC  .IR      .AKASG.--.???               823263635
+P   AAK     74.67 329  P        2018  2 26 20 55 27.8   -1   0.1 P        ISC  .IR      .AAK  .--.S?Z       MOS     817008817
+P   KIV     79.35 352  P        2018  2 26 20 55 52.6   -1  -1.3 P        ISC  .IR      .KIV  .--.S?Z MOS   MOS     817008818
+P   ESDC    79.52  27  P        2018  2 26 20 55 55.267 -3   0.5 P        ISC  .IR      .ESDC .--.???               823263643
+P   GEYT    83.14 339  P        2018  2 26 20 56 14.201 -3   0.2 P        ISC  .IR      .GEYT .--.???               823263645
+P   BRTR    84.01 358  P        2018  2 26 20 56 18.9   -1   0.3 P        ISC  .IR      .BRTR .--.???               823263639
+P   CMAR    86.46 299  P        2018  2 26 20 56 31.5   -1   0.5 P        ISC  .IR      .CMAR .--.???               823263641
+P   WRA     99.56 248  Pdif     2018  2 26 20 57 31.59  -2   0.2 Pdif     ISC  .IR      .WRA  .--.???               823263668
+P   QSPA   146.41 180  PKPab    2018  2 26 21  3 27.344 -3  -1.4 PKPab    ISC  .IR      .QSPA .--.???               823263662
+P   BOSA   151.68  12  PKiKP    2018  2 26 21  3 42.475 -3  -0.4 PKiKP    ISC  .IR      .BOSA .--.???               823263638
+STOP                                                                                                                     
+EOF                                                                                                                      

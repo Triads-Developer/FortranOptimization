@@ -1,0 +1,112 @@
+F   MNF v1.3.4                                                                                                               
+E   Gulf of Alaska                                                                                                           
+I   ISC      612140679                                                                                                       
+H = 2018/03/11 03 39 32.15         56.4619 -148.8974                  23.2                    NEIC                  609952552
+# (Event not reviewed by the ISC)                                                                                            
+M   3.2  ML    NEIC                                                                                                 609952552
+M   2.9  ML    AEIC                                                                                                 609952552
+P   KDAK     2.41 305  Pn       2018  3 11  3 40 10.25  -2       Pn       ISC  .IR      .KDAK .--.BHZ NEIC  NEIC    748560065
+P   KDAK     2.41 305  Sn       2018  3 11  3 40 37.78  -2       Sn       ISC  .IR      .KDAK .--.BH1 NEIC  NEIC    748560066
+P   OHAK     2.53 289  Pn       2018  3 11  3 40 11.15  -2       Pn       ISC  .IR      .OHAK .--.BHZ NEIC  NEIC    748560075
+P   OHAK     2.53 289  Sn       2018  3 11  3 40 39.9   -1       Sn       ISC  .IR      .OHAK .--.BHN NEIC  NEIC    748560075
+P   SYI      2.86 320  Pn       2018  3 11  3 40 16.36  -2       Pn       ISC  .IR      .SYI  .--.BHZ NEIC  NEIC    748560078
+P   SYI      2.86 320  Sn       2018  3 11  3 40 49.33  -2       Sn       ISC  .IR      .SYI  .--.BHE NEIC  NEIC    748560078
+P   CNPM     3.31 339  Pn       2018  3 11  3 40 22.31  -2       Pn       ISC  .IR      .CNPM .--.BHZ NEIC  NEIC    748560079
+P   CNPM     3.31 339  Sn       2018  3 11  3 40 59.37  -2       Sn       ISC  .IR      .CNPM .--.BHN NEIC  NEIC    748560079
+P   BRSE     3.43 344  Pn       2018  3 11  3 40 24.22  -2       Pn       ISC  .IR      .BRSE .--.BHZ AEIC  NEIC    748560060
+P   BRSE     3.43 344  Sn       2018  3 11  3 41  3.29  -2       Sn       ISC  .IR      .BRSE .--.BHN AEIC  NEIC    748560060
+P   BRLK     3.48 343  Pn       2018  3 11  3 40 24.4   -1       Pn       ISC  .IR      .BRLK .--.BHZ NEIC  NEIC    748560081
+P   BRLK     3.48 343  Sn       2018  3 11  3 41  3.5   -1       Sn       ISC  .IR      .BRLK .--.BHE NEIC  NEIC    748560081
+P   HOM      3.52 337  Pn       2018  3 11  3 40 24.75  -2       Pn       ISC  .IR      .HOM  .--.BHZ NEIC  NEIC    748560083
+P   Q19K     3.55 316  Pn       2018  3 11  3 40 26.92  -2       Pn       ISC  .IR      .Q19K .--.BHZ NEIC  NEIC    748560084
+P   AUL      3.80 322  Pn       2018  3 11  3 40 31.     0       Pn       ISC  .IR      .AUL  .--.BHZ AEIC  NEIC    748560057
+P   KAKN     3.81 301  Pn       2018  3 11  3 40 30.98  -2       Pn       ISC  .IR      .KAKN .--.BHZ AEIC  NEIC    748560064
+P   ACHA     3.90 299  Pn       2018  3 11  3 40 31.31  -2       Pn       ISC  .IR      .ACHA .--.BHZ AEIC  NEIC    748560056
+P   P19K     3.94 326  Pn       2018  3 11  3 40 32.15  -2       Pn       ISC  .IR      .P19K .--.BHZ NEIC  NEIC    748560085
+P   SLKM     4.12 351  Pn       2018  3 11  3 40 33.3   -1       Pn       ISC  .IR      .SLKM .--.BHZ AEIC  NEIC    748560074
+P   O20K     4.13 333  Pn       2018  3 11  3 40 33.73  -2       Pn       ISC  .IR      .O20K .--.BHZ AEIC  NEIC    748560070
+P   HIN      4.14  17  Pn       2018  3 11  3 40 32.78  -2       Pn       ISC  .IR      .HIN  .--.BHZ NEIC  NEIC    748560086
+P   ILSW     4.18 329  Pn       2018  3 11  3 40 34.66  -2       Pn       ISC  .IR      .ILSW .--.BHZ NEIC  NEIC    748560087
+P   CNTC     4.19 298  Pn       2018  3 11  3 40 35.52  -2       Pn       ISC  .IR      .CNTC .--.BHZ AEIC  NEIC    748560071
+P   KAIM     4.21  32  Pn       2018  3 11  3 40 34.11  -2       Pn       ISC  .IR      .KAIM .--.BHZ NEIC  NEIC    748560088
+P   RED      4.46 335  Pn       2018  3 11  3 40 38.15  -2       Pn       ISC  .IR      .RED  .--.BHZ AEIC  NEIC    748560073
+P   P18K     4.47 314  Pn       2018  3 11  3 40 38.8   -1       Pn       ISC  .IR      .P18K .--.BHZ NEIC  NEIC    748560089
+P   RSO      4.49 335  Pn       2018  3 11  3 40 39.05  -2       Pn       ISC  .IR      .RSO  .--.EHZ NEIC  NEIC    748560090
+P   RDT      4.51 337  Pn       2018  3 11  3 40 38.65  -2       Pn       ISC  .IR      .RDT  .--.BHZ AEIC  NEIC    748560072
+P   SUCK     4.52  35  Pn       2018  3 11  3 40 38.4   -1       Pn       ISC  .IR      .SUCK .--.BHZ NEIC  NEIC    748560092
+P   RAGM     4.52  28  Pn       2018  3 11  3 40 38.79  -2       Pn       ISC  .IR      .RAGM .--.BHZ NEIC  NEIC    748560091
+P   HMT      4.59  30  Pn       2018  3 11  3 40 39.06  -2       Pn       ISC  .IR      .HMT  .--.BHZ NEIC  NEIC    748560093
+P   NICHA    4.59  32  Pn       2018  3 11  3 40 40.57  -2       Pn       ISC  .IR      .NICHA.--.BHZ AEIC  NEIC    748560069
+P   RC01     4.66 355  Pn       2018  3 11  3 40 39.61  -2       Pn       ISC  .IR      .RC01 .--.BHZ NEIC  NEIC    748560094
+P   GOAT     4.67  26  Pn       2018  3 11  3 40 41.68  -2       Pn       ISC  .IR      .GOAT .--.BHZ AEIC  NEIC    748560062
+P   O18K     4.77 318  Pn       2018  3 11  3 40 42.42  -2       Pn       ISC  .IR      .O18K .--.BHZ NEIC  NEIC    748560095
+P   BERG     4.79  33  Pn       2018  3 11  3 40 42.22  -2       Pn       ISC  .IR      .BERG .--.BHZ NEIC  NEIC    748560096
+P   GRIN     4.83  35  Pn       2018  3 11  3 40 43.52  -2       Pn       ISC  .IR      .GRIN .--.BHZ AEIC  NEIC    748560063
+P   SNH      4.91  38  Pn       2018  3 11  3 40 43.64  -2       Pn       ISC  .IR      .SNH  .--.BHZ NEIC  NEIC    748560097
+P   KNK      4.97   2  Pn       2018  3 11  3 40 45.52  -2       Pn       ISC  .IR      .KNK  .--.BHZ NEIC  NEIC    748560098
+P   BMRM     5.04  25  Pn       2018  3 11  3 40 45.85  -2       Pn       ISC  .IR      .BMRM .--.BHZ NEIC  NEIC    748560099
+P   SPCR     5.05 342  Pn       2018  3 11  3 40 45.63  -2       Pn       ISC  .IR      .SPCR .--.BHZ AEIC  NEIC    748560068
+P   WAX      5.11  36  Pn       2018  3 11  3 40 46.87  -2       Pn       ISC  .IR      .WAX  .--.BHZ NEIC  NEIC    748560101
+P   SUA      5.11 350  Pn       2018  3 11  3 40 46.14  -2       Pn       ISC  .IR      .SUA  .--.BHZ NEIC  NEIC    748560100
+P   MESA     5.22  42  Pn       2018  3 11  3 40 48.13  -2       Pn       ISC  .IR      .MESA .--.BHZ NEIC  NEIC    748560102
+P   N19K     5.25 329  Pn       2018  3 11  3 40 48.88  -2       Pn       ISC  .IR      .N19K .--.BHZ NEIC  NEIC    748560103
+P   CRQM     5.25  33  Pn       2018  3 11  3 40 49.07  -2       Pn       ISC  .IR      .CRQM .--.BHZ NEIC  NEIC    748560104
+P   KLU      5.28  16  Pn       2018  3 11  3 40 49.44  -2       Pn       ISC  .IR      .KLU  .--.BHZ NEIC  NEIC    748560105
+P   GHO      5.33 360  Pn       2018  3 11  3 40 50.65  -2       Pn       ISC  .IR      .GHO  .--.BHZ NEIC  NEIC    748560106
+P   TGL      5.35  34  Pn       2018  3 11  3 40 49.78  -2       Pn       ISC  .IR      .TGL  .--.BHZ NEIC  NEIC    748560107
+P   SML      5.37   3  Pn       2018  3 11  3 40 51.13  -2       Pn       ISC  .IR      .SML  .--.BHZ NEIC  NEIC    748560108
+P   ISLE     5.39  37  Pn       2018  3 11  3 40 50.5   -1       Pn       ISC  .IR      .ISLE .--.BHZ NEIC  NEIC    748560109
+P   BAGL     5.39  39  Pn       2018  3 11  3 40 51.01  -2       Pn       ISC  .IR      .BAGL .--.BHZ AEIC  NEIC    748560059
+P   SCM      5.45   8  Pn       2018  3 11  3 40 53.97  -2       Pn       ISC  .IR      .SCM  .--.BHZ NEIC  NEIC    748560110
+P   VRDI     5.55  28  Pn       2018  3 11  3 40 52.86  -2       Pn       ISC  .IR      .VRDI .--.BHZ NEIC  NEIC    748560111
+P   N18K     5.59 322  Pn       2018  3 11  3 40 53.86  -2       Pn       ISC  .IR      .N18K .--.BHZ NEIC  NEIC    748560112
+P   N25K     5.62  22  Pn       2018  3 11  3 40 54.55  -2       Pn       ISC  .IR      .N25K .--.BHZ NEIC  NEIC    748560113
+P   KIAG     5.62  35  Pn       2018  3 11  3 40 54.29  -2       Pn       ISC  .IR      .KIAG .--.BHZ AEIC  NEIC    748560067
+P   GLB      5.64  26  Pn       2018  3 11  3 40 54.13  -2       Pn       ISC  .IR      .GLB  .--.BHZ NEIC  NEIC    748560114
+P   GRNC     5.68  38  Pn       2018  3 11  3 40 54.65  -2       Pn       ISC  .IR      .GRNC .--.BHZ NEIC  NEIC    748560115
+P   SKT      5.70 347  Pn       2018  3 11  3 40 55.34  -2       Pn       ISC  .IR      .SKT  .--.BHZ NEIC  NEIC    748560116
+P   TABL     5.70  42  Pn       2018  3 11  3 40 54.64  -2       Pn       ISC  .IR      .TABL .--.BHZ NEIC  NEIC    748560117
+P   MCARA    5.80  29  Pn       2018  3 11  3 40 56.92  -2       Pn       ISC  .IR      .MCARA.--.BHZ NEIC  NEIC    748560118
+P   O16K     5.81 307  Pn       2018  3 11  3 40 56.98  -2       Pn       ISC  .IR      .O16K .--.BHZ NEIC  NEIC    748560119
+P   M24K     5.83  13  Pn       2018  3 11  3 40 58.03  -2       Pn       ISC  .IR      .M24K .--.BHZ NEIC  NEIC    748560120
+P   M20K     5.86 340  Pn       2018  3 11  3 40 57.77  -2       Pn       ISC  .IR      .M20K .--.BHZ NEIC  NEIC    748560121
+P   BARN     5.95  36  Pn       2018  3 11  3 40 58.91  -2       Pn       ISC  .IR      .BARN .--.BHZ NEIC  NEIC    748560123
+P   N17K     5.96 317  Pn       2018  3 11  3 40 59.43  -2       Pn       ISC  .IR      .N17K .--.BHZ NEIC  NEIC    748560122
+P   CTGM     5.99  38  Pn       2018  3 11  3 40 58.36  -2       Pn       ISC  .IR      .CTGM .--.BHZ NEIC  NEIC    748560124
+P   LOGN     6.01  40  Pn       2018  3 11  3 40 59.03  -2       Pn       ISC  .IR      .LOGN .--.BHZ NEIC  NEIC    748560125
+P   BCPM     6.02  51  Pn       2018  3 11  3 40 59.05  -2       Pn       ISC  .IR      .BCPM .--.BHZ NEIC  NEIC    748560126
+P   M19K     6.14 335  Pn       2018  3 11  3 41  1.31  -2       Pn       ISC  .IR      .M19K .--.BHZ NEIC  NEIC    748560127
+P   L19K     6.49 335  Pn       2018  3 11  3 41  5.31  -2       Pn       ISC  .IR      .L19K .--.BHZ NEIC  NEIC    748560128
+P   M17K     6.63 322  Pn       2018  3 11  3 41  8.61  -2       Pn       ISC  .IR      .M17K .--.BHZ NEIC  NEIC    748560129
+P   O29M     6.65  50  Pn       2018  3 11  3 41  8.46  -2       Pn       ISC  .IR      .O29M .--.BHZ NEIC  NEIC    748560130
+P   P29M     6.72  57  Pn       2018  3 11  3 41  8.2   -1       Pn       ISC  .IR      .P29M .--.BHZ NEIC  NEIC    748560131
+P   M27K     6.91  28  Pn       2018  3 11  3 41 13.03  -2       Pn       ISC  .IR      .M27K .--.BHZ NEIC  NEIC    748560132
+P   M16K     6.95 315  Pn       2018  3 11  3 41 12.63  -2       Pn       ISC  .IR      .M16K .--.BHZ NEIC  NEIC    748560133
+P   N15K     6.97 307  Pn       2018  3 11  3 41 14.14  -2       Pn       ISC  .IR      .N15K .--.BHZ NEIC  NEIC    748560134
+P   RND      6.97   0  Pn       2018  3 11  3 41 14.01  -2       Pn       ISC  .IR      .RND  .--.BHZ NEIC  NEIC    748560135
+P   L18K     7.01 329  Pn       2018  3 11  3 41 12.95  -2       Pn       ISC  .IR      .L18K .--.BHZ NEIC  NEIC    748560137
+P   TRF      7.05 355  Pn       2018  3 11  3 41 14.27  -2       Pn       ISC  .IR      .TRF  .--.BHZ NEIC  NEIC    748560136
+P   CAST     7.16 348  Pn       2018  3 11  3 41 17.18  -2       Pn       ISC  .IR      .CAST .--.BHZ NEIC  NEIC    748560139
+P   O14K     7.17 298  Pn       2018  3 11  3 41 16.88  -2       Pn       ISC  .IR      .O14K .--.BHZ NEIC  NEIC    748560138
+P   KTH      7.19 353  Pn       2018  3 11  3 41 16.32  -2       Pn       ISC  .IR      .KTH  .--.BHZ NEIC  NEIC    748560141
+P   K20K     7.39 342  Pn       2018  3 11  3 41 18.66  -2       Pn       ISC  .IR      .K20K .--.BHZ NEIC  NEIC    748560140
+P   TTA      7.42 334  Pn       2018  3 11  3 41 17.81  -2       Pn       ISC  .IR      .TTA  .--.BHZ NEIC  NEIC    748560142
+P   L16K     7.57 318  Pn       2018  3 11  3 41 19.79  -2       Pn       ISC  .IR      .L16K .--.BHZ NEIC  NEIC    748560143
+P   RIDG     7.58  14  Pn       2018  3 11  3 41 21.16  -2       Pn       ISC  .IR      .RIDG .--.BHZ NEIC  NEIC    748560144
+P   BPAW     7.73 353  Pn       2018  3 11  3 41 22.74  -2       Pn       ISC  .IR      .BPAW .--.BHZ NEIC  NEIC    748560145
+P   K17K     7.87 327  Pn       2018  3 11  3 41 24.25  -2       Pn       ISC  .IR      .K17K .--.BHZ NEIC  NEIC    748560146
+P   N30M     7.89  46  Pn       2018  3 11  3 41 25.44  -2       Pn       ISC  .IR      .N30M .--.BHZ NEIC  NEIC    748560147
+P   M29M     8.01  37  Pn       2018  3 11  3 41 27.56  -2       Pn       ISC  .IR      .M29M .--.BHZ NEIC  NEIC    748560148
+P   JIS      8.05  71  Pn       2018  3 11  3 41 26.95  -2       Pn       ISC  .IR      .JIS  .--.BHZ NEIC  NEIC    748560149
+P   K27K     8.31  21  Pn       2018  3 11  3 41 31.52  -2       Pn       ISC  .IR      .K27K .--.BHZ NEIC  NEIC    748560150
+P   J26L     8.48  16  Pn       2018  3 11  3 41 34.4   -1       Pn       ISC  .IR      .J26L .--.BHZ NEIC  NEIC    748560151
+P   L29M     8.59  35  Pn       2018  3 11  3 41 35.37  -2       Pn       ISC  .IR      .L29M .--.BHZ NEIC  NEIC    748560152
+P   P32M     8.64  63  Pn       2018  3 11  3 41 34.72  -2       Pn       ISC  .IR      .P32M .--.BHZ NEIC  NEIC    748560153
+P   J16K     9.01 324  Pn       2018  3 11  3 41 40.26  -2       Pn       ISC  .IR      .J16K .--.BHZ NEIC  NEIC    748560154
+P   P33M     9.25  59  Pn       2018  3 11  3 41 43.14  -2       Pn       ISC  .IR      .P33M .--.BHZ NEIC  NEIC    748560155
+P   K29M     9.31  33  Pn       2018  3 11  3 41 45.7   -1       Pn       ISC  .IR      .K29M .--.BHZ NEIC  NEIC    748560156
+P   M31M     9.37  46  Pn       2018  3 11  3 41 45.87  -2       Pn       ISC  .IR      .M31M .--.BHZ NEIC  NEIC    748560157
+P   H21K     9.42 350  Pn       2018  3 11  3 41 46.23  -2       Pn       ISC  .IR      .H21K .--.BHZ NEIC  NEIC    748560158
+P   IMAR     9.83 348  Pn       2018  3 11  3 41 50.28  -2       Pn       ISC  .IR      .IMAR .--.SHZ NEIC  NEIC    748560159
+STOP                                                                                                                     
+EOF                                                                                                                      

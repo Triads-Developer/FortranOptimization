@@ -1,0 +1,24 @@
+The Mangyshlak cluster is named for the sequence of three peaceful
+nuclear explosions (PNEs) conducted by the former Soviet Union in
+western Kazakhstan 1969 and 1970. As there is no local-distance arrival
+time data the location calibration was done using the indirect
+calibration method with calibration epicenters based on analysis of
+satelite imagery. The analysis was confirmed and refined slightly by
+site visits as described in:
+
+"Mackey, K. G., & Bergman, E. A. (2014). Ground truth locations for the
+Mangyshlak Peaceful Nuclear Explosion sequence, western Kazakhstan.
+Bulletin of the Seismological Society of America, 104(4), 1–9."
+
+Focal depths are set according to the shot depths reported by Sultanov
+et al., 1999, corrected for the 200 m elevation of the source region.
+The calibration origin times are those of Sultanov et al., 1999. The
+calibrated relocation is done with fixed depth. The hypocentroid is
+estimated from teleseismic P arrivals (30°-90°) using the ak135 global
+model. The shift needed bring the events into close agreement with the
+ground truth locations is 6.9 km at an azimuth of 65°, after which the
+residuals in epicentral location range from 220 to 790 m. The origin
+times determined in the relocation are shifted +0.41 s to match the
+reported shot times (i.e., true travel times are shorter than ak135) and
+the consistency among the three events (residuals range from -0.05 to
+0.06 s) suggests that the reported shot times are accurate.

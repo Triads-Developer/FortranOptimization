@@ -1,0 +1,31 @@
+pltt 1 2 3 6
+ccat mangyshlak_summary.txt
+rfil mangyshlak3.5.rderr
+tfil mangyshlak3.5.ttsprd
+hlim 30. 90.
+clim 0. 180.
+wind 3 4
+frec 1 1 0 1
+freh 1 1 0 1
+comm elevation in the source area is 200 m
+memb
+even 19691206.0702.59
+inpu 19691206.0702.59.mnf
+depe 0.2 0.1
+comm OT and depth from Sultanov
+calf 7 2 59.85 43.867  54.800  0.2 0.0 0.01 0.01 0.04 1.0 ! Sultanov geodetic
+calf 7 2 59.85 43.8625 54.7727 0.2 0.0 0.01 0.01 0.04 1.0 ! Mackey site visit
+memb
+even 19701212.0700.59
+inpu 19701212.0700.59.mnf
+depe 0.3 0.1
+comm OT and depth from Sultanov
+calf 7 0 59.83 43.85   54.80   0.3 0.0 0.01 0.01 0.04 1.0 ! Sultanov seismic
+calf 7 0 59.83 43.9096 54.7937 0.3 0.0 0.01 0.01 0.04 1.0 ! Mackey site visit
+memb
+even 19701223.0700.59
+inpu 19701223.0700.59.mnf
+depe 0.3 0.1
+comm OT and depth from Sultanov
+calf 7 0 59.76 44.025  54.993  0.3 0.0 0.01 0.01 0.04 1.0 ! Sultanov geodetic
+calf 7 0 59.76 43.8858 54.8973 0.3 0.0 0.01 0.01 0.04 1.0 ! Mackey site visit

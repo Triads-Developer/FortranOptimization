@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+   <Style id="i_red">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_red.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_red">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_red.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="red">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_red</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_red</styleUrl>
+      </Pair>
+  </StyleMap>
+   <Style id="i_yellow">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_yellow.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_yellow">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_yellow.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="yellow">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_yellow</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_yellow</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_green">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_green.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_green">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_green.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="green">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_green</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_green</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_blue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_blue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_blue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_blue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="blue">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_blue</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_blue</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_skyblue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_skyblue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_skyblue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_skyblue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="skyblue">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_skyblue</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_skyblue</styleUrl>
+      </Pair>
+   </StyleMap>
+   <LookAt>
+      <longitude>54.743</longitude>
+      <latitude>43.860</latitude>
+      <range>55273</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+   </LookAt>
+   <Placemark>
+      <name>1</name>
+      <description><![CDATA[Event : <b>1</b>
+      <br>Time : <b>1969/12/ 6  7: 2:59.504 </b>
+      <br>Magnitude : <b>5.8 mb</b>
+      <br>Latitude : <b>43.864</b>
+      <br>Longitude : <b>54.780</b>
+      <br>Depth : <b>0.2 constrained (e)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.630</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>54.780,43.864,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>2</name>
+      <description><![CDATA[Event : <b>2</b>
+      <br>Time : <b>1970/12/12  7: 0:59.402 </b>
+      <br>Magnitude : <b>6.0 mb</b>
+      <br>Latitude : <b>43.908</b>
+      <br>Longitude : <b>54.792</b>
+      <br>Depth : <b>0.3 constrained (e)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.700</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>54.792,43.908,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>3</name>
+      <description><![CDATA[Event : <b>3</b>
+      <br>Time : <b>1970/12/23  7: 0:59.309 </b>
+      <br>Magnitude : <b>6.0 mb</b>
+      <br>Latitude : <b>43.887</b>
+      <br>Longitude : <b>54.892</b>
+      <br>Depth : <b>0.3 constrained (e)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.700</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>54.892,43.887,0</coordinates>
+      </Point>
+   </Placemark>
+</Document>
+</kml>

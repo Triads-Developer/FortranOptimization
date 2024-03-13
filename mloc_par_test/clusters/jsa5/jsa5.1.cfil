@@ -1,0 +1,24 @@
+comm Jordan & Sverdrup (1981) Region A
+pltt 1 2 3 6 7 8
+ppri pP
+ppri sP
+dcal off
+phyp on
+hlim 30. 90.
+clim 0. 180.
+wind 3 4
+frec 1 1 0 1
+freh 1 1 0 1
+depc 10
+memb
+even 19680729.0245.44
+inpu 19680729.0245.44.mnf
+memb
+even 19690806.1715.39
+inpu 19690806.1715.39.mnf
+memb
+even 19730119.0736.32
+inpu 19730119.0736.32.mnf
+memb
+even 19730119.1526.27
+inpu 19730119.1526.27.mnf

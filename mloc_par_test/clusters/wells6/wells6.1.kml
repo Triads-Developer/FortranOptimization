@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+   <Style id="i_red">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_red.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_red">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_red.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="red">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_red</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_red</styleUrl>
+      </Pair>
+  </StyleMap>
+   <Style id="i_yellow">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_yellow.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_yellow">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_yellow.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="yellow">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_yellow</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_yellow</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_green">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_green.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_green">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_green.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="green">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_green</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_green</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_blue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_blue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_blue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_blue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="blue">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_blue</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_blue</styleUrl>
+      </Pair>
+   </StyleMap>
+   <Style id="i_skyblue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/i_skyblue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="a_skyblue">
+      <IconStyle>
+         <Icon>
+            <href>_kml/a_skyblue.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <StyleMap id="skyblue">
+      <Pair>
+         <key>normal</key>
+         <styleUrl>#i_skyblue</styleUrl>
+      </Pair>
+      <Pair>
+         <key>highlight</key>
+         <styleUrl>#a_skyblue</styleUrl>
+      </Pair>
+   </StyleMap>
+   <LookAt>
+      <longitude>-114.889</longitude>
+      <latitude>41.166</latitude>
+      <range>50814</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+   </LookAt>
+   <Placemark>
+      <name>1</name>
+      <description><![CDATA[Event : <b>1</b>
+      <br>Time : <b>2007/ 2/28 11:47:40.746 </b>
+      <br>Magnitude : <b>3.4 mb</b>
+      <br>Latitude : <b>41.143</b>
+      <br>Longitude : <b>-114.851</b>
+      <br>Depth : <b>12.3 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.790</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.851,41.143,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>2</name>
+      <description><![CDATA[Event : <b>2</b>
+      <br>Time : <b>2007/ 2/28 14:46: 9.508 </b>
+      <br>Magnitude : <b>3.1 mb</b>
+      <br>Latitude : <b>41.138</b>
+      <br>Longitude : <b>-114.854</b>
+      <br>Depth : <b>11.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.685</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.854,41.138,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>3</name>
+      <description><![CDATA[Event : <b>3</b>
+      <br>Time : <b>2008/ 2/21 14:16: 2.039 </b>
+      <br>Magnitude : <b>5.8 mb</b>
+      <br>Latitude : <b>41.141</b>
+      <br>Longitude : <b>-114.869</b>
+      <br>Depth : <b>11.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.630</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.869,41.141,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>4</name>
+      <description><![CDATA[Event : <b>4</b>
+      <br>Time : <b>2008/ 2/21 14:20:50.781 </b>
+      <br>Magnitude : <b>4.5 mb</b>
+      <br>Latitude : <b>41.131</b>
+      <br>Longitude : <b>-114.921</b>
+      <br>Depth : <b>10.7 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.175</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.921,41.131,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>5</name>
+      <description><![CDATA[Event : <b>5</b>
+      <br>Time : <b>2008/ 2/21 14:34:41.344 </b>
+      <br>Magnitude : <b>4.2 mb</b>
+      <br>Latitude : <b>41.136</b>
+      <br>Longitude : <b>-114.857</b>
+      <br>Depth : <b>12.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.070</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.857,41.136,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>6</name>
+      <description><![CDATA[Event : <b>6</b>
+      <br>Time : <b>2008/ 2/21 15:34:24.836 </b>
+      <br>Magnitude : <b>3.7 mb</b>
+      <br>Latitude : <b>41.126</b>
+      <br>Longitude : <b>-114.916</b>
+      <br>Depth : <b>11.0 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.895</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.916,41.126,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>7</name>
+      <description><![CDATA[Event : <b>7</b>
+      <br>Time : <b>2008/ 2/21 18:55:50.500 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.164</b>
+      <br>Longitude : <b>-114.914</b>
+      <br>Depth : <b>9.4 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.914,41.164,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>8</name>
+      <description><![CDATA[Event : <b>8</b>
+      <br>Time : <b>2008/ 2/21 19: 6:42.656 </b>
+      <br>Magnitude : <b>2.7 mb</b>
+      <br>Latitude : <b>41.126</b>
+      <br>Longitude : <b>-114.895</b>
+      <br>Depth : <b>10.1 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.545</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.895,41.126,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>9</name>
+      <description><![CDATA[Event : <b>9</b>
+      <br>Time : <b>2008/ 2/21 19:10:20.914 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.108</b>
+      <br>Longitude : <b>-114.901</b>
+      <br>Depth : <b>11.1 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.901,41.108,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>10</name>
+      <description><![CDATA[Event : <b>10</b>
+      <br>Time : <b>2008/ 2/21 20:26: 8.445 </b>
+      <br>Magnitude : <b>2.7 mb</b>
+      <br>Latitude : <b>41.151</b>
+      <br>Longitude : <b>-114.933</b>
+      <br>Depth : <b>9.4 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.545</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.933,41.151,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>11</name>
+      <description><![CDATA[Event : <b>11</b>
+      <br>Time : <b>2008/ 2/21 20:33:19.219 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.146</b>
+      <br>Longitude : <b>-114.906</b>
+      <br>Depth : <b>10.3 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.906,41.146,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>12</name>
+      <description><![CDATA[Event : <b>12</b>
+      <br>Time : <b>2008/ 2/21 20:56:52.258 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.162</b>
+      <br>Longitude : <b>-114.940</b>
+      <br>Depth : <b>8.5 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.940,41.162,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>13</name>
+      <description><![CDATA[Event : <b>13</b>
+      <br>Time : <b>2008/ 2/21 21:35:50.156 </b>
+      <br>Magnitude : <b>2.9 mb</b>
+      <br>Latitude : <b>41.154</b>
+      <br>Longitude : <b>-114.929</b>
+      <br>Depth : <b>8.5 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.615</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.929,41.154,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>14</name>
+      <description><![CDATA[Event : <b>14</b>
+      <br>Time : <b>2008/ 2/21 23:57:50.453 </b>
+      <br>Magnitude : <b>4.6 mb</b>
+      <br>Latitude : <b>41.141</b>
+      <br>Longitude : <b>-114.920</b>
+      <br>Depth : <b>9.7 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.210</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.920,41.141,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>15</name>
+      <description><![CDATA[Event : <b>15</b>
+      <br>Time : <b>2008/ 2/22  0: 2:51.071 </b>
+      <br>Magnitude : <b>2.8 mb</b>
+      <br>Latitude : <b>41.176</b>
+      <br>Longitude : <b>-114.919</b>
+      <br>Depth : <b>9.2 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.580</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.919,41.176,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>16</name>
+      <description><![CDATA[Event : <b>16</b>
+      <br>Time : <b>2008/ 2/22  0:13:57.295 </b>
+      <br>Magnitude : <b>2.7 mb</b>
+      <br>Latitude : <b>41.253</b>
+      <br>Longitude : <b>-114.801</b>
+      <br>Depth : <b>11.9 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.545</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.801,41.253,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>17</name>
+      <description><![CDATA[Event : <b>17</b>
+      <br>Time : <b>2008/ 2/22  0:14:58.825 </b>
+      <br>Magnitude : <b>2.8 mb</b>
+      <br>Latitude : <b>41.134</b>
+      <br>Longitude : <b>-114.923</b>
+      <br>Depth : <b>10.0 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.580</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.923,41.134,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>18</name>
+      <description><![CDATA[Event : <b>18</b>
+      <br>Time : <b>2008/ 2/22  1:50: 4.590 </b>
+      <br>Magnitude : <b>4.0 mb</b>
+      <br>Latitude : <b>41.126</b>
+      <br>Longitude : <b>-114.911</b>
+      <br>Depth : <b>9.8 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.000</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.911,41.126,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>19</name>
+      <description><![CDATA[Event : <b>19</b>
+      <br>Time : <b>2008/ 2/22  3:47:56.747 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.160</b>
+      <br>Longitude : <b>-114.927</b>
+      <br>Depth : <b>8.7 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.927,41.160,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>20</name>
+      <description><![CDATA[Event : <b>20</b>
+      <br>Time : <b>2008/ 2/22  3:56:45.189 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.101</b>
+      <br>Longitude : <b>-114.899</b>
+      <br>Depth : <b>11.0 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.899,41.101,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>21</name>
+      <description><![CDATA[Event : <b>21</b>
+      <br>Time : <b>2008/ 2/22  7:59:13.346 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.139</b>
+      <br>Longitude : <b>-114.939</b>
+      <br>Depth : <b>8.9 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.939,41.139,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>22</name>
+      <description><![CDATA[Event : <b>22</b>
+      <br>Time : <b>2008/ 2/22 11:45: 1.977 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.151</b>
+      <br>Longitude : <b>-114.932</b>
+      <br>Depth : <b>7.5 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.932,41.151,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>23</name>
+      <description><![CDATA[Event : <b>23</b>
+      <br>Time : <b>2008/ 2/22 19:22:29.375 </b>
+      <br>Magnitude : <b>3.5 mb</b>
+      <br>Latitude : <b>41.128</b>
+      <br>Longitude : <b>-114.892</b>
+      <br>Depth : <b>11.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.825</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.892,41.128,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>24</name>
+      <description><![CDATA[Event : <b>24</b>
+      <br>Time : <b>2008/ 2/22 21:20:57.484 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.156</b>
+      <br>Longitude : <b>-114.912</b>
+      <br>Depth : <b>9.5 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.912,41.156,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>25</name>
+      <description><![CDATA[Event : <b>25</b>
+      <br>Time : <b>2008/ 2/22 23:27:44.617 </b>
+      <br>Magnitude : <b>4.5 mb</b>
+      <br>Latitude : <b>41.120</b>
+      <br>Longitude : <b>-114.909</b>
+      <br>Depth : <b>11.7 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.175</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.909,41.120,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>26</name>
+      <description><![CDATA[Event : <b>26</b>
+      <br>Time : <b>2008/ 2/23  2:54:57.158 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.278</b>
+      <br>Longitude : <b>-114.865</b>
+      <br>Depth : <b>12.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.865,41.278,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>27</name>
+      <description><![CDATA[Event : <b>27</b>
+      <br>Time : <b>2008/ 2/24 17:46:22.043 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.176</b>
+      <br>Longitude : <b>-114.905</b>
+      <br>Depth : <b>11.3 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.905,41.176,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>28</name>
+      <description><![CDATA[Event : <b>28</b>
+      <br>Time : <b>2008/ 2/24 18:40:44.758 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.160</b>
+      <br>Longitude : <b>-114.845</b>
+      <br>Depth : <b>12.3 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.845,41.160,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>29</name>
+      <description><![CDATA[Event : <b>29</b>
+      <br>Time : <b>2008/ 2/25 19: 1:36.227 </b>
+      <br>Magnitude : <b>3.1 mb</b>
+      <br>Latitude : <b>41.139</b>
+      <br>Longitude : <b>-114.885</b>
+      <br>Depth : <b>11.2 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.685</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.885,41.139,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>30</name>
+      <description><![CDATA[Event : <b>30</b>
+      <br>Time : <b>2008/ 2/26  2:22:23.069 </b>
+      <br>Magnitude : <b>2.9 mb</b>
+      <br>Latitude : <b>41.232</b>
+      <br>Longitude : <b>-114.848</b>
+      <br>Depth : <b>10.6 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.615</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.848,41.232,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>31</name>
+      <description><![CDATA[Event : <b>31</b>
+      <br>Time : <b>2008/ 2/26  2:48:45.185 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.277</b>
+      <br>Longitude : <b>-114.861</b>
+      <br>Depth : <b>11.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.861,41.277,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>32</name>
+      <description><![CDATA[Event : <b>32</b>
+      <br>Time : <b>2008/ 2/26  3:47:13.921 </b>
+      <br>Magnitude : <b>2.8 mb</b>
+      <br>Latitude : <b>41.280</b>
+      <br>Longitude : <b>-114.864</b>
+      <br>Depth : <b>11.8 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.580</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.864,41.280,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>33</name>
+      <description><![CDATA[Event : <b>33</b>
+      <br>Time : <b>2008/ 2/26 20:46:44.898 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.275</b>
+      <br>Longitude : <b>-114.863</b>
+      <br>Depth : <b>11.5 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.863,41.275,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>34</name>
+      <description><![CDATA[Event : <b>34</b>
+      <br>Time : <b>2008/ 2/27  7:59:37.414 </b>
+      <br>Magnitude : <b>4.0 mb</b>
+      <br>Latitude : <b>41.192</b>
+      <br>Longitude : <b>-114.841</b>
+      <br>Depth : <b>11.2 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.000</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.841,41.192,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>35</name>
+      <description><![CDATA[Event : <b>35</b>
+      <br>Time : <b>2008/ 2/28 14: 2:15.871 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.162</b>
+      <br>Longitude : <b>-114.911</b>
+      <br>Depth : <b>9.1 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.911,41.162,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>36</name>
+      <description><![CDATA[Event : <b>36</b>
+      <br>Time : <b>2008/ 2/28 15:10:37.055 </b>
+      <br>Magnitude : <b>3.7 mb</b>
+      <br>Latitude : <b>41.144</b>
+      <br>Longitude : <b>-114.925</b>
+      <br>Depth : <b>8.9 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.895</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.925,41.144,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>37</name>
+      <description><![CDATA[Event : <b>37</b>
+      <br>Time : <b>2008/ 2/29 21:19:24.852 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.203</b>
+      <br>Longitude : <b>-114.856</b>
+      <br>Depth : <b>9.6 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.856,41.203,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>38</name>
+      <description><![CDATA[Event : <b>38</b>
+      <br>Time : <b>2008/ 3/ 4 15:21:13.246 </b>
+      <br>Magnitude : <b>2.5 mb</b>
+      <br>Latitude : <b>41.185</b>
+      <br>Longitude : <b>-114.875</b>
+      <br>Depth : <b>8.3 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.475</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.875,41.185,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>39</name>
+      <description><![CDATA[Event : <b>39</b>
+      <br>Time : <b>2008/ 3/ 6  2: 5:54.590 </b>
+      <br>Magnitude : <b>2.7 mb</b>
+      <br>Latitude : <b>41.193</b>
+      <br>Longitude : <b>-114.878</b>
+      <br>Depth : <b>8.4 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.545</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.878,41.193,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>40</name>
+      <description><![CDATA[Event : <b>40</b>
+      <br>Time : <b>2008/ 3/13  8:47:32.047 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.101</b>
+      <br>Longitude : <b>-114.898</b>
+      <br>Depth : <b>11.6 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.898,41.101,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>41</name>
+      <description><![CDATA[Event : <b>41</b>
+      <br>Time : <b>2008/ 3/14  7:39: 5.383 </b>
+      <br>Magnitude : <b>3.3 mb</b>
+      <br>Latitude : <b>41.129</b>
+      <br>Longitude : <b>-114.912</b>
+      <br>Depth : <b>9.4 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.755</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.912,41.129,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>42</name>
+      <description><![CDATA[Event : <b>42</b>
+      <br>Time : <b>2008/ 3/15 16:22:32.941 </b>
+      <br>Magnitude : <b>4.3 mb</b>
+      <br>Latitude : <b>41.126</b>
+      <br>Longitude : <b>-114.910</b>
+      <br>Depth : <b>11.0 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.105</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.910,41.126,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>43</name>
+      <description><![CDATA[Event : <b>43</b>
+      <br>Time : <b>2008/ 3/30 13:32:18.113 </b>
+      <br>Magnitude : <b>2.3 mb</b>
+      <br>Latitude : <b>41.125</b>
+      <br>Longitude : <b>-114.932</b>
+      <br>Depth : <b>8.6 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.405</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.932,41.125,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>44</name>
+      <description><![CDATA[Event : <b>44</b>
+      <br>Time : <b>2008/ 4/ 1 13:16:16.527 </b>
+      <br>Magnitude : <b>4.3 mb</b>
+      <br>Latitude : <b>41.220</b>
+      <br>Longitude : <b>-114.833</b>
+      <br>Depth : <b>11.8 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.105</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.833,41.220,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>45</name>
+      <description><![CDATA[Event : <b>45</b>
+      <br>Time : <b>2008/ 4/22 20:40: 8.641 </b>
+      <br>Magnitude : <b>4.3 mb</b>
+      <br>Latitude : <b>41.213</b>
+      <br>Longitude : <b>-114.842</b>
+      <br>Depth : <b>11.6 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>1.105</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.842,41.213,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>46</name>
+      <description><![CDATA[Event : <b>46</b>
+      <br>Time : <b>2008/ 6/ 6  3:22: 1.073 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.117</b>
+      <br>Longitude : <b>-114.919</b>
+      <br>Depth : <b>9.8 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.919,41.117,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>47</name>
+      <description><![CDATA[Event : <b>47</b>
+      <br>Time : <b>2008/ 7/ 9  0:46:39.973 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.196</b>
+      <br>Longitude : <b>-114.840</b>
+      <br>Depth : <b>11.4 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.840,41.196,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>48</name>
+      <description><![CDATA[Event : <b>48</b>
+      <br>Time : <b>2008/ 8/12 10:58:45.102 </b>
+      <br>Magnitude : <b>2.9 mb</b>
+      <br>Latitude : <b>41.192</b>
+      <br>Longitude : <b>-114.838</b>
+      <br>Depth : <b>11.5 constrained (m)</b>]]></description>
+      <styleUrl>#green</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.615</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.838,41.192,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>49</name>
+      <description><![CDATA[Event : <b>49</b>
+      <br>Time : <b>2009/ 3/10  5:50: 6.410 </b>
+      <br>Magnitude : <b>2.6 mb</b>
+      <br>Latitude : <b>41.206</b>
+      <br>Longitude : <b>-114.834</b>
+      <br>Depth : <b>8.0 constrained (m)</b>]]></description>
+      <styleUrl>#red</styleUrl>
+      <Style>
+         <IconStyle>
+            <scale>0.510</scale>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+         </IconStyle>
+      </Style>
+      <Point>
+         <coordinates>-114.834,41.206,0</coordinates>
+      </Point>
+   </Placemark>
+</Document>
+</kml>

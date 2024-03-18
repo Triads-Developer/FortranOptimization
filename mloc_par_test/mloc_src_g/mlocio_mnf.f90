@@ -13,7 +13,8 @@ subroutine read_mnf (iev, inn)
    
    include 'mloc.inc'
    
-   integer :: iev, inn, fv
+   integer :: iev, inn
+   real :: fv
    character(len=6) :: format_version
    character(len=15) :: format_line
    character(len=132) :: msg
@@ -37,7 +38,8 @@ subroutine read_mnf (iev, inn)
 		 if (format_version .eq. '1.3.4 ') then ! Current event data format
 			call read_mnf_134 (iev, inn)
 		 else
-			write (msg,'(3a)') 'read_mnf: MNF version (', trim(format_version), ') is not current'
+			write (msg,'(3a)') 'read_mnf: MNF version (', trim(format_version),&
+			 ') is supported but not current'
 			call warnings (trim(msg))
 			call read_mnf_13 (iev, inn, format_version)
 		 end if
@@ -486,7 +488,9 @@ subroutine read_mnf_134 (iev, inn)
          ! The output file is in the "generic" (type 3) format.
          ! A match, which causes a new entry in the supplemental station file, is based on
          ! "deployment/station code" from the MNF data file, and the date of the event must
-         ! be within the operational date range of the entry in the ISC-FDSN station metadata file.
+         ! be within the operational date range of the entry in the ISC-FDSN station metadata
+         ! file. At this time no operational dates are carried in the file so the default
+         ! (1900-2099) is used, meaning there is no check for operational epoch.
          if (kcode(iev,ird) .eq. -1 .and. ifsm) then ! kcode = -1 for stations not found in the current station list
             if (linein(81:82) .ne. '  ') then ! Don't bother checking if there is no network/deployment code in the phase record
             
@@ -497,7 +501,7 @@ subroutine read_mnf_134 (iev, inn)
                
                matched = .false.
                
-               ! First check against entries that have already been matched
+               ! First check against entries that have already been matched in earlier events
                if (n_ifsm_written .ge. 1) then
                   do i = 1,n_ifsm_written
                      if (ds_test .ne. ds_matched(i)) cycle ! Network/deployment code
@@ -508,7 +512,7 @@ subroutine read_mnf_134 (iev, inn)
                   end do
                end if
                
-               ! Test against the full data file
+               ! Test against the full ISC-FDSN data file
                if (.not.matched) then
                   if (n_ifsm_written .lt. n_ifsm_matched_max) then
                      do i = 1, n_ifsm_read
@@ -1145,11 +1149,11 @@ subroutine write_mnf_134 (io_unit, iev, it)
    character(len=5) :: dts_pr, fdp, fdm
    character(len=6) :: delt_pr
    character(len=125) :: linein
-   character(len=132) :: fmt, fmt0, fmt1, fmt2, fmt3, msg
+   character(len=132) :: fmt, fmt0, fmt1, fmt2, fmt3
    character(len=1) :: depth_code, usage
    integer :: io_unit, iev, ird, it, it1, calibration_type, hourpr, minpr, i, indx(ntmax0)
 !   integer :: scale_length
-   real :: dts, dot, alpha, xl1, xl2, ddep, lat_out, lon_out, lon_test, min_depth_uncertainty,&
+   real :: dts, dot, alpha, xl1, xl2, ddep, lat_out, lon_out, min_depth_uncertainty,&
     secpr, depth_out, deltiev(ntmax0)
    
    data min_depth_uncertainty/0.1/ ! Required by the format
@@ -1367,7 +1371,7 @@ end subroutine write_mnf_134
 subroutine write_mnf_14 (io_unit, iev, it)
 
 ! Write one event in MNF v1.4 format. This format is a variant of the standard format that
-! is used only for the ".comcat" output file.
+! is used only for the "~_gccel.dat" output file.
 ! 7/5/2015: v1.41, providing two decimal places of precision for residuals
 ! 11/16/2017: v1.4.2, adding deployment/network code to station code for each phase reading
 
@@ -1504,7 +1508,7 @@ subroutine write_mnf_14 (io_unit, iev, it)
    fmt3 = '(a1,1x,a1,1x,a6,1x,a8,1x,a6,1x,a3,1x,a8,1x,i4,4(1x,i2),1x,f6.3,1x,i2,1x,a6,1x,f5.2)'
    do ird = 1,nst(iev)
    
-      ! Some phase records are skipped for .comcat output
+      ! Some phase records are skipped for GCCEL output
       if (fcode(iev,ird) .eq. 'd') cycle ! skip duplicate readings
       if (fcode(iev,ird) .eq. 'm') cycle ! skip readings from missing stations
       if (fcode(iev,ird) .eq. 'p') cycle ! skip readings for problematic phases

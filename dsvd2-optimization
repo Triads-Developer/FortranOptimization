@@ -2,7 +2,7 @@
 
 The Fortran code snippet provided is an implementation of the Singular Value Decomposition (SVD) algorithm. The routine, `dsvd`, decomposes a given matrix \(A\) into three matrices \(U\), \(\Sigma\), and \(V^T\), such that \(A = U\Sigma V^T\). Below is a breakdown of the key components and functionality within the code:
 
-### Parameters:
+### Parameters
 
 - `ain`: Input matrix \(A\) of dimensions \(m \times n\).
 - `m`, `n`: The actual dimensions of the input matrix.
@@ -11,7 +11,7 @@ The Fortran code snippet provided is an implementation of the Singular Value Dec
 - `v`: Matrix \(V^T\), where \(V^T\) is the transpose of an orthogonal matrix containing the right singular vectors of \(A\).
 - `q`: The singular values of \(A\), which are stored in the diagonal matrix \(\Sigma\).
 
-### Steps in the Algorithm:
+### Steps in the Algorithm
 
 1. **Initialization**: The algorithm initializes variables and copies the input matrix `ain` to `u`, which will be manipulated to find \(U\).
 2. **Householder Reduction to Bidiagonal Form**: The first major step is to reduce the input matrix to a bidiagonal form using Householder transformations. This step is crucial as it simplifies the matrix, making it easier to compute the singular values and vectors.
@@ -20,7 +20,7 @@ The Fortran code snippet provided is an implementation of the Singular Value Dec
 5. **Diagonalization of the Bidiagonal Form**: The bidiagonal matrix is further processed to make it diagonal, where the non-zero elements are the singular values. This step is iterative and works towards minimizing the off-diagonal elements, effectively turning the matrix into a diagonal matrix containing the singular values.
 6. **Convergence and Final Adjustments**: The algorithm checks for convergence and makes final adjustments, including ensuring that singular values are positive and finalizing the construction of matrices \(U\), \(\Sigma\), and \(V^T\).
 
-### Special Considerations:
+### Special Considerations
 
 - `eps` and `tol` are thresholds for numerical precision and tolerance to avoid division by zero or negligible numbers that should be considered zero due to limited machine precision.
 - The algorithm doesn't call any subroutines and includes inline computations for matrix manipulations, making it self-contained.

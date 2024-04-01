@@ -1,6 +1,18 @@
 ## Implementation of Singular Value Decomposition (SVD) Algorithm
 
-The Fortran code snippet provided is an implementation of the Singular Value Decomposition (SVD) algorithm. The routine, `dsvd`, decomposes a given matrix \(A\) into three matrices \(U\), \(\Sigma\), and \(V^T\), such that \(A = U\Sigma V^T\). Below is a breakdown of the key components and functionality within the code:
+This repository contains a Fortran code implementation of the Singular Value Decomposition (SVD) algorithm. The core routine, `dsvd`, is designed to decompose a given matrix \(A\) into three matrices: \(U\), \(\Sigma\), and \(V^T\), enabling the expression \(A = U\Sigma V^T\). This process is critical for various applications including signal processing, statistics, and machine learning.
+
+## Key Components
+
+- **Routine `dsvd`**: Performs the decomposition of matrix \(A\) into \(U\), \(\Sigma\), and \(V^T\).
+
+## Functionality
+
+- **Matrix Decomposition**: The algorithm breaks down a specified matrix \(A\) into three essential components (\(U\), \(\Sigma\), and \(V^T\)) that can be used to reconstruct \(A\).
+
+## Performance Improvement
+
+This section aims to explore methodologies for enhancing the performance of the matrix inversion process, focusing on computational efficiency and accuracy.:
 
 ### Parameters:
 

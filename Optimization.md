@@ -4,7 +4,7 @@ This repository contains a Fortran code implementation of the Singular Value Dec
 
 ## Key Components
 
-- **Routine `dsvd`**: Performs the decomposition of matrix \(A\) into \(U\), \(\Sigma\), and \(V^T\).
+- **Routine `dsvd`**: Performs the decomposition of matrix   $\(A\) into \(U\), \(\Sigma\), and \(V^T\).
 
 ## Functionality
 

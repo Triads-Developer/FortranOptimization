@@ -8,7 +8,7 @@ This repository contains a Fortran code implementation of the Singular Value Dec
 
 ## Functionality
 
-- **Matrix Decomposition**: The algorithm breaks down a specified matrix \(A\) into three essential components (\(U\), \(\Sigma\), and \(V^T\)) that can be used to reconstruct \(A\).
+- **Matrix Decomposition**: The algorithm breaks down a specified matrix $\(A\)$ into three essential components (\(U\), \(\Sigma\), and \(V^T\)) that can be used to reconstruct \(A\).
 
 ## Performance Improvement
 
